@@ -48,3 +48,6 @@ The dataset contains 2,000 retail transactions with information including:
 The final Tableau dashboard summarizes the major findings using interactive visualizations.
 ## Project Outcome
 This project demonstrates the practical use of Tableau for exploratory data analysis, visualization, trend analysis, outlier investigation, relationship analysis, and business insight generation.
+Week 2 Dashboard Design Strategy.docx
+    Week_2_Dashboard_Wireframe.png
+    Week_2_Interaction_Flow.png
