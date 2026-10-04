@@ -1,0 +1,2001 @@
+Date,Time,StoreID,Location,Product,Quantity,UnitPrice,PaymentType,TransactionID,TotalPrice,Year,Month,MonthName,DayOfWeek
+2024-03-30,15:29:00,S3,Store C,Tablet,3,364.22,Gift Card,TX300000,1092.66,2024,3,March,Saturday
+2023-03-16,16:53:00,S1,Store B,Printer,9,384.74,Online,TX300001,3462.66,2023,3,March,Thursday
+2024-04-26,21:22:00,S9,Store B,Laptop,9,397.8,Debit Card,TX300002,3580.2,2024,4,April,Friday
+2025-02-08,14:28:00,S9,Store C,Monitor,7,80.27,Online,TX300003,561.89,2025,2,February,Saturday
+2024-06-17,20:00:00,S9,Store A,Monitor,10,214.03,Gift Card,TX300004,2140.3,2024,6,June,Monday
+2023-01-26,21:51:00,S4,Store B,Desk,7,51.37,Cash,TX300005,359.59,2023,1,January,Thursday
+2023-12-10,09:11:00,S6,Store A,Monitor,9,8.32,Debit Card,TX300006,74.88,2023,12,December,Sunday
+2023-08-13,20:36:00,S5,Store B,Chair,2,188.93,Cash,TX300007,377.86,2023,8,August,Sunday
+2024-05-17,16:42:00,S4,Store A,Phone,1,202.95,Credit Card,TX300008,202.95,2024,5,May,Friday
+2023-09-08,19:44:00,S5,Store C,Chair,5,142.04,Online,TX300009,710.2,2023,9,September,Friday
+2023-09-20,20:29:00,S7,Store D,Monitor,8,97.52,Online,TX300010,780.16,2023,9,September,Wednesday
+2024-02-16,12:03:00,S8,Store C,Desk,2,230.96,Online,TX300011,461.92,2024,2,February,Friday
+2024-09-13,21:08:00,S5,Store B,Phone,8,201.35,Gift Card,TX300012,1610.8,2024,9,September,Friday
+2025-06-17,15:41:00,S1,Store C,Laptop,10,40.96,Debit Card,TX300013,409.6,2025,6,June,Tuesday
+2023-02-03,09:32:00,S3,Store A,Monitor,1,88.74,Credit Card,TX300014,88.74,2023,2,February,Friday
+2024-02-01,20:21:00,S7,Store D,Printer,5,362.03,Debit Card,TX300015,1810.15,2024,2,February,Thursday
+2023-09-24,11:12:00,S2,Store D,Chair,3,26.78,Debit Card,TX300016,80.34,2023,9,September,Sunday
+2023-06-03,18:59:00,S2,Store B,Tablet,3,11.95,Credit Card,TX300017,35.85,2023,6,June,Saturday
+2023-02-24,14:49:00,S5,Store D,Desk,3,267.06,Credit Card,TX300018,801.18,2023,2,February,Friday
+2023-07-26,17:49:00,S8,Store A,Desk,3,297.14,Debit Card,TX300019,891.42,2023,7,July,Wednesday
+2023-10-16,10:32:00,S5,Store D,Printer,7,206.04,Cash,TX300020,1442.28,2023,10,October,Monday
+2024-08-18,14:34:00,S10,Store A,Monitor,8,289.99,Gift Card,TX300021,2319.92,2024,8,August,Sunday
+2023-07-31,21:07:00,S9,Store C,Printer,1,78.56,Online,TX300022,78.56,2023,7,July,Monday
+2024-08-02,20:43:00,S1,Store C,Phone,5,341.68,Online,TX300023,1708.4,2024,8,August,Friday
+2024-02-13,10:59:00,S7,Store A,Printer,5,347.45,Cash,TX300024,1737.25,2024,2,February,Tuesday
+2025-01-21,20:14:00,S6,Store C,Laptop,9,248.76,Online,TX300025,2238.84,2025,1,January,Tuesday
+2025-03-24,20:54:00,S2,Store B,Laptop,2,254.98,Online,TX300026,509.96,2025,3,March,Monday
+2023-03-06,17:17:00,S7,Store D,Printer,3,219.6,Debit Card,TX300027,658.8,2023,3,March,Monday
+2025-06-26,21:29:00,S3,Store B,Chair,6,311.11,Cash,TX300028,1866.66,2025,6,June,Thursday
+2025-06-17,15:13:00,S7,Store B,Laptop,5,41.09,Gift Card,TX300029,205.45,2025,6,June,Tuesday
+2023-10-26,09:43:00,S2,Store B,Phone,6,193.95,Gift Card,TX300030,1163.7,2023,10,October,Thursday
+2023-10-11,15:22:00,S2,Store A,Chair,1,177.74,Credit Card,TX300031,177.74,2023,10,October,Wednesday
+2024-12-13,20:27:00,S4,Store B,Phone,1,152.05,Debit Card,TX300032,152.05,2024,12,December,Friday
+2024-06-18,11:21:00,S5,Store A,Printer,7,139.58,Gift Card,TX300033,977.06,2024,6,June,Tuesday
+2023-10-26,20:03:00,S9,Store A,Chair,3,242.83,Debit Card,TX300034,728.49,2023,10,October,Thursday
+2024-02-02,16:46:00,S7,Store D,Monitor,8,191.77,Debit Card,TX300035,1534.16,2024,2,February,Friday
+2024-12-17,13:50:00,S5,Store A,Phone,3,335.3,Gift Card,TX300036,1005.9,2024,12,December,Tuesday
+2024-10-27,19:25:00,S2,Store A,Tablet,9,270.32,Gift Card,TX300037,2432.88,2024,10,October,Sunday
+2025-05-08,20:39:00,S4,Store C,Desk,4,256.29,Debit Card,TX300038,1025.16,2025,5,May,Thursday
+2024-08-09,13:50:00,S7,Store B,Laptop,1,314.48,Gift Card,TX300039,314.48,2024,8,August,Friday
+2023-04-15,21:33:00,S4,Store C,Laptop,2,347.71,Online,TX300040,695.42,2023,4,April,Saturday
+2024-06-20,15:39:00,S8,Store D,Printer,5,63.06,Cash,TX300041,315.3,2024,6,June,Thursday
+2024-06-21,17:10:00,S9,Store B,Laptop,4,234.54,Credit Card,TX300042,938.16,2024,6,June,Friday
+2024-01-28,14:08:00,S2,Store C,Printer,2,43.42,Cash,TX300043,86.84,2024,1,January,Sunday
+2024-01-03,16:33:00,S10,Store A,Phone,10,137.23,Gift Card,TX300044,1372.3,2024,1,January,Wednesday
+2024-05-31,18:22:00,S6,Store C,Chair,7,124.76,Gift Card,TX300045,873.32,2024,5,May,Friday
+2025-04-14,17:54:00,S2,Store C,Tablet,3,88.91,Online,TX300046,266.73,2025,4,April,Monday
+2025-04-29,10:08:00,S9,Store A,Phone,4,206.84,Online,TX300047,827.36,2025,4,April,Tuesday
+2024-03-08,19:51:00,S4,Store D,Printer,10,20.98,Cash,TX300048,209.8,2024,3,March,Friday
+2023-12-04,17:52:00,S5,Store D,Printer,3,40.09,Credit Card,TX300049,120.27,2023,12,December,Monday
+2024-11-22,14:18:00,S1,Store C,Printer,2,42.49,Cash,TX300050,84.98,2024,11,November,Friday
+2024-03-20,16:36:00,S4,Store B,Chair,9,49.99,Debit Card,TX300051,449.91,2024,3,March,Wednesday
+2023-02-27,12:28:00,S1,Store B,Phone,3,67.02,Gift Card,TX300052,201.06,2023,2,February,Monday
+2023-11-08,21:50:00,S9,Store D,Desk,4,8.47,Gift Card,TX300053,33.88,2023,11,November,Wednesday
+2025-01-25,17:17:00,S5,Store D,Phone,3,303.35,Debit Card,TX300054,910.05,2025,1,January,Saturday
+2023-05-15,12:52:00,S8,Store B,Laptop,7,101.59,Credit Card,TX300055,711.13,2023,5,May,Monday
+2024-05-11,19:58:00,S10,Store D,Chair,1,263.81,Gift Card,TX300056,263.81,2024,5,May,Saturday
+2025-01-04,19:25:00,S10,Store A,Desk,6,63.78,Online,TX300057,382.68,2025,1,January,Saturday
+2024-12-09,21:31:00,S7,Store D,Phone,7,294.17,Debit Card,TX300058,2059.19,2024,12,December,Monday
+2023-10-12,14:20:00,S10,Store D,Chair,6,338.25,Debit Card,TX300059,2029.5,2023,10,October,Thursday
+2025-02-25,13:09:00,S10,Store D,Tablet,8,286.5,Debit Card,TX300060,2292.0,2025,2,February,Tuesday
+2023-09-03,19:38:00,S3,Store D,Desk,7,221.11,Gift Card,TX300061,1547.77,2023,9,September,Sunday
+2023-07-05,17:44:00,S8,Store C,Printer,2,367.88,Cash,TX300062,735.76,2023,7,July,Wednesday
+2023-11-08,14:37:00,S9,Store C,Laptop,7,388.02,Credit Card,TX300063,2716.14,2023,11,November,Wednesday
+2023-11-15,17:05:00,S6,Store C,Laptop,5,121.92,Online,TX300064,609.6,2023,11,November,Wednesday
+2023-08-24,18:57:00,S7,Store C,Printer,10,306.37,Cash,TX300065,3063.7,2023,8,August,Thursday
+2023-01-31,15:30:00,S1,Store C,Phone,10,241.6,Debit Card,TX300066,2416.0,2023,1,January,Tuesday
+2023-11-06,20:56:00,S1,Store B,Desk,8,354.29,Gift Card,TX300067,2834.32,2023,11,November,Monday
+2023-03-16,11:33:00,S6,Store D,Tablet,4,133.01,Debit Card,TX300068,532.04,2023,3,March,Thursday
+2025-03-04,19:04:00,S5,Store C,Phone,1,72.55,Gift Card,TX300069,72.55,2025,3,March,Tuesday
+2023-04-20,09:49:00,S8,Store C,Desk,8,200.64,Debit Card,TX300070,1605.12,2023,4,April,Thursday
+2023-05-16,21:12:00,S9,Store C,Phone,5,297.21,Debit Card,TX300071,1486.05,2023,5,May,Tuesday
+2024-01-08,14:06:00,S5,Store D,Chair,2,171.3,Cash,TX300072,342.6,2024,1,January,Monday
+2023-01-29,13:52:00,S8,Store D,Phone,9,158.37,Credit Card,TX300073,1425.33,2023,1,January,Sunday
+2024-07-27,21:36:00,S5,Store D,Monitor,6,98.03,Online,TX300074,588.18,2024,7,July,Saturday
+2023-01-11,18:40:00,S6,Store D,Tablet,7,47.84,Credit Card,TX300075,334.88,2023,1,January,Wednesday
+2024-11-07,11:15:00,S2,Store D,Printer,7,361.31,Debit Card,TX300076,2529.17,2024,11,November,Thursday
+2025-06-17,13:49:00,S9,Store D,Laptop,4,346.87,Credit Card,TX300077,1387.48,2025,6,June,Tuesday
+2024-10-08,10:19:00,S1,Store C,Monitor,3,140.31,Gift Card,TX300078,420.93,2024,10,October,Tuesday
+2025-06-17,17:07:00,S9,Store C,Chair,4,209.05,Credit Card,TX300079,836.2,2025,6,June,Tuesday
+2023-05-20,19:03:00,S7,Store C,Phone,9,173.09,Cash,TX300080,1557.81,2023,5,May,Saturday
+2023-07-21,19:26:00,S4,Store D,Monitor,7,67.36,Cash,TX300081,471.52,2023,7,July,Friday
+2024-06-17,16:34:00,S8,Store C,Printer,5,319.05,Credit Card,TX300082,1595.25,2024,6,June,Monday
+2023-06-15,14:34:00,S2,Store C,Desk,6,7.32,Debit Card,TX300083,43.92,2023,6,June,Thursday
+2024-08-13,11:07:00,S10,Store B,Chair,2,26.32,Gift Card,TX300084,52.64,2024,8,August,Tuesday
+2024-02-10,09:07:00,S4,Store A,Phone,1,61.14,Gift Card,TX300085,61.14,2024,2,February,Saturday
+2024-10-25,11:16:00,S10,Store C,Laptop,4,350.33,Online,TX300086,1401.32,2024,10,October,Friday
+2023-03-11,17:27:00,S2,Store B,Monitor,6,202.73,Credit Card,TX300087,1216.38,2023,3,March,Saturday
+2025-04-22,10:24:00,S4,Store A,Tablet,3,153.96,Credit Card,TX300088,461.88,2025,4,April,Tuesday
+2024-11-07,20:09:00,S8,Store C,Phone,6,309.7,Cash,TX300089,1858.2,2024,11,November,Thursday
+2023-06-16,19:35:00,S7,Store D,Laptop,7,107.49,Cash,TX300090,752.43,2023,6,June,Friday
+2024-07-23,16:48:00,S10,Store D,Desk,3,294.7,Credit Card,TX300091,884.1,2024,7,July,Tuesday
+2024-11-05,21:00:00,S10,Store C,Desk,7,354.08,Gift Card,TX300092,2478.56,2024,11,November,Tuesday
+2024-02-14,20:03:00,S4,Store C,Desk,3,267.22,Credit Card,TX300093,801.66,2024,2,February,Wednesday
+2025-05-20,17:23:00,S5,Store C,Printer,7,190.84,Gift Card,TX300094,1335.88,2025,5,May,Tuesday
+2025-06-20,15:14:00,S7,Store C,Laptop,5,238.89,Online,TX300095,1194.45,2025,6,June,Friday
+2024-02-20,20:41:00,S8,Store D,Tablet,2,45.28,Cash,TX300096,90.56,2024,2,February,Tuesday
+2023-02-17,12:49:00,S6,Store D,Printer,6,139.32,Credit Card,TX300097,835.92,2023,2,February,Friday
+2024-07-02,11:25:00,S7,Store C,Desk,7,359.29,Gift Card,TX300098,2515.03,2024,7,July,Tuesday
+2024-07-19,16:25:00,S6,Store B,Monitor,1,160.26,Online,TX300099,160.26,2024,7,July,Friday
+2024-03-20,14:56:00,S9,Store C,Desk,9,195.91,Credit Card,TX300100,1763.19,2024,3,March,Wednesday
+2024-08-01,09:27:00,S6,Store A,Phone,2,273.4,Debit Card,TX300101,546.8,2024,8,August,Thursday
+2024-05-06,17:10:00,S3,Store A,Laptop,5,78.56,Debit Card,TX300102,392.8,2024,5,May,Monday
+2024-07-26,09:53:00,S1,Store C,Chair,2,82.84,Online,TX300103,165.68,2024,7,July,Friday
+2024-12-24,12:38:00,S2,Store B,Phone,10,211.91,Credit Card,TX300104,2119.1,2024,12,December,Tuesday
+2024-10-31,09:23:00,S7,Store C,Phone,2,327.69,Gift Card,TX300105,655.38,2024,10,October,Thursday
+2024-12-30,10:56:00,S4,Store D,Desk,4,335.41,Debit Card,TX300106,1341.64,2024,12,December,Monday
+2025-02-01,18:15:00,S9,Store A,Printer,9,131.76,Cash,TX300107,1185.84,2025,2,February,Saturday
+2025-04-30,19:17:00,S10,Store C,Desk,1,215.47,Gift Card,TX300108,215.47,2025,4,April,Wednesday
+2025-04-05,15:08:00,S10,Store C,Printer,6,194.66,Cash,TX300109,1167.96,2025,4,April,Saturday
+2024-01-26,11:26:00,S7,Store D,Laptop,1,308.26,Online,TX300110,308.26,2024,1,January,Friday
+2024-08-18,15:42:00,S7,Store B,Phone,8,104.13,Debit Card,TX300111,833.04,2024,8,August,Sunday
+2025-06-13,09:30:00,S9,Store C,Phone,7,398.83,Debit Card,TX300112,2791.81,2025,6,June,Friday
+2024-06-18,20:33:00,S9,Store B,Phone,7,52.68,Gift Card,TX300113,368.76,2024,6,June,Tuesday
+2023-02-22,09:09:00,S10,Store B,Desk,8,82.48,Online,TX300114,659.84,2023,2,February,Wednesday
+2024-05-02,20:24:00,S6,Store D,Phone,10,346.62,Online,TX300115,3466.2,2024,5,May,Thursday
+2025-01-24,20:32:00,S1,Store C,Tablet,9,302.23,Credit Card,TX300116,2720.07,2025,1,January,Friday
+2023-09-07,21:22:00,S9,Store C,Monitor,10,355.74,Cash,TX300117,3557.4,2023,9,September,Thursday
+2024-02-02,15:06:00,S4,Store C,Tablet,4,329.07,Credit Card,TX300118,1316.28,2024,2,February,Friday
+2024-03-21,09:04:00,S7,Store A,Printer,4,217.89,Credit Card,TX300119,871.56,2024,3,March,Thursday
+2023-12-06,11:18:00,S10,Store A,Phone,10,35.68,Debit Card,TX300120,356.8,2023,12,December,Wednesday
+2023-05-03,17:31:00,S8,Store D,Printer,10,363.63,Credit Card,TX300121,3636.3,2023,5,May,Wednesday
+2024-01-08,20:18:00,S9,Store D,Chair,8,157.94,Gift Card,TX300122,1263.52,2024,1,January,Monday
+2024-02-27,13:38:00,S7,Store A,Desk,10,314.01,Credit Card,TX300123,3140.1,2024,2,February,Tuesday
+2023-03-23,20:57:00,S7,Store D,Phone,4,199.4,Gift Card,TX300124,797.6,2023,3,March,Thursday
+2024-05-17,12:37:00,S8,Store A,Desk,10,254.52,Online,TX300125,2545.2,2024,5,May,Friday
+2024-05-08,20:06:00,S1,Store A,Monitor,5,377.06,Online,TX300126,1885.3,2024,5,May,Wednesday
+2024-02-17,15:25:00,S2,Store C,Tablet,3,40.24,Debit Card,TX300127,120.72,2024,2,February,Saturday
+2023-05-28,15:34:00,S7,Store D,Printer,1,347.26,Credit Card,TX300128,347.26,2023,5,May,Sunday
+2023-10-28,09:11:00,S7,Store C,Tablet,2,229.45,Gift Card,TX300129,458.9,2023,10,October,Saturday
+2024-04-23,13:55:00,S1,Store C,Desk,1,31.5,Debit Card,TX300130,31.5,2024,4,April,Tuesday
+2024-09-01,14:54:00,S9,Store D,Phone,2,120.0,Credit Card,TX300131,240.0,2024,9,September,Sunday
+2023-03-21,13:18:00,S3,Store B,Monitor,7,126.69,Credit Card,TX300132,886.83,2023,3,March,Tuesday
+2025-02-20,12:50:00,S1,Store B,Printer,6,221.43,Cash,TX300133,1328.58,2025,2,February,Thursday
+2025-05-30,21:10:00,S7,Store C,Monitor,8,357.5,Cash,TX300134,2860.0,2025,5,May,Friday
+2023-07-03,12:31:00,S1,Store B,Monitor,1,256.49,Debit Card,TX300135,256.49,2023,7,July,Monday
+2023-05-19,12:44:00,S3,Store A,Desk,2,303.65,Cash,TX300136,607.3,2023,5,May,Friday
+2023-01-21,14:25:00,S6,Store A,Laptop,7,254.89,Online,TX300137,1784.23,2023,1,January,Saturday
+2023-01-30,14:04:00,S5,Store D,Chair,9,102.38,Gift Card,TX300138,921.42,2023,1,January,Monday
+2024-02-10,11:55:00,S8,Store C,Laptop,10,380.63,Online,TX300139,3806.3,2024,2,February,Saturday
+2024-02-25,14:10:00,S5,Store B,Monitor,5,252.42,Cash,TX300140,1262.1,2024,2,February,Sunday
+2024-07-14,21:03:00,S3,Store C,Chair,3,207.33,Gift Card,TX300141,621.99,2024,7,July,Sunday
+2024-03-16,13:01:00,S3,Store B,Phone,3,269.43,Online,TX300142,808.29,2024,3,March,Saturday
+2024-12-16,16:34:00,S2,Store A,Tablet,1,366.47,Credit Card,TX300143,366.47,2024,12,December,Monday
+2024-03-09,09:31:00,S8,Store D,Chair,3,180.96,Online,TX300144,542.88,2024,3,March,Saturday
+2023-12-30,10:35:00,S8,Store A,Phone,4,67.39,Debit Card,TX300145,269.56,2023,12,December,Saturday
+2024-11-10,13:58:00,S1,Store A,Desk,4,312.88,Credit Card,TX300146,1251.52,2024,11,November,Sunday
+2023-06-30,20:47:00,S5,Store C,Printer,10,312.51,Gift Card,TX300147,3125.1,2023,6,June,Friday
+2023-04-25,18:51:00,S6,Store A,Laptop,6,67.61,Debit Card,TX300148,405.66,2023,4,April,Tuesday
+2024-02-19,13:37:00,S7,Store C,Desk,6,58.92,Online,TX300149,353.52,2024,2,February,Monday
+2024-11-28,11:12:00,S1,Store C,Desk,7,230.74,Gift Card,TX300150,1615.18,2024,11,November,Thursday
+2024-08-11,10:39:00,S10,Store D,Chair,10,19.49,Credit Card,TX300151,194.9,2024,8,August,Sunday
+2023-10-09,10:32:00,S5,Store C,Laptop,2,373.03,Debit Card,TX300152,746.06,2023,10,October,Monday
+2024-02-05,15:39:00,S4,Store D,Desk,6,338.2,Online,TX300153,2029.2,2024,2,February,Monday
+2024-11-17,12:00:00,S4,Store D,Chair,1,8.05,Gift Card,TX300154,8.05,2024,11,November,Sunday
+2023-12-01,09:47:00,S3,Store C,Laptop,4,310.75,Gift Card,TX300155,1243.0,2023,12,December,Friday
+2024-04-12,17:41:00,S8,Store A,Phone,3,76.92,Gift Card,TX300156,230.76,2024,4,April,Friday
+2024-07-31,21:01:00,S9,Store D,Phone,10,33.46,Online,TX300157,334.6,2024,7,July,Wednesday
+2025-06-08,10:45:00,S10,Store B,Printer,10,27.94,Cash,TX300158,279.4,2025,6,June,Sunday
+2023-04-05,12:34:00,S8,Store A,Chair,1,35.84,Cash,TX300159,35.84,2023,4,April,Wednesday
+2023-05-08,10:05:00,S4,Store B,Monitor,5,326.65,Credit Card,TX300160,1633.25,2023,5,May,Monday
+2024-01-30,20:57:00,S9,Store B,Monitor,7,300.35,Credit Card,TX300161,2102.45,2024,1,January,Tuesday
+2025-05-23,20:03:00,S4,Store D,Laptop,4,368.51,Debit Card,TX300162,1474.04,2025,5,May,Friday
+2023-01-24,16:56:00,S9,Store C,Chair,5,59.26,Gift Card,TX300163,296.3,2023,1,January,Tuesday
+2025-01-20,20:13:00,S2,Store C,Laptop,9,55.64,Gift Card,TX300164,500.76,2025,1,January,Monday
+2023-01-31,17:06:00,S10,Store A,Phone,6,129.21,Credit Card,TX300165,775.26,2023,1,January,Tuesday
+2024-08-05,16:55:00,S9,Store B,Phone,4,162.23,Online,TX300166,648.92,2024,8,August,Monday
+2024-09-14,09:10:00,S4,Store A,Chair,9,146.65,Cash,TX300167,1319.85,2024,9,September,Saturday
+2024-07-27,18:49:00,S5,Store B,Phone,9,77.17,Debit Card,TX300168,694.53,2024,7,July,Saturday
+2023-05-24,12:04:00,S10,Store D,Monitor,5,216.28,Debit Card,TX300169,1081.4,2023,5,May,Wednesday
+2023-01-06,19:03:00,S8,Store A,Phone,3,395.53,Credit Card,TX300170,1186.59,2023,1,January,Friday
+2024-08-04,20:43:00,S8,Store D,Tablet,7,30.8,Gift Card,TX300171,215.6,2024,8,August,Sunday
+2023-09-21,18:53:00,S2,Store D,Laptop,5,181.86,Online,TX300172,909.3,2023,9,September,Thursday
+2024-05-05,11:43:00,S5,Store C,Monitor,6,113.53,Debit Card,TX300173,681.18,2024,5,May,Sunday
+2023-11-07,18:26:00,S1,Store B,Laptop,10,215.64,Gift Card,TX300174,2156.4,2023,11,November,Tuesday
+2023-11-28,20:08:00,S4,Store B,Monitor,9,398.75,Online,TX300175,3588.75,2023,11,November,Tuesday
+2024-07-14,14:59:00,S6,Store D,Desk,7,148.14,Gift Card,TX300176,1036.98,2024,7,July,Sunday
+2023-02-08,13:57:00,S10,Store B,Printer,7,258.69,Credit Card,TX300177,1810.83,2023,2,February,Wednesday
+2023-07-18,11:59:00,S6,Store D,Monitor,7,114.76,Gift Card,TX300178,803.32,2023,7,July,Tuesday
+2023-05-27,14:14:00,S4,Store A,Phone,3,58.45,Cash,TX300179,175.35,2023,5,May,Saturday
+2023-05-15,19:19:00,S8,Store C,Monitor,10,238.87,Gift Card,TX300180,2388.7,2023,5,May,Monday
+2025-06-16,21:50:00,S7,Store C,Desk,9,222.61,Debit Card,TX300181,2003.49,2025,6,June,Monday
+2024-10-29,09:36:00,S7,Store D,Printer,6,154.89,Gift Card,TX300182,929.34,2024,10,October,Tuesday
+2024-01-05,12:47:00,S5,Store C,Laptop,6,397.85,Debit Card,TX300183,2387.1,2024,1,January,Friday
+2023-04-05,16:47:00,S7,Store A,Tablet,10,12.93,Credit Card,TX300184,129.3,2023,4,April,Wednesday
+2023-01-14,19:42:00,S5,Store D,Tablet,2,223.23,Debit Card,TX300185,446.46,2023,1,January,Saturday
+2023-06-18,20:21:00,S3,Store D,Desk,6,218.42,Gift Card,TX300186,1310.52,2023,6,June,Sunday
+2025-01-02,20:08:00,S8,Store B,Printer,6,250.83,Credit Card,TX300187,1504.98,2025,1,January,Thursday
+2025-04-13,09:28:00,S3,Store A,Monitor,5,207.59,Gift Card,TX300188,1037.95,2025,4,April,Sunday
+2025-04-05,11:13:00,S2,Store B,Monitor,3,79.33,Credit Card,TX300189,237.99,2025,4,April,Saturday
+2023-03-24,11:42:00,S2,Store B,Monitor,6,75.73,Gift Card,TX300190,454.38,2023,3,March,Friday
+2024-07-31,18:33:00,S10,Store A,Chair,3,198.77,Debit Card,TX300191,596.31,2024,7,July,Wednesday
+2024-03-05,20:34:00,S2,Store D,Desk,8,368.51,Credit Card,TX300192,2948.08,2024,3,March,Tuesday
+2023-03-11,20:03:00,S4,Store D,Tablet,3,280.12,Cash,TX300193,840.36,2023,3,March,Saturday
+2023-11-01,18:42:00,S9,Store C,Phone,10,258.27,Gift Card,TX300194,2582.7,2023,11,November,Wednesday
+2023-11-19,11:53:00,S6,Store C,Laptop,4,208.83,Online,TX300195,835.32,2023,11,November,Sunday
+2024-07-26,16:10:00,S7,Store C,Chair,7,109.79,Debit Card,TX300196,768.53,2024,7,July,Friday
+2024-03-19,12:59:00,S2,Store C,Monitor,6,285.26,Credit Card,TX300197,1711.56,2024,3,March,Tuesday
+2023-05-23,19:04:00,S8,Store B,Monitor,6,393.87,Credit Card,TX300198,2363.22,2023,5,May,Tuesday
+2024-09-04,19:11:00,S7,Store C,Laptop,7,373.31,Online,TX300199,2613.17,2024,9,September,Wednesday
+2023-06-25,19:46:00,S1,Store B,Laptop,8,27.43,Debit Card,TX300200,219.44,2023,6,June,Sunday
+2023-05-25,18:16:00,S6,Store A,Printer,5,320.56,Cash,TX300201,1602.8,2023,5,May,Thursday
+2023-04-16,14:57:00,S10,Store B,Phone,8,347.37,Gift Card,TX300202,2778.96,2023,4,April,Sunday
+2023-02-20,14:13:00,S4,Store B,Monitor,6,201.85,Online,TX300203,1211.1,2023,2,February,Monday
+2025-03-16,15:01:00,S10,Store A,Tablet,8,28.73,Debit Card,TX300204,229.84,2025,3,March,Sunday
+2023-02-02,17:48:00,S7,Store D,Printer,2,195.86,Cash,TX300205,391.72,2023,2,February,Thursday
+2024-05-26,21:15:00,S8,Store A,Chair,9,362.87,Debit Card,TX300206,3265.83,2024,5,May,Sunday
+2024-03-23,21:41:00,S4,Store B,Printer,9,80.34,Debit Card,TX300207,723.06,2024,3,March,Saturday
+2023-04-01,18:19:00,S4,Store C,Monitor,5,363.82,Cash,TX300208,1819.1,2023,4,April,Saturday
+2024-08-16,21:27:00,S6,Store B,Desk,9,33.81,Debit Card,TX300209,304.29,2024,8,August,Friday
+2024-10-20,20:43:00,S5,Store A,Desk,1,72.67,Credit Card,TX300210,72.67,2024,10,October,Sunday
+2023-02-08,14:29:00,S3,Store D,Phone,3,94.42,Cash,TX300211,283.26,2023,2,February,Wednesday
+2023-11-12,09:56:00,S9,Store D,Printer,5,337.42,Cash,TX300212,1687.1,2023,11,November,Sunday
+2024-12-05,14:11:00,S4,Store D,Tablet,10,382.99,Credit Card,TX300213,3829.9,2024,12,December,Thursday
+2024-12-01,18:07:00,S2,Store B,Chair,4,42.85,Credit Card,TX300214,171.4,2024,12,December,Sunday
+2023-06-14,15:11:00,S6,Store C,Desk,10,210.94,Debit Card,TX300215,2109.4,2023,6,June,Wednesday
+2023-02-23,20:02:00,S8,Store A,Printer,4,125.66,Debit Card,TX300216,502.64,2023,2,February,Thursday
+2023-08-16,18:46:00,S2,Store D,Laptop,6,266.69,Online,TX300217,1600.14,2023,8,August,Wednesday
+2025-03-24,16:28:00,S9,Store B,Desk,5,33.64,Gift Card,TX300218,168.2,2025,3,March,Monday
+2023-06-16,18:04:00,S5,Store A,Monitor,1,226.69,Debit Card,TX300219,226.69,2023,6,June,Friday
+2023-03-02,15:50:00,S6,Store C,Laptop,10,48.17,Cash,TX300220,481.7,2023,3,March,Thursday
+2023-03-26,16:39:00,S5,Store D,Desk,9,324.63,Cash,TX300221,2921.67,2023,3,March,Sunday
+2025-06-26,09:52:00,S4,Store D,Phone,10,399.74,Credit Card,TX300222,3997.4,2025,6,June,Thursday
+2024-12-11,19:47:00,S4,Store B,Tablet,10,309.33,Debit Card,TX300223,3093.3,2024,12,December,Wednesday
+2023-01-13,14:25:00,S4,Store A,Chair,8,133.51,Credit Card,TX300224,1068.08,2023,1,January,Friday
+2024-07-31,10:01:00,S3,Store A,Printer,9,244.78,Online,TX300225,2203.02,2024,7,July,Wednesday
+2025-01-10,09:07:00,S3,Store A,Monitor,5,122.53,Gift Card,TX300226,612.65,2025,1,January,Friday
+2023-06-12,21:49:00,S6,Store C,Tablet,5,133.33,Online,TX300227,666.65,2023,6,June,Monday
+2024-06-02,09:50:00,S5,Store A,Tablet,3,303.35,Cash,TX300228,910.05,2024,6,June,Sunday
+2025-06-01,16:39:00,S4,Store D,Phone,4,294.28,Debit Card,TX300229,1177.12,2025,6,June,Sunday
+2023-07-02,11:06:00,S5,Store D,Printer,4,201.46,Debit Card,TX300230,805.84,2023,7,July,Sunday
+2024-03-20,18:39:00,S7,Store C,Chair,2,354.14,Gift Card,TX300231,708.28,2024,3,March,Wednesday
+2023-09-02,13:47:00,S8,Store C,Tablet,1,142.57,Gift Card,TX300232,142.57,2023,9,September,Saturday
+2024-06-09,10:27:00,S4,Store B,Laptop,10,172.32,Online,TX300233,1723.2,2024,6,June,Sunday
+2025-01-14,15:45:00,S2,Store D,Chair,9,195.04,Debit Card,TX300234,1755.36,2025,1,January,Tuesday
+2024-07-04,13:34:00,S3,Store A,Tablet,8,298.8,Credit Card,TX300235,2390.4,2024,7,July,Thursday
+2023-06-14,20:08:00,S4,Store D,Printer,1,51.87,Online,TX300236,51.87,2023,6,June,Wednesday
+2024-04-27,17:51:00,S6,Store A,Tablet,5,58.51,Gift Card,TX300237,292.55,2024,4,April,Saturday
+2023-10-15,12:15:00,S10,Store D,Tablet,7,65.57,Credit Card,TX300238,458.99,2023,10,October,Sunday
+2025-02-04,21:30:00,S4,Store B,Laptop,9,73.62,Online,TX300239,662.58,2025,2,February,Tuesday
+2024-10-23,12:31:00,S2,Store A,Phone,10,282.75,Credit Card,TX300240,2827.5,2024,10,October,Wednesday
+2024-06-28,11:31:00,S8,Store C,Phone,8,112.39,Online,TX300241,899.12,2024,6,June,Friday
+2023-09-12,09:44:00,S9,Store A,Monitor,2,215.6,Online,TX300242,431.2,2023,9,September,Tuesday
+2023-09-28,11:31:00,S10,Store B,Laptop,10,242.6,Cash,TX300243,2426.0,2023,9,September,Thursday
+2023-04-11,13:42:00,S9,Store A,Laptop,4,20.47,Online,TX300244,81.88,2023,4,April,Tuesday
+2023-06-23,14:37:00,S7,Store D,Phone,4,257.19,Gift Card,TX300245,1028.76,2023,6,June,Friday
+2023-11-10,14:03:00,S5,Store D,Monitor,10,130.81,Cash,TX300246,1308.1,2023,11,November,Friday
+2025-02-25,18:55:00,S5,Store A,Laptop,4,295.25,Gift Card,TX300247,1181.0,2025,2,February,Tuesday
+2024-10-14,11:40:00,S1,Store B,Desk,9,311.23,Credit Card,TX300248,2801.07,2024,10,October,Monday
+2024-07-19,15:31:00,S4,Store C,Monitor,9,85.04,Gift Card,TX300249,765.36,2024,7,July,Friday
+2024-05-31,13:39:00,S3,Store D,Desk,5,354.97,Online,TX300250,1774.85,2024,5,May,Friday
+2023-07-13,11:01:00,S9,Store D,Phone,2,300.88,Cash,TX300251,601.76,2023,7,July,Thursday
+2024-08-24,13:19:00,S3,Store A,Laptop,10,248.55,Debit Card,TX300252,2485.5,2024,8,August,Saturday
+2023-02-20,13:23:00,S4,Store B,Phone,5,237.09,Online,TX300253,1185.45,2023,2,February,Monday
+2023-08-05,19:53:00,S1,Store D,Laptop,5,45.97,Gift Card,TX300254,229.85,2023,8,August,Saturday
+2024-01-26,17:41:00,S8,Store B,Laptop,8,158.02,Online,TX300255,1264.16,2024,1,January,Friday
+2023-09-08,14:12:00,S7,Store A,Desk,4,217.07,Credit Card,TX300256,868.28,2023,9,September,Friday
+2023-06-17,15:18:00,S7,Store C,Monitor,7,229.82,Debit Card,TX300257,1608.74,2023,6,June,Saturday
+2023-04-21,15:56:00,S1,Store B,Monitor,10,310.02,Cash,TX300258,3100.2,2023,4,April,Friday
+2023-05-20,20:18:00,S8,Store D,Phone,10,294.99,Cash,TX300259,2949.9,2023,5,May,Saturday
+2024-02-20,11:22:00,S3,Store D,Desk,7,228.97,Credit Card,TX300260,1602.79,2024,2,February,Tuesday
+2025-02-01,17:58:00,S6,Store B,Laptop,4,173.42,Gift Card,TX300261,693.68,2025,2,February,Saturday
+2023-08-09,20:09:00,S10,Store B,Phone,4,392.47,Online,TX300262,1569.88,2023,8,August,Wednesday
+2023-11-13,15:23:00,S3,Store A,Phone,5,68.88,Credit Card,TX300263,344.4,2023,11,November,Monday
+2024-10-18,13:49:00,S8,Store D,Chair,6,335.39,Credit Card,TX300264,2012.34,2024,10,October,Friday
+2024-02-19,13:26:00,S4,Store D,Laptop,4,29.05,Online,TX300265,116.2,2024,2,February,Monday
+2023-02-26,19:53:00,S9,Store B,Tablet,3,152.75,Online,TX300266,458.25,2023,2,February,Sunday
+2024-03-13,18:05:00,S4,Store A,Monitor,8,231.47,Debit Card,TX300267,1851.76,2024,3,March,Wednesday
+2025-06-12,13:27:00,S9,Store A,Laptop,9,328.28,Debit Card,TX300268,2954.52,2025,6,June,Thursday
+2025-05-17,11:13:00,S9,Store A,Chair,9,254.76,Debit Card,TX300269,2292.84,2025,5,May,Saturday
+2023-05-06,16:02:00,S1,Store B,Printer,3,174.62,Debit Card,TX300270,523.86,2023,5,May,Saturday
+2024-02-13,20:25:00,S1,Store C,Desk,2,332.06,Gift Card,TX300271,664.12,2024,2,February,Tuesday
+2023-10-21,10:43:00,S8,Store B,Printer,5,170.02,Credit Card,TX300272,850.1,2023,10,October,Saturday
+2024-11-17,21:52:00,S9,Store A,Monitor,3,17.98,Online,TX300273,53.94,2024,11,November,Sunday
+2023-03-13,11:27:00,S4,Store B,Laptop,1,188.28,Credit Card,TX300274,188.28,2023,3,March,Monday
+2024-11-21,14:11:00,S5,Store B,Desk,1,380.74,Credit Card,TX300275,380.74,2024,11,November,Thursday
+2023-03-09,16:06:00,S1,Store C,Phone,8,396.79,Credit Card,TX300276,3174.32,2023,3,March,Thursday
+2024-07-02,17:40:00,S2,Store D,Monitor,3,86.64,Online,TX300277,259.92,2024,7,July,Tuesday
+2024-12-23,20:01:00,S2,Store D,Monitor,8,45.99,Cash,TX300278,367.92,2024,12,December,Monday
+2023-12-04,09:58:00,S7,Store B,Monitor,1,201.06,Debit Card,TX300279,201.06,2023,12,December,Monday
+2024-12-31,12:48:00,S9,Store B,Desk,7,206.22,Online,TX300280,1443.54,2024,12,December,Tuesday
+2023-01-25,13:10:00,S10,Store B,Desk,3,18.59,Credit Card,TX300281,55.77,2023,1,January,Wednesday
+2024-08-11,17:16:00,S6,Store A,Monitor,5,164.32,Debit Card,TX300282,821.6,2024,8,August,Sunday
+2025-06-12,11:30:00,S6,Store D,Printer,9,249.93,Gift Card,TX300283,2249.37,2025,6,June,Thursday
+2023-06-28,10:55:00,S9,Store A,Tablet,8,216.91,Cash,TX300284,1735.28,2023,6,June,Wednesday
+2023-10-07,10:24:00,S4,Store B,Monitor,1,53.75,Credit Card,TX300285,53.75,2023,10,October,Saturday
+2025-03-10,15:15:00,S1,Store B,Tablet,3,149.79,Online,TX300286,449.37,2025,3,March,Monday
+2023-03-26,11:08:00,S5,Store B,Laptop,5,133.72,Credit Card,TX300287,668.6,2023,3,March,Sunday
+2023-03-18,19:42:00,S3,Store B,Monitor,1,305.19,Cash,TX300288,305.19,2023,3,March,Saturday
+2025-06-11,13:05:00,S8,Store C,Tablet,10,287.93,Cash,TX300289,2879.3,2025,6,June,Wednesday
+2023-05-17,10:10:00,S7,Store A,Tablet,10,356.74,Debit Card,TX300290,3567.4,2023,5,May,Wednesday
+2024-02-16,19:48:00,S10,Store C,Chair,10,105.45,Cash,TX300291,1054.5,2024,2,February,Friday
+2024-11-07,19:10:00,S1,Store A,Printer,10,369.1,Credit Card,TX300292,3691.0,2024,11,November,Thursday
+2024-12-04,13:05:00,S9,Store C,Chair,8,62.29,Debit Card,TX300293,498.32,2024,12,December,Wednesday
+2023-05-11,10:46:00,S4,Store D,Tablet,3,168.63,Cash,TX300294,505.89,2023,5,May,Thursday
+2025-02-17,09:17:00,S5,Store D,Phone,4,153.75,Gift Card,TX300295,615.0,2025,2,February,Monday
+2023-03-21,19:11:00,S9,Store C,Desk,7,24.39,Online,TX300296,170.73,2023,3,March,Tuesday
+2025-01-10,12:38:00,S1,Store C,Monitor,3,258.74,Debit Card,TX300297,776.22,2025,1,January,Friday
+2025-01-10,09:21:00,S1,Store C,Chair,10,19.72,Cash,TX300298,197.2,2025,1,January,Friday
+2025-04-13,15:29:00,S10,Store C,Printer,1,60.07,Credit Card,TX300299,60.07,2025,4,April,Sunday
+2023-01-02,14:24:00,S7,Store C,Phone,3,112.59,Debit Card,TX300300,337.77,2023,1,January,Monday
+2024-09-16,10:27:00,S6,Store D,Printer,7,19.21,Online,TX300301,134.47,2024,9,September,Monday
+2024-03-08,20:26:00,S6,Store D,Printer,6,140.38,Online,TX300302,842.28,2024,3,March,Friday
+2023-03-05,11:57:00,S9,Store C,Tablet,8,182.9,Online,TX300303,1463.2,2023,3,March,Sunday
+2024-06-27,15:08:00,S8,Store B,Tablet,4,311.31,Cash,TX300304,1245.24,2024,6,June,Thursday
+2023-06-19,18:57:00,S1,Store A,Desk,4,323.46,Gift Card,TX300305,1293.84,2023,6,June,Monday
+2023-10-13,14:47:00,S7,Store A,Phone,3,287.54,Debit Card,TX300306,862.62,2023,10,October,Friday
+2023-11-06,10:36:00,S6,Store D,Printer,8,224.47,Cash,TX300307,1795.76,2023,11,November,Monday
+2024-09-28,09:03:00,S2,Store B,Monitor,4,134.1,Credit Card,TX300308,536.4,2024,9,September,Saturday
+2024-10-15,09:24:00,S7,Store D,Phone,10,238.98,Credit Card,TX300309,2389.8,2024,10,October,Tuesday
+2023-10-18,09:05:00,S1,Store C,Phone,1,157.01,Gift Card,TX300310,157.01,2023,10,October,Wednesday
+2024-04-25,12:41:00,S2,Store B,Monitor,3,385.02,Debit Card,TX300311,1155.06,2024,4,April,Thursday
+2024-05-08,15:33:00,S6,Store A,Laptop,9,361.39,Online,TX300312,3252.51,2024,5,May,Wednesday
+2024-04-17,17:49:00,S9,Store B,Laptop,2,221.29,Cash,TX300313,442.58,2024,4,April,Wednesday
+2024-06-06,14:03:00,S9,Store B,Printer,4,163.36,Cash,TX300314,653.44,2024,6,June,Thursday
+2025-04-14,09:54:00,S4,Store C,Tablet,9,120.53,Online,TX300315,1084.77,2025,4,April,Monday
+2023-12-01,12:45:00,S1,Store A,Monitor,3,138.48,Online,TX300316,415.44,2023,12,December,Friday
+2024-07-04,10:59:00,S9,Store A,Printer,4,340.55,Online,TX300317,1362.2,2024,7,July,Thursday
+2025-01-14,09:00:00,S9,Store D,Desk,4,158.42,Gift Card,TX300318,633.68,2025,1,January,Tuesday
+2025-04-02,18:24:00,S9,Store B,Tablet,8,51.55,Cash,TX300319,412.4,2025,4,April,Wednesday
+2023-04-13,16:08:00,S7,Store C,Chair,2,58.36,Gift Card,TX300320,116.72,2023,4,April,Thursday
+2024-04-07,10:47:00,S10,Store A,Phone,10,330.6,Online,TX300321,3306.0,2024,4,April,Sunday
+2024-10-24,18:52:00,S2,Store B,Monitor,8,151.45,Debit Card,TX300322,1211.6,2024,10,October,Thursday
+2024-12-31,15:13:00,S3,Store B,Laptop,5,38.89,Cash,TX300323,194.45,2024,12,December,Tuesday
+2024-09-25,09:12:00,S8,Store B,Monitor,5,316.62,Debit Card,TX300324,1583.1,2024,9,September,Wednesday
+2024-01-09,20:49:00,S3,Store C,Monitor,10,369.63,Gift Card,TX300325,3696.3,2024,1,January,Tuesday
+2023-05-04,09:13:00,S2,Store B,Desk,8,58.28,Credit Card,TX300326,466.24,2023,5,May,Thursday
+2024-07-21,15:02:00,S3,Store B,Printer,3,136.39,Gift Card,TX300327,409.17,2024,7,July,Sunday
+2025-03-28,17:41:00,S1,Store C,Tablet,4,314.73,Debit Card,TX300328,1258.92,2025,3,March,Friday
+2025-03-07,21:07:00,S4,Store A,Monitor,4,277.5,Debit Card,TX300329,1110.0,2025,3,March,Friday
+2024-03-31,10:42:00,S1,Store D,Monitor,3,261.76,Online,TX300330,785.28,2024,3,March,Sunday
+2025-06-17,17:22:00,S2,Store B,Tablet,8,268.58,Online,TX300331,2148.64,2025,6,June,Tuesday
+2025-03-31,10:24:00,S9,Store D,Laptop,1,46.55,Cash,TX300332,46.55,2025,3,March,Monday
+2024-12-09,19:30:00,S1,Store B,Laptop,5,148.76,Gift Card,TX300333,743.8,2024,12,December,Monday
+2023-09-19,19:50:00,S7,Store A,Chair,9,394.42,Online,TX300334,3549.78,2023,9,September,Tuesday
+2025-04-29,10:49:00,S6,Store D,Phone,1,72.0,Gift Card,TX300335,72.0,2025,4,April,Tuesday
+2024-03-01,09:28:00,S9,Store A,Chair,8,226.4,Debit Card,TX300336,1811.2,2024,3,March,Friday
+2024-01-22,17:20:00,S9,Store A,Tablet,3,351.54,Credit Card,TX300337,1054.62,2024,1,January,Monday
+2024-01-01,21:10:00,S1,Store C,Desk,7,157.11,Debit Card,TX300338,1099.77,2024,1,January,Monday
+2023-11-28,19:20:00,S9,Store A,Chair,10,392.71,Cash,TX300339,3927.1,2023,11,November,Tuesday
+2023-08-25,14:10:00,S2,Store C,Phone,8,310.26,Debit Card,TX300340,2482.08,2023,8,August,Friday
+2025-06-19,17:23:00,S9,Store A,Phone,9,11.91,Credit Card,TX300341,107.19,2025,6,June,Thursday
+2024-08-19,10:38:00,S2,Store D,Chair,1,367.5,Online,TX300342,367.5,2024,8,August,Monday
+2024-08-03,18:07:00,S9,Store A,Monitor,1,375.32,Gift Card,TX300343,375.32,2024,8,August,Saturday
+2024-04-22,20:29:00,S3,Store D,Tablet,2,82.73,Cash,TX300344,165.46,2024,4,April,Monday
+2024-01-01,16:02:00,S9,Store B,Laptop,1,227.17,Credit Card,TX300345,227.17,2024,1,January,Monday
+2024-10-17,09:22:00,S5,Store B,Printer,4,45.25,Cash,TX300346,181.0,2024,10,October,Thursday
+2025-02-14,17:39:00,S2,Store C,Tablet,2,328.5,Online,TX300347,657.0,2025,2,February,Friday
+2023-03-24,16:52:00,S2,Store B,Tablet,4,368.99,Cash,TX300348,1475.96,2023,3,March,Friday
+2024-07-03,21:37:00,S7,Store B,Laptop,7,140.39,Credit Card,TX300349,982.73,2024,7,July,Wednesday
+2025-06-27,11:05:00,S5,Store C,Monitor,5,93.66,Cash,TX300350,468.3,2025,6,June,Friday
+2025-04-15,20:42:00,S3,Store C,Tablet,8,357.36,Online,TX300351,2858.88,2025,4,April,Tuesday
+2024-01-02,12:58:00,S3,Store C,Desk,9,350.46,Cash,TX300352,3154.14,2024,1,January,Tuesday
+2024-05-20,09:54:00,S10,Store B,Desk,10,214.18,Cash,TX300353,2141.8,2024,5,May,Monday
+2024-09-28,21:44:00,S6,Store C,Chair,10,302.9,Debit Card,TX300354,3029.0,2024,9,September,Saturday
+2024-09-02,17:17:00,S6,Store C,Chair,2,96.78,Online,TX300355,193.56,2024,9,September,Monday
+2024-09-06,10:23:00,S3,Store D,Chair,9,10.26,Debit Card,TX300356,92.34,2024,9,September,Friday
+2025-06-27,12:48:00,S1,Store D,Monitor,4,229.25,Gift Card,TX300357,917.0,2025,6,June,Friday
+2025-05-23,20:47:00,S6,Store A,Monitor,7,255.33,Debit Card,TX300358,1787.31,2025,5,May,Friday
+2023-07-22,10:14:00,S8,Store A,Phone,8,213.22,Credit Card,TX300359,1705.76,2023,7,July,Saturday
+2024-09-03,19:04:00,S6,Store C,Chair,8,100.73,Debit Card,TX300360,805.84,2024,9,September,Tuesday
+2023-11-16,21:58:00,S5,Store A,Chair,7,75.44,Debit Card,TX300361,528.08,2023,11,November,Thursday
+2025-06-04,18:47:00,S9,Store A,Tablet,2,125.58,Cash,TX300362,251.16,2025,6,June,Wednesday
+2023-11-01,18:00:00,S2,Store D,Monitor,1,5.74,Cash,TX300363,5.74,2023,11,November,Wednesday
+2025-03-10,11:16:00,S7,Store D,Laptop,8,202.46,Online,TX300364,1619.68,2025,3,March,Monday
+2024-04-07,17:37:00,S5,Store A,Laptop,6,127.19,Credit Card,TX300365,763.14,2024,4,April,Sunday
+2024-06-27,13:13:00,S1,Store A,Chair,4,390.36,Online,TX300366,1561.44,2024,6,June,Thursday
+2023-11-23,21:06:00,S4,Store C,Chair,9,176.82,Credit Card,TX300367,1591.38,2023,11,November,Thursday
+2023-01-19,13:59:00,S3,Store A,Tablet,8,115.67,Credit Card,TX300368,925.36,2023,1,January,Thursday
+2024-12-24,10:54:00,S7,Store D,Printer,7,120.13,Debit Card,TX300369,840.91,2024,12,December,Tuesday
+2023-03-06,13:55:00,S6,Store B,Chair,9,378.43,Gift Card,TX300370,3405.87,2023,3,March,Monday
+2023-05-27,16:04:00,S8,Store D,Printer,9,88.48,Gift Card,TX300371,796.32,2023,5,May,Saturday
+2024-02-22,16:59:00,S1,Store B,Phone,9,389.25,Cash,TX300372,3503.25,2024,2,February,Thursday
+2024-07-22,20:59:00,S8,Store A,Laptop,2,161.43,Cash,TX300373,322.86,2024,7,July,Monday
+2023-08-23,21:01:00,S7,Store A,Tablet,3,301.23,Credit Card,TX300374,903.69,2023,8,August,Wednesday
+2025-01-15,18:04:00,S8,Store C,Monitor,8,358.91,Credit Card,TX300375,2871.28,2025,1,January,Wednesday
+2025-06-14,10:16:00,S4,Store D,Tablet,7,240.58,Gift Card,TX300376,1684.06,2025,6,June,Saturday
+2023-05-16,09:35:00,S9,Store D,Laptop,6,312.2,Gift Card,TX300377,1873.2,2023,5,May,Tuesday
+2023-09-26,13:39:00,S1,Store C,Printer,4,86.31,Gift Card,TX300378,345.24,2023,9,September,Tuesday
+2023-09-20,12:10:00,S7,Store B,Monitor,5,97.19,Debit Card,TX300379,485.95,2023,9,September,Wednesday
+2023-02-27,12:54:00,S7,Store A,Printer,9,349.94,Credit Card,TX300380,3149.46,2023,2,February,Monday
+2024-11-24,12:39:00,S9,Store C,Chair,10,213.13,Cash,TX300381,2131.3,2024,11,November,Sunday
+2024-11-19,20:17:00,S3,Store B,Phone,8,132.93,Gift Card,TX300382,1063.44,2024,11,November,Tuesday
+2023-04-09,13:20:00,S10,Store D,Monitor,4,224.48,Debit Card,TX300383,897.92,2023,4,April,Sunday
+2024-03-24,09:37:00,S5,Store C,Phone,3,11.02,Cash,TX300384,33.06,2024,3,March,Sunday
+2024-03-07,15:16:00,S10,Store B,Monitor,2,281.98,Credit Card,TX300385,563.96,2024,3,March,Thursday
+2023-03-14,15:01:00,S9,Store B,Chair,9,168.59,Debit Card,TX300386,1517.31,2023,3,March,Tuesday
+2023-01-03,15:38:00,S10,Store A,Phone,9,141.71,Online,TX300387,1275.39,2023,1,January,Tuesday
+2025-06-13,19:32:00,S1,Store D,Monitor,8,385.41,Gift Card,TX300388,3083.28,2025,6,June,Friday
+2024-09-26,21:34:00,S2,Store A,Laptop,2,281.75,Online,TX300389,563.5,2024,9,September,Thursday
+2023-12-11,16:27:00,S5,Store C,Printer,9,324.72,Gift Card,TX300390,2922.48,2023,12,December,Monday
+2024-05-04,09:19:00,S10,Store D,Monitor,3,297.17,Gift Card,TX300391,891.51,2024,5,May,Saturday
+2024-07-10,18:11:00,S2,Store D,Desk,9,352.23,Debit Card,TX300392,3170.07,2024,7,July,Wednesday
+2023-01-31,18:53:00,S6,Store B,Monitor,6,355.87,Debit Card,TX300393,2135.22,2023,1,January,Tuesday
+2024-04-23,12:29:00,S7,Store C,Printer,4,328.63,Debit Card,TX300394,1314.52,2024,4,April,Tuesday
+2025-06-05,14:41:00,S8,Store A,Phone,3,339.04,Cash,TX300395,1017.12,2025,6,June,Thursday
+2023-02-01,10:56:00,S10,Store B,Phone,3,331.33,Credit Card,TX300396,993.99,2023,2,February,Wednesday
+2023-03-13,21:17:00,S10,Store B,Desk,6,176.35,Debit Card,TX300397,1058.1,2023,3,March,Monday
+2023-12-03,20:33:00,S2,Store A,Laptop,8,40.49,Cash,TX300398,323.92,2023,12,December,Sunday
+2025-06-12,16:36:00,S2,Store B,Phone,6,206.01,Gift Card,TX300399,1236.06,2025,6,June,Thursday
+2023-12-09,10:26:00,S5,Store B,Phone,2,297.08,Online,TX300400,594.16,2023,12,December,Saturday
+2023-08-20,16:45:00,S5,Store A,Desk,10,323.91,Debit Card,TX300401,3239.1,2023,8,August,Sunday
+2023-06-07,17:51:00,S3,Store C,Chair,3,116.67,Gift Card,TX300402,350.01,2023,6,June,Wednesday
+2023-10-20,18:45:00,S5,Store B,Tablet,5,161.87,Online,TX300403,809.35,2023,10,October,Friday
+2024-12-31,19:11:00,S4,Store A,Printer,4,163.45,Cash,TX300404,653.8,2024,12,December,Tuesday
+2023-07-30,21:29:00,S8,Store C,Laptop,7,77.63,Online,TX300405,543.41,2023,7,July,Sunday
+2024-02-18,16:30:00,S4,Store B,Chair,6,310.32,Online,TX300406,1861.92,2024,2,February,Sunday
+2023-06-09,15:40:00,S4,Store D,Chair,6,297.0,Cash,TX300407,1782.0,2023,6,June,Friday
+2023-04-05,21:03:00,S1,Store D,Chair,3,297.72,Gift Card,TX300408,893.16,2023,4,April,Wednesday
+2023-04-22,11:28:00,S2,Store D,Phone,5,375.22,Gift Card,TX300409,1876.1,2023,4,April,Saturday
+2023-11-14,20:13:00,S6,Store D,Printer,3,294.73,Cash,TX300410,884.19,2023,11,November,Tuesday
+2024-09-30,15:46:00,S1,Store B,Desk,9,20.98,Cash,TX300411,188.82,2024,9,September,Monday
+2024-11-25,16:38:00,S7,Store A,Phone,2,316.65,Online,TX300412,633.3,2024,11,November,Monday
+2024-01-04,10:23:00,S9,Store C,Chair,2,391.28,Online,TX300413,782.56,2024,1,January,Thursday
+2023-06-05,14:40:00,S4,Store C,Phone,3,150.87,Gift Card,TX300414,452.61,2023,6,June,Monday
+2023-05-01,11:47:00,S2,Store C,Chair,4,62.96,Cash,TX300415,251.84,2023,5,May,Monday
+2024-03-16,14:35:00,S9,Store B,Chair,10,312.14,Online,TX300416,3121.4,2024,3,March,Saturday
+2024-11-20,13:43:00,S1,Store D,Laptop,5,241.05,Cash,TX300417,1205.25,2024,11,November,Wednesday
+2023-03-19,12:40:00,S10,Store D,Chair,6,222.47,Credit Card,TX300418,1334.82,2023,3,March,Sunday
+2023-03-18,20:13:00,S8,Store D,Phone,7,267.88,Online,TX300419,1875.16,2023,3,March,Saturday
+2024-06-12,11:11:00,S8,Store A,Desk,1,128.69,Debit Card,TX300420,128.69,2024,6,June,Wednesday
+2024-04-09,12:43:00,S6,Store C,Chair,10,129.76,Cash,TX300421,1297.6,2024,4,April,Tuesday
+2024-09-27,16:31:00,S5,Store A,Printer,8,64.25,Credit Card,TX300422,514.0,2024,9,September,Friday
+2025-01-08,11:44:00,S2,Store C,Chair,1,208.28,Cash,TX300423,208.28,2025,1,January,Wednesday
+2024-12-13,16:34:00,S7,Store A,Laptop,5,162.18,Debit Card,TX300424,810.9,2024,12,December,Friday
+2024-03-11,09:38:00,S10,Store A,Phone,10,98.09,Debit Card,TX300425,980.9,2024,3,March,Monday
+2024-02-25,17:21:00,S3,Store A,Laptop,4,181.04,Debit Card,TX300426,724.16,2024,2,February,Sunday
+2023-12-28,19:50:00,S1,Store C,Desk,1,202.72,Gift Card,TX300427,202.72,2023,12,December,Thursday
+2023-01-29,21:52:00,S6,Store D,Monitor,1,169.14,Debit Card,TX300428,169.14,2023,1,January,Sunday
+2025-05-20,14:19:00,S5,Store A,Printer,10,204.0,Debit Card,TX300429,2040.0,2025,5,May,Tuesday
+2023-05-09,20:49:00,S1,Store C,Phone,6,96.24,Cash,TX300430,577.44,2023,5,May,Tuesday
+2023-11-30,18:45:00,S3,Store B,Monitor,5,202.76,Cash,TX300431,1013.8,2023,11,November,Thursday
+2024-12-01,09:18:00,S3,Store D,Tablet,8,234.01,Cash,TX300432,1872.08,2024,12,December,Sunday
+2023-01-29,20:45:00,S7,Store A,Printer,8,165.02,Credit Card,TX300433,1320.16,2023,1,January,Sunday
+2024-10-27,15:30:00,S10,Store C,Monitor,4,383.7,Gift Card,TX300434,1534.8,2024,10,October,Sunday
+2024-01-17,15:58:00,S4,Store B,Tablet,6,206.16,Online,TX300435,1236.96,2024,1,January,Wednesday
+2023-12-19,10:20:00,S4,Store C,Printer,5,79.63,Online,TX300436,398.15,2023,12,December,Tuesday
+2023-03-26,13:31:00,S8,Store C,Chair,3,256.69,Gift Card,TX300437,770.07,2023,3,March,Sunday
+2024-08-12,11:42:00,S5,Store A,Tablet,10,124.56,Online,TX300438,1245.6,2024,8,August,Monday
+2023-10-05,19:03:00,S8,Store D,Monitor,5,143.01,Online,TX300439,715.05,2023,10,October,Thursday
+2024-05-18,14:15:00,S1,Store A,Desk,4,163.57,Debit Card,TX300440,654.28,2024,5,May,Saturday
+2023-08-26,20:21:00,S10,Store D,Monitor,2,91.33,Online,TX300441,182.66,2023,8,August,Saturday
+2025-06-20,14:51:00,S9,Store A,Monitor,2,299.59,Credit Card,TX300442,599.18,2025,6,June,Friday
+2024-03-03,13:49:00,S7,Store B,Tablet,2,161.44,Online,TX300443,322.88,2024,3,March,Sunday
+2023-06-18,13:03:00,S8,Store A,Desk,8,213.15,Gift Card,TX300444,1705.2,2023,6,June,Sunday
+2023-09-04,09:07:00,S9,Store C,Chair,7,303.78,Gift Card,TX300445,2126.46,2023,9,September,Monday
+2023-06-30,15:55:00,S3,Store B,Phone,2,300.92,Debit Card,TX300446,601.84,2023,6,June,Friday
+2024-07-24,12:32:00,S9,Store C,Phone,6,164.75,Debit Card,TX300447,988.5,2024,7,July,Wednesday
+2024-07-28,11:18:00,S4,Store B,Tablet,10,302.72,Debit Card,TX300448,3027.2,2024,7,July,Sunday
+2023-07-17,11:05:00,S6,Store A,Printer,3,253.33,Debit Card,TX300449,759.99,2023,7,July,Monday
+2024-07-01,12:17:00,S8,Store D,Chair,1,36.85,Debit Card,TX300450,36.85,2024,7,July,Monday
+2023-12-21,20:38:00,S5,Store C,Tablet,2,248.69,Debit Card,TX300451,497.38,2023,12,December,Thursday
+2024-12-13,14:21:00,S9,Store D,Monitor,8,284.8,Debit Card,TX300452,2278.4,2024,12,December,Friday
+2025-01-29,17:56:00,S10,Store D,Monitor,4,42.51,Gift Card,TX300453,170.04,2025,1,January,Wednesday
+2023-05-29,09:18:00,S5,Store C,Monitor,9,343.44,Debit Card,TX300454,3090.96,2023,5,May,Monday
+2025-03-04,21:52:00,S4,Store C,Desk,3,34.95,Debit Card,TX300455,104.85,2025,3,March,Tuesday
+2023-10-12,09:38:00,S10,Store C,Tablet,1,248.33,Credit Card,TX300456,248.33,2023,10,October,Thursday
+2023-03-25,17:42:00,S4,Store C,Printer,4,117.81,Credit Card,TX300457,471.24,2023,3,March,Saturday
+2023-05-30,20:06:00,S5,Store C,Tablet,10,37.61,Gift Card,TX300458,376.1,2023,5,May,Tuesday
+2025-04-06,14:20:00,S2,Store D,Phone,5,290.02,Online,TX300459,1450.1,2025,4,April,Sunday
+2023-09-15,20:27:00,S7,Store A,Printer,4,370.9,Online,TX300460,1483.6,2023,9,September,Friday
+2023-02-01,11:06:00,S9,Store B,Laptop,8,315.46,Debit Card,TX300461,2523.68,2023,2,February,Wednesday
+2023-01-11,21:15:00,S8,Store A,Chair,6,237.91,Credit Card,TX300462,1427.46,2023,1,January,Wednesday
+2025-04-24,10:55:00,S3,Store C,Desk,10,394.91,Cash,TX300463,3949.1,2025,4,April,Thursday
+2023-01-30,12:06:00,S1,Store B,Chair,1,141.82,Online,TX300464,141.82,2023,1,January,Monday
+2023-12-24,16:20:00,S5,Store D,Chair,4,393.62,Credit Card,TX300465,1574.48,2023,12,December,Sunday
+2023-08-27,12:01:00,S2,Store C,Desk,6,80.44,Online,TX300466,482.64,2023,8,August,Sunday
+2023-04-08,16:57:00,S4,Store C,Laptop,8,357.27,Gift Card,TX300467,2858.16,2023,4,April,Saturday
+2023-09-28,19:16:00,S7,Store A,Laptop,9,131.86,Credit Card,TX300468,1186.74,2023,9,September,Thursday
+2023-04-13,11:20:00,S3,Store B,Chair,8,376.61,Online,TX300469,3012.88,2023,4,April,Thursday
+2024-08-17,16:19:00,S8,Store B,Monitor,3,361.61,Gift Card,TX300470,1084.83,2024,8,August,Saturday
+2023-03-02,19:07:00,S8,Store C,Desk,7,219.3,Gift Card,TX300471,1535.1,2023,3,March,Thursday
+2025-01-06,15:31:00,S6,Store C,Printer,4,40.62,Debit Card,TX300472,162.48,2025,1,January,Monday
+2023-09-02,17:50:00,S9,Store B,Printer,1,11.7,Cash,TX300473,11.7,2023,9,September,Saturday
+2023-01-11,11:07:00,S5,Store A,Tablet,10,333.11,Cash,TX300474,3331.1,2023,1,January,Wednesday
+2025-05-03,10:13:00,S1,Store C,Laptop,7,261.88,Cash,TX300475,1833.16,2025,5,May,Saturday
+2023-03-20,14:39:00,S1,Store B,Chair,8,251.59,Online,TX300476,2012.72,2023,3,March,Monday
+2023-01-02,12:21:00,S5,Store A,Chair,6,72.37,Online,TX300477,434.22,2023,1,January,Monday
+2023-04-19,15:47:00,S9,Store C,Tablet,1,90.99,Cash,TX300478,90.99,2023,4,April,Wednesday
+2023-11-09,21:12:00,S1,Store C,Printer,8,24.19,Debit Card,TX300479,193.52,2023,11,November,Thursday
+2024-05-14,19:21:00,S10,Store C,Desk,10,252.39,Cash,TX300480,2523.9,2024,5,May,Tuesday
+2025-04-30,13:24:00,S1,Store B,Monitor,7,227.57,Gift Card,TX300481,1592.99,2025,4,April,Wednesday
+2024-10-15,14:27:00,S3,Store B,Monitor,4,201.54,Cash,TX300482,806.16,2024,10,October,Tuesday
+2024-07-17,12:04:00,S5,Store B,Laptop,3,295.11,Debit Card,TX300483,885.33,2024,7,July,Wednesday
+2025-02-03,18:41:00,S7,Store A,Printer,5,63.15,Gift Card,TX300484,315.75,2025,2,February,Monday
+2023-05-26,10:22:00,S1,Store D,Laptop,5,271.45,Credit Card,TX300485,1357.25,2023,5,May,Friday
+2025-04-08,17:49:00,S4,Store B,Phone,8,314.73,Cash,TX300486,2517.84,2025,4,April,Tuesday
+2024-11-18,17:46:00,S10,Store D,Tablet,10,293.24,Cash,TX300487,2932.4,2024,11,November,Monday
+2025-04-04,10:07:00,S7,Store C,Printer,3,399.19,Online,TX300488,1197.57,2025,4,April,Friday
+2023-12-27,11:12:00,S8,Store D,Chair,10,391.43,Debit Card,TX300489,3914.3,2023,12,December,Wednesday
+2023-05-29,10:32:00,S7,Store D,Desk,6,137.45,Credit Card,TX300490,824.7,2023,5,May,Monday
+2023-05-05,12:33:00,S2,Store D,Printer,1,132.06,Debit Card,TX300491,132.06,2023,5,May,Friday
+2024-11-23,12:01:00,S1,Store A,Phone,4,82.18,Debit Card,TX300492,328.72,2024,11,November,Saturday
+2025-06-07,19:43:00,S3,Store B,Monitor,10,382.95,Gift Card,TX300493,3829.5,2025,6,June,Saturday
+2025-04-10,14:19:00,S9,Store D,Chair,7,373.69,Gift Card,TX300494,2615.83,2025,4,April,Thursday
+2023-03-22,11:07:00,S4,Store B,Desk,5,394.28,Credit Card,TX300495,1971.4,2023,3,March,Wednesday
+2023-01-05,21:13:00,S8,Store D,Printer,4,13.69,Online,TX300496,54.76,2023,1,January,Thursday
+2024-04-02,20:17:00,S2,Store B,Phone,9,232.17,Debit Card,TX300497,2089.53,2024,4,April,Tuesday
+2024-10-24,10:41:00,S1,Store D,Chair,3,218.33,Cash,TX300498,654.99,2024,10,October,Thursday
+2024-01-15,20:13:00,S1,Store D,Phone,5,236.66,Debit Card,TX300499,1183.3,2024,1,January,Monday
+2023-04-22,18:38:00,S7,Store B,Laptop,1,19.88,Credit Card,TX300500,19.88,2023,4,April,Saturday
+2024-05-25,11:05:00,S1,Store C,Tablet,5,12.84,Cash,TX300501,64.2,2024,5,May,Saturday
+2023-01-27,18:40:00,S8,Store A,Chair,9,113.9,Credit Card,TX300502,1025.1,2023,1,January,Friday
+2025-03-05,17:07:00,S6,Store C,Tablet,10,313.01,Credit Card,TX300503,3130.1,2025,3,March,Wednesday
+2024-09-18,09:20:00,S9,Store A,Desk,3,276.79,Credit Card,TX300504,830.37,2024,9,September,Wednesday
+2024-02-15,09:41:00,S8,Store A,Monitor,4,385.05,Cash,TX300505,1540.2,2024,2,February,Thursday
+2023-05-23,20:49:00,S9,Store B,Tablet,4,56.43,Debit Card,TX300506,225.72,2023,5,May,Tuesday
+2024-06-29,13:10:00,S6,Store D,Tablet,9,127.4,Debit Card,TX300507,1146.6,2024,6,June,Saturday
+2024-07-29,09:44:00,S9,Store D,Phone,2,106.96,Credit Card,TX300508,213.92,2024,7,July,Monday
+2024-11-08,17:45:00,S8,Store C,Tablet,5,140.99,Credit Card,TX300509,704.95,2024,11,November,Friday
+2024-10-05,19:02:00,S2,Store B,Phone,3,54.47,Online,TX300510,163.41,2024,10,October,Saturday
+2023-11-30,18:11:00,S3,Store D,Printer,7,274.8,Credit Card,TX300511,1923.6,2023,11,November,Thursday
+2024-06-01,20:10:00,S1,Store C,Phone,1,87.7,Online,TX300512,87.7,2024,6,June,Saturday
+2024-02-06,19:53:00,S8,Store C,Monitor,7,141.83,Debit Card,TX300513,992.81,2024,2,February,Tuesday
+2024-11-06,18:32:00,S6,Store A,Chair,5,185.4,Gift Card,TX300514,927.0,2024,11,November,Wednesday
+2024-11-04,17:53:00,S2,Store D,Desk,8,285.94,Cash,TX300515,2287.52,2024,11,November,Monday
+2025-06-13,17:14:00,S7,Store C,Phone,5,254.62,Online,TX300516,1273.1,2025,6,June,Friday
+2023-06-21,17:53:00,S7,Store C,Printer,7,269.37,Cash,TX300517,1885.59,2023,6,June,Wednesday
+2023-12-19,15:44:00,S8,Store A,Chair,1,318.93,Online,TX300518,318.93,2023,12,December,Tuesday
+2023-01-21,12:06:00,S2,Store C,Chair,2,329.82,Debit Card,TX300519,659.64,2023,1,January,Saturday
+2023-05-03,12:04:00,S1,Store C,Printer,8,359.55,Cash,TX300520,2876.4,2023,5,May,Wednesday
+2024-04-03,10:09:00,S9,Store A,Phone,5,366.17,Cash,TX300521,1830.85,2024,4,April,Wednesday
+2024-11-17,11:15:00,S3,Store D,Chair,9,303.78,Credit Card,TX300522,2734.02,2024,11,November,Sunday
+2023-10-07,14:43:00,S2,Store D,Printer,2,124.07,Debit Card,TX300523,248.14,2023,10,October,Saturday
+2023-05-13,15:58:00,S3,Store D,Tablet,6,301.1,Debit Card,TX300524,1806.6,2023,5,May,Saturday
+2024-07-06,12:57:00,S8,Store C,Printer,4,92.68,Online,TX300525,370.72,2024,7,July,Saturday
+2024-06-15,17:00:00,S6,Store D,Monitor,3,212.07,Gift Card,TX300526,636.21,2024,6,June,Saturday
+2024-08-18,19:29:00,S2,Store D,Tablet,4,363.77,Credit Card,TX300527,1455.08,2024,8,August,Sunday
+2024-07-25,19:51:00,S1,Store B,Phone,3,202.35,Gift Card,TX300528,607.05,2024,7,July,Thursday
+2025-05-31,21:06:00,S4,Store D,Phone,8,24.61,Online,TX300529,196.88,2025,5,May,Saturday
+2023-12-13,13:36:00,S7,Store B,Chair,5,290.4,Credit Card,TX300530,1452.0,2023,12,December,Wednesday
+2023-04-06,20:28:00,S4,Store B,Laptop,6,167.17,Debit Card,TX300531,1003.02,2023,4,April,Thursday
+2023-12-28,17:13:00,S10,Store D,Chair,10,203.5,Debit Card,TX300532,2035.0,2023,12,December,Thursday
+2023-08-26,12:18:00,S7,Store A,Tablet,6,32.59,Cash,TX300533,195.54,2023,8,August,Saturday
+2024-12-14,12:10:00,S8,Store B,Phone,10,106.79,Debit Card,TX300534,1067.9,2024,12,December,Saturday
+2025-02-10,19:20:00,S2,Store C,Phone,6,61.68,Online,TX300535,370.08,2025,2,February,Monday
+2023-11-01,11:56:00,S8,Store B,Tablet,2,299.49,Credit Card,TX300536,598.98,2023,11,November,Wednesday
+2025-05-27,13:11:00,S3,Store D,Tablet,1,397.26,Online,TX300537,397.26,2025,5,May,Tuesday
+2024-02-26,16:07:00,S9,Store D,Tablet,3,235.19,Debit Card,TX300538,705.57,2024,2,February,Monday
+2024-02-20,12:01:00,S10,Store A,Printer,8,327.76,Gift Card,TX300539,2622.08,2024,2,February,Tuesday
+2025-01-21,18:39:00,S9,Store A,Printer,1,148.44,Cash,TX300540,148.44,2025,1,January,Tuesday
+2024-02-09,19:53:00,S7,Store B,Phone,3,9.05,Debit Card,TX300541,27.15,2024,2,February,Friday
+2023-02-25,20:41:00,S3,Store C,Laptop,6,308.28,Gift Card,TX300542,1849.68,2023,2,February,Saturday
+2023-02-21,20:47:00,S7,Store B,Phone,10,358.38,Gift Card,TX300543,3583.8,2023,2,February,Tuesday
+2024-07-08,12:40:00,S7,Store C,Printer,4,268.16,Cash,TX300544,1072.64,2024,7,July,Monday
+2024-06-23,16:20:00,S10,Store D,Desk,4,157.13,Debit Card,TX300545,628.52,2024,6,June,Sunday
+2025-06-05,18:57:00,S1,Store B,Monitor,6,277.18,Credit Card,TX300546,1663.08,2025,6,June,Thursday
+2023-04-30,16:05:00,S4,Store A,Monitor,7,306.58,Credit Card,TX300547,2146.06,2023,4,April,Sunday
+2025-01-15,14:13:00,S3,Store B,Printer,7,147.0,Online,TX300548,1029.0,2025,1,January,Wednesday
+2023-04-24,14:29:00,S1,Store A,Phone,2,214.89,Credit Card,TX300549,429.78,2023,4,April,Monday
+2023-08-23,21:43:00,S6,Store A,Printer,7,261.86,Cash,TX300550,1833.02,2023,8,August,Wednesday
+2024-05-23,15:26:00,S4,Store B,Printer,8,46.17,Gift Card,TX300551,369.36,2024,5,May,Thursday
+2025-04-25,17:25:00,S8,Store B,Chair,10,32.12,Online,TX300552,321.2,2025,4,April,Friday
+2023-03-23,09:21:00,S5,Store D,Chair,9,323.48,Credit Card,TX300553,2911.32,2023,3,March,Thursday
+2023-08-10,10:20:00,S2,Store A,Phone,9,342.44,Credit Card,TX300554,3081.96,2023,8,August,Thursday
+2025-05-24,13:18:00,S9,Store A,Phone,7,387.3,Credit Card,TX300555,2711.1,2025,5,May,Saturday
+2025-06-20,09:21:00,S2,Store D,Monitor,6,390.14,Online,TX300556,2340.84,2025,6,June,Friday
+2023-12-20,20:58:00,S5,Store A,Printer,10,269.86,Online,TX300557,2698.6,2023,12,December,Wednesday
+2023-04-19,09:39:00,S3,Store B,Phone,2,66.95,Credit Card,TX300558,133.9,2023,4,April,Wednesday
+2024-09-03,20:23:00,S9,Store B,Monitor,5,227.11,Credit Card,TX300559,1135.55,2024,9,September,Tuesday
+2023-01-02,19:18:00,S7,Store B,Monitor,9,244.52,Gift Card,TX300560,2200.68,2023,1,January,Monday
+2024-12-10,09:10:00,S5,Store D,Phone,1,247.71,Debit Card,TX300561,247.71,2024,12,December,Tuesday
+2023-03-02,12:04:00,S4,Store B,Printer,1,169.87,Credit Card,TX300562,169.87,2023,3,March,Thursday
+2024-05-12,21:45:00,S6,Store B,Chair,8,95.79,Cash,TX300563,766.32,2024,5,May,Sunday
+2024-07-03,11:29:00,S1,Store B,Printer,5,73.0,Debit Card,TX300564,365.0,2024,7,July,Wednesday
+2025-01-29,10:18:00,S10,Store C,Laptop,3,69.33,Gift Card,TX300565,207.99,2025,1,January,Wednesday
+2023-04-04,19:20:00,S6,Store C,Desk,3,141.98,Gift Card,TX300566,425.94,2023,4,April,Tuesday
+2024-12-27,11:33:00,S5,Store C,Printer,6,254.72,Debit Card,TX300567,1528.32,2024,12,December,Friday
+2023-09-22,15:07:00,S4,Store C,Monitor,9,166.32,Credit Card,TX300568,1496.88,2023,9,September,Friday
+2023-04-28,13:37:00,S1,Store D,Printer,5,217.67,Cash,TX300569,1088.35,2023,4,April,Friday
+2023-06-01,18:39:00,S8,Store A,Printer,5,197.52,Cash,TX300570,987.6,2023,6,June,Thursday
+2023-02-17,10:10:00,S7,Store C,Monitor,3,336.99,Credit Card,TX300571,1010.97,2023,2,February,Friday
+2023-06-15,16:18:00,S8,Store B,Phone,8,61.24,Debit Card,TX300572,489.92,2023,6,June,Thursday
+2023-06-20,15:57:00,S5,Store B,Desk,7,227.58,Debit Card,TX300573,1593.06,2023,6,June,Tuesday
+2024-10-28,15:04:00,S2,Store C,Tablet,9,326.93,Cash,TX300574,2942.37,2024,10,October,Monday
+2023-12-19,14:23:00,S2,Store A,Chair,10,171.08,Online,TX300575,1710.8,2023,12,December,Tuesday
+2025-05-03,20:41:00,S3,Store C,Printer,3,384.42,Online,TX300576,1153.26,2025,5,May,Saturday
+2024-06-15,15:23:00,S4,Store D,Tablet,4,252.82,Debit Card,TX300577,1011.28,2024,6,June,Saturday
+2024-08-02,19:29:00,S4,Store A,Laptop,2,316.96,Debit Card,TX300578,633.92,2024,8,August,Friday
+2023-04-14,17:18:00,S6,Store B,Tablet,6,38.64,Debit Card,TX300579,231.84,2023,4,April,Friday
+2024-09-25,20:30:00,S5,Store D,Desk,2,143.61,Cash,TX300580,287.22,2024,9,September,Wednesday
+2024-12-16,17:08:00,S8,Store B,Chair,3,95.32,Cash,TX300581,285.96,2024,12,December,Monday
+2024-06-08,13:55:00,S10,Store D,Desk,1,149.71,Cash,TX300582,149.71,2024,6,June,Saturday
+2024-01-13,09:26:00,S3,Store C,Phone,9,108.95,Credit Card,TX300583,980.55,2024,1,January,Saturday
+2024-11-01,15:35:00,S8,Store C,Monitor,7,313.77,Credit Card,TX300584,2196.39,2024,11,November,Friday
+2023-07-04,17:20:00,S3,Store C,Laptop,5,170.54,Cash,TX300585,852.7,2023,7,July,Tuesday
+2023-04-07,12:25:00,S6,Store D,Monitor,4,69.93,Credit Card,TX300586,279.72,2023,4,April,Friday
+2023-09-15,19:47:00,S2,Store C,Chair,10,150.51,Credit Card,TX300587,1505.1,2023,9,September,Friday
+2024-05-09,21:00:00,S1,Store C,Tablet,6,373.91,Debit Card,TX300588,2243.46,2024,5,May,Thursday
+2023-03-03,13:01:00,S10,Store D,Phone,6,321.2,Gift Card,TX300589,1927.2,2023,3,March,Friday
+2023-08-27,10:06:00,S9,Store D,Chair,1,144.03,Gift Card,TX300590,144.03,2023,8,August,Sunday
+2024-05-14,09:44:00,S8,Store C,Desk,9,109.9,Online,TX300591,989.1,2024,5,May,Tuesday
+2023-07-07,13:08:00,S9,Store D,Laptop,2,360.57,Cash,TX300592,721.14,2023,7,July,Friday
+2023-12-05,20:00:00,S7,Store C,Printer,3,271.89,Credit Card,TX300593,815.67,2023,12,December,Tuesday
+2024-05-24,21:29:00,S5,Store A,Tablet,7,306.42,Online,TX300594,2144.94,2024,5,May,Friday
+2023-10-13,20:39:00,S9,Store C,Laptop,4,218.66,Gift Card,TX300595,874.64,2023,10,October,Friday
+2024-09-26,14:12:00,S3,Store A,Desk,7,347.24,Online,TX300596,2430.68,2024,9,September,Thursday
+2024-11-05,15:36:00,S4,Store D,Phone,5,273.04,Debit Card,TX300597,1365.2,2024,11,November,Tuesday
+2023-03-08,21:35:00,S2,Store D,Printer,1,119.82,Gift Card,TX300598,119.82,2023,3,March,Wednesday
+2023-10-31,12:46:00,S3,Store B,Phone,7,126.74,Cash,TX300599,887.18,2023,10,October,Tuesday
+2025-02-24,09:12:00,S6,Store C,Monitor,9,117.55,Credit Card,TX300600,1057.95,2025,2,February,Monday
+2024-09-10,20:03:00,S8,Store C,Printer,8,98.91,Online,TX300601,791.28,2024,9,September,Tuesday
+2023-12-02,20:01:00,S3,Store D,Phone,8,79.76,Debit Card,TX300602,638.08,2023,12,December,Saturday
+2023-10-21,16:12:00,S6,Store A,Laptop,7,190.63,Debit Card,TX300603,1334.41,2023,10,October,Saturday
+2024-12-20,18:56:00,S7,Store B,Desk,3,345.32,Online,TX300604,1035.96,2024,12,December,Friday
+2023-07-15,14:53:00,S1,Store A,Printer,9,262.77,Gift Card,TX300605,2364.93,2023,7,July,Saturday
+2023-03-17,10:44:00,S7,Store B,Tablet,3,258.06,Cash,TX300606,774.18,2023,3,March,Friday
+2025-06-03,16:38:00,S7,Store A,Tablet,6,191.08,Credit Card,TX300607,1146.48,2025,6,June,Tuesday
+2025-01-20,19:32:00,S6,Store A,Laptop,6,29.62,Gift Card,TX300608,177.72,2025,1,January,Monday
+2023-03-27,19:00:00,S6,Store B,Desk,6,65.26,Debit Card,TX300609,391.56,2023,3,March,Monday
+2023-11-16,10:39:00,S9,Store B,Chair,4,158.44,Online,TX300610,633.76,2023,11,November,Thursday
+2024-04-08,13:07:00,S8,Store D,Laptop,1,112.51,Cash,TX300611,112.51,2024,4,April,Monday
+2023-03-28,13:45:00,S1,Store B,Phone,6,345.56,Online,TX300612,2073.36,2023,3,March,Tuesday
+2025-01-09,10:47:00,S1,Store C,Desk,5,14.99,Credit Card,TX300613,74.95,2025,1,January,Thursday
+2025-04-10,14:15:00,S3,Store A,Phone,5,337.03,Cash,TX300614,1685.15,2025,4,April,Thursday
+2025-05-02,09:24:00,S1,Store C,Desk,9,368.69,Cash,TX300615,3318.21,2025,5,May,Friday
+2025-02-18,18:15:00,S9,Store A,Monitor,3,252.16,Cash,TX300616,756.48,2025,2,February,Tuesday
+2023-01-22,17:16:00,S6,Store C,Phone,2,106.93,Cash,TX300617,213.86,2023,1,January,Sunday
+2025-05-10,18:55:00,S5,Store A,Desk,9,261.4,Credit Card,TX300618,2352.6,2025,5,May,Saturday
+2024-03-19,21:51:00,S5,Store A,Desk,1,241.46,Gift Card,TX300619,241.46,2024,3,March,Tuesday
+2024-06-27,19:29:00,S1,Store D,Printer,5,295.78,Credit Card,TX300620,1478.9,2024,6,June,Thursday
+2024-09-09,14:14:00,S2,Store D,Chair,3,156.02,Cash,TX300621,468.06,2024,9,September,Monday
+2025-02-14,18:39:00,S3,Store B,Tablet,3,150.62,Cash,TX300622,451.86,2025,2,February,Friday
+2025-03-31,12:10:00,S5,Store A,Phone,2,53.91,Debit Card,TX300623,107.82,2025,3,March,Monday
+2025-05-16,17:26:00,S4,Store A,Tablet,3,291.25,Debit Card,TX300624,873.75,2025,5,May,Friday
+2024-10-10,14:46:00,S3,Store D,Monitor,3,233.52,Online,TX300625,700.56,2024,10,October,Thursday
+2025-05-07,12:33:00,S6,Store C,Monitor,6,28.45,Credit Card,TX300626,170.7,2025,5,May,Wednesday
+2024-08-16,17:37:00,S4,Store D,Phone,1,273.41,Cash,TX300627,273.41,2024,8,August,Friday
+2024-08-20,17:59:00,S7,Store A,Phone,2,332.57,Credit Card,TX300628,665.14,2024,8,August,Tuesday
+2025-04-07,12:36:00,S4,Store C,Phone,2,349.79,Gift Card,TX300629,699.58,2025,4,April,Monday
+2023-06-08,19:17:00,S9,Store B,Tablet,5,295.37,Debit Card,TX300630,1476.85,2023,6,June,Thursday
+2024-05-21,16:58:00,S9,Store C,Chair,4,244.5,Credit Card,TX300631,978.0,2024,5,May,Tuesday
+2023-09-06,12:33:00,S7,Store D,Phone,9,297.74,Credit Card,TX300632,2679.66,2023,9,September,Wednesday
+2024-11-09,11:33:00,S4,Store C,Desk,7,139.29,Gift Card,TX300633,975.03,2024,11,November,Saturday
+2023-08-09,11:30:00,S3,Store D,Tablet,6,250.53,Gift Card,TX300634,1503.18,2023,8,August,Wednesday
+2023-10-11,21:11:00,S2,Store B,Phone,9,356.81,Credit Card,TX300635,3211.29,2023,10,October,Wednesday
+2024-03-10,21:49:00,S3,Store A,Monitor,5,49.06,Gift Card,TX300636,245.3,2024,3,March,Sunday
+2023-05-03,12:49:00,S2,Store D,Laptop,6,39.08,Gift Card,TX300637,234.48,2023,5,May,Wednesday
+2023-04-10,21:23:00,S4,Store B,Desk,7,361.06,Gift Card,TX300638,2527.42,2023,4,April,Monday
+2023-08-24,15:31:00,S1,Store C,Chair,1,53.88,Cash,TX300639,53.88,2023,8,August,Thursday
+2023-11-08,21:34:00,S1,Store B,Phone,2,17.75,Debit Card,TX300640,35.5,2023,11,November,Wednesday
+2024-02-09,14:48:00,S8,Store A,Desk,8,227.35,Gift Card,TX300641,1818.8,2024,2,February,Friday
+2023-08-26,21:33:00,S6,Store A,Chair,4,290.28,Gift Card,TX300642,1161.12,2023,8,August,Saturday
+2024-12-01,09:45:00,S8,Store C,Chair,9,316.55,Debit Card,TX300643,2848.95,2024,12,December,Sunday
+2024-06-12,19:06:00,S1,Store C,Laptop,9,399.7,Gift Card,TX300644,3597.3,2024,6,June,Wednesday
+2023-11-23,21:03:00,S6,Store C,Monitor,10,222.31,Gift Card,TX300645,2223.1,2023,11,November,Thursday
+2024-06-23,11:09:00,S3,Store A,Printer,7,101.97,Debit Card,TX300646,713.79,2024,6,June,Sunday
+2023-09-12,12:32:00,S5,Store C,Desk,4,192.49,Debit Card,TX300647,769.96,2023,9,September,Tuesday
+2025-03-08,15:05:00,S3,Store C,Desk,9,165.08,Online,TX300648,1485.72,2025,3,March,Saturday
+2024-07-19,16:03:00,S6,Store B,Desk,10,163.42,Credit Card,TX300649,1634.2,2024,7,July,Friday
+2023-11-25,16:34:00,S1,Store B,Monitor,10,42.28,Online,TX300650,422.8,2023,11,November,Saturday
+2023-04-16,15:36:00,S10,Store C,Phone,7,43.49,Online,TX300651,304.43,2023,4,April,Sunday
+2023-05-13,21:13:00,S6,Store D,Tablet,3,268.13,Credit Card,TX300652,804.39,2023,5,May,Saturday
+2023-05-28,18:41:00,S8,Store B,Phone,8,395.31,Online,TX300653,3162.48,2023,5,May,Sunday
+2023-11-13,11:34:00,S7,Store D,Monitor,3,40.1,Debit Card,TX300654,120.3,2023,11,November,Monday
+2023-03-04,14:20:00,S3,Store C,Tablet,3,246.62,Online,TX300655,739.86,2023,3,March,Saturday
+2024-07-17,20:04:00,S3,Store D,Tablet,3,114.5,Credit Card,TX300656,343.5,2024,7,July,Wednesday
+2025-03-17,14:57:00,S8,Store B,Laptop,9,383.2,Debit Card,TX300657,3448.8,2025,3,March,Monday
+2024-11-25,14:40:00,S1,Store C,Monitor,3,33.61,Online,TX300658,100.83,2024,11,November,Monday
+2024-05-15,16:22:00,S9,Store B,Printer,3,370.5,Debit Card,TX300659,1111.5,2024,5,May,Wednesday
+2023-01-11,21:41:00,S5,Store A,Chair,1,382.95,Cash,TX300660,382.95,2023,1,January,Wednesday
+2023-09-07,21:32:00,S9,Store B,Tablet,8,161.58,Gift Card,TX300661,1292.64,2023,9,September,Thursday
+2024-01-19,11:20:00,S2,Store A,Monitor,4,145.73,Credit Card,TX300662,582.92,2024,1,January,Friday
+2025-03-14,20:50:00,S9,Store D,Desk,2,71.38,Credit Card,TX300663,142.76,2025,3,March,Friday
+2023-11-10,17:00:00,S3,Store A,Laptop,7,290.06,Gift Card,TX300664,2030.42,2023,11,November,Friday
+2024-12-06,10:06:00,S9,Store B,Laptop,8,332.94,Cash,TX300665,2663.52,2024,12,December,Friday
+2024-12-16,18:42:00,S3,Store A,Monitor,9,337.8,Online,TX300666,3040.2,2024,12,December,Monday
+2024-08-27,14:22:00,S10,Store B,Phone,4,5.58,Credit Card,TX300667,22.32,2024,8,August,Tuesday
+2024-11-22,20:57:00,S6,Store B,Laptop,6,345.09,Gift Card,TX300668,2070.54,2024,11,November,Friday
+2025-03-30,17:20:00,S8,Store C,Chair,8,320.78,Debit Card,TX300669,2566.24,2025,3,March,Sunday
+2025-01-31,17:21:00,S4,Store D,Tablet,10,78.99,Debit Card,TX300670,789.9,2025,1,January,Friday
+2025-02-27,17:11:00,S4,Store D,Laptop,2,224.39,Online,TX300671,448.78,2025,2,February,Thursday
+2024-07-31,10:11:00,S7,Store D,Desk,3,235.61,Debit Card,TX300672,706.83,2024,7,July,Wednesday
+2023-10-04,20:05:00,S7,Store C,Monitor,2,267.91,Cash,TX300673,535.82,2023,10,October,Wednesday
+2023-10-31,12:39:00,S8,Store A,Desk,4,171.93,Gift Card,TX300674,687.72,2023,10,October,Tuesday
+2024-11-05,09:43:00,S10,Store C,Monitor,9,388.94,Credit Card,TX300675,3500.46,2024,11,November,Tuesday
+2024-03-31,19:10:00,S8,Store A,Phone,9,91.74,Gift Card,TX300676,825.66,2024,3,March,Sunday
+2023-09-30,12:19:00,S8,Store D,Phone,10,106.41,Online,TX300677,1064.1,2023,9,September,Saturday
+2023-05-21,12:16:00,S1,Store C,Printer,10,246.8,Credit Card,TX300678,2468.0,2023,5,May,Sunday
+2023-01-06,16:37:00,S10,Store B,Chair,3,175.26,Gift Card,TX300679,525.78,2023,1,January,Friday
+2023-05-05,17:34:00,S10,Store B,Printer,7,53.26,Cash,TX300680,372.82,2023,5,May,Friday
+2023-12-21,16:14:00,S6,Store C,Chair,9,66.07,Cash,TX300681,594.63,2023,12,December,Thursday
+2025-03-03,16:36:00,S2,Store B,Tablet,2,238.45,Cash,TX300682,476.9,2025,3,March,Monday
+2023-12-08,14:26:00,S3,Store C,Monitor,9,243.57,Gift Card,TX300683,2192.13,2023,12,December,Friday
+2024-05-21,10:30:00,S2,Store A,Desk,2,25.64,Debit Card,TX300684,51.28,2024,5,May,Tuesday
+2023-11-08,16:39:00,S5,Store B,Phone,3,391.04,Gift Card,TX300685,1173.12,2023,11,November,Wednesday
+2024-09-18,10:30:00,S5,Store C,Monitor,7,67.72,Gift Card,TX300686,474.04,2024,9,September,Wednesday
+2023-08-16,15:13:00,S4,Store C,Phone,6,8.4,Gift Card,TX300687,50.4,2023,8,August,Wednesday
+2024-05-14,10:30:00,S5,Store B,Desk,8,300.22,Debit Card,TX300688,2401.76,2024,5,May,Tuesday
+2024-04-13,19:35:00,S1,Store D,Chair,4,366.65,Cash,TX300689,1466.6,2024,4,April,Saturday
+2025-03-18,18:35:00,S2,Store A,Printer,5,234.05,Cash,TX300690,1170.25,2025,3,March,Tuesday
+2025-03-26,09:30:00,S2,Store C,Tablet,5,261.8,Cash,TX300691,1309.0,2025,3,March,Wednesday
+2023-06-13,19:43:00,S3,Store B,Laptop,10,226.09,Gift Card,TX300692,2260.9,2023,6,June,Tuesday
+2023-08-23,11:38:00,S1,Store B,Desk,5,217.01,Credit Card,TX300693,1085.05,2023,8,August,Wednesday
+2024-11-13,21:45:00,S8,Store B,Phone,10,281.41,Debit Card,TX300694,2814.1,2024,11,November,Wednesday
+2025-06-04,18:56:00,S7,Store B,Laptop,8,38.15,Gift Card,TX300695,305.2,2025,6,June,Wednesday
+2024-12-24,21:18:00,S5,Store C,Desk,5,331.54,Cash,TX300696,1657.7,2024,12,December,Tuesday
+2023-09-02,14:27:00,S9,Store C,Laptop,3,132.49,Online,TX300697,397.47,2023,9,September,Saturday
+2025-06-25,19:11:00,S9,Store A,Monitor,7,279.23,Online,TX300698,1954.61,2025,6,June,Wednesday
+2025-05-12,16:13:00,S8,Store A,Chair,1,236.07,Debit Card,TX300699,236.07,2025,5,May,Monday
+2024-10-13,17:37:00,S5,Store B,Laptop,8,21.25,Debit Card,TX300700,170.0,2024,10,October,Sunday
+2023-10-03,12:08:00,S8,Store D,Desk,1,292.38,Debit Card,TX300701,292.38,2023,10,October,Tuesday
+2024-11-09,13:00:00,S10,Store C,Laptop,8,23.0,Credit Card,TX300702,184.0,2024,11,November,Saturday
+2023-12-01,15:10:00,S10,Store D,Laptop,4,225.6,Gift Card,TX300703,902.4,2023,12,December,Friday
+2024-08-27,14:13:00,S7,Store A,Laptop,8,80.72,Online,TX300704,645.76,2024,8,August,Tuesday
+2023-09-09,21:56:00,S7,Store B,Phone,2,55.38,Gift Card,TX300705,110.76,2023,9,September,Saturday
+2023-05-08,11:03:00,S7,Store C,Chair,10,10.74,Credit Card,TX300706,107.4,2023,5,May,Monday
+2025-03-27,19:24:00,S2,Store A,Laptop,9,246.98,Gift Card,TX300707,2222.82,2025,3,March,Thursday
+2023-01-02,09:43:00,S7,Store D,Desk,2,213.68,Cash,TX300708,427.36,2023,1,January,Monday
+2024-07-30,11:35:00,S2,Store C,Chair,5,47.76,Debit Card,TX300709,238.8,2024,7,July,Tuesday
+2025-02-06,15:45:00,S10,Store D,Printer,8,280.6,Debit Card,TX300710,2244.8,2025,2,February,Thursday
+2025-01-22,19:26:00,S2,Store D,Chair,1,371.87,Gift Card,TX300711,371.87,2025,1,January,Wednesday
+2025-02-16,17:11:00,S7,Store B,Tablet,2,23.18,Cash,TX300712,46.36,2025,2,February,Sunday
+2024-11-01,18:14:00,S2,Store C,Laptop,8,358.62,Debit Card,TX300713,2868.96,2024,11,November,Friday
+2024-09-09,17:01:00,S8,Store B,Printer,10,237.2,Debit Card,TX300714,2372.0,2024,9,September,Monday
+2023-09-02,14:45:00,S5,Store C,Monitor,1,154.01,Gift Card,TX300715,154.01,2023,9,September,Saturday
+2023-03-07,09:39:00,S9,Store D,Chair,6,208.71,Online,TX300716,1252.26,2023,3,March,Tuesday
+2024-03-22,21:54:00,S10,Store A,Monitor,3,231.76,Online,TX300717,695.28,2024,3,March,Friday
+2023-09-20,13:38:00,S3,Store B,Laptop,3,218.65,Credit Card,TX300718,655.95,2023,9,September,Wednesday
+2023-01-01,13:29:00,S10,Store B,Printer,7,276.87,Cash,TX300719,1938.09,2023,1,January,Sunday
+2024-11-09,18:34:00,S8,Store B,Phone,10,371.02,Online,TX300720,3710.2,2024,11,November,Saturday
+2023-11-29,20:59:00,S7,Store D,Printer,4,220.56,Debit Card,TX300721,882.24,2023,11,November,Wednesday
+2023-07-05,13:53:00,S10,Store C,Tablet,4,200.98,Online,TX300722,803.92,2023,7,July,Wednesday
+2023-07-27,16:04:00,S9,Store A,Monitor,5,15.92,Gift Card,TX300723,79.6,2023,7,July,Thursday
+2025-02-10,12:04:00,S5,Store B,Desk,7,210.33,Cash,TX300724,1472.31,2025,2,February,Monday
+2024-11-03,12:09:00,S9,Store C,Tablet,4,183.93,Cash,TX300725,735.72,2024,11,November,Sunday
+2023-01-31,21:42:00,S6,Store A,Monitor,6,17.48,Credit Card,TX300726,104.88,2023,1,January,Tuesday
+2024-06-29,17:47:00,S6,Store C,Tablet,9,12.77,Gift Card,TX300727,114.93,2024,6,June,Saturday
+2023-01-05,21:37:00,S7,Store C,Phone,1,377.2,Debit Card,TX300728,377.2,2023,1,January,Thursday
+2023-12-05,10:07:00,S3,Store C,Phone,3,345.81,Debit Card,TX300729,1037.43,2023,12,December,Tuesday
+2023-03-22,16:38:00,S6,Store C,Phone,2,212.63,Debit Card,TX300730,425.26,2023,3,March,Wednesday
+2024-11-11,17:47:00,S3,Store A,Laptop,1,153.97,Online,TX300731,153.97,2024,11,November,Monday
+2023-02-15,15:10:00,S10,Store D,Tablet,10,390.62,Gift Card,TX300732,3906.2,2023,2,February,Wednesday
+2023-08-20,14:51:00,S5,Store A,Monitor,9,378.02,Credit Card,TX300733,3402.18,2023,8,August,Sunday
+2024-01-03,15:20:00,S6,Store B,Desk,3,304.35,Debit Card,TX300734,913.05,2024,1,January,Wednesday
+2023-09-04,13:40:00,S3,Store B,Printer,7,8.18,Gift Card,TX300735,57.26,2023,9,September,Monday
+2023-04-01,12:26:00,S3,Store B,Phone,8,372.97,Credit Card,TX300736,2983.76,2023,4,April,Saturday
+2024-04-10,10:25:00,S5,Store B,Chair,2,294.79,Debit Card,TX300737,589.58,2024,4,April,Wednesday
+2024-10-05,12:59:00,S8,Store A,Tablet,4,18.45,Debit Card,TX300738,73.8,2024,10,October,Saturday
+2024-04-23,18:47:00,S4,Store D,Chair,9,149.44,Gift Card,TX300739,1344.96,2024,4,April,Tuesday
+2024-07-28,12:25:00,S3,Store D,Laptop,1,142.55,Debit Card,TX300740,142.55,2024,7,July,Sunday
+2023-03-19,11:50:00,S8,Store D,Desk,2,90.59,Online,TX300741,181.18,2023,3,March,Sunday
+2025-03-26,18:36:00,S6,Store A,Printer,1,295.75,Gift Card,TX300742,295.75,2025,3,March,Wednesday
+2024-03-26,17:23:00,S7,Store C,Tablet,4,289.32,Gift Card,TX300743,1157.28,2024,3,March,Tuesday
+2025-01-26,20:04:00,S9,Store D,Phone,5,44.32,Credit Card,TX300744,221.6,2025,1,January,Sunday
+2025-03-23,18:30:00,S1,Store C,Desk,8,37.5,Online,TX300745,300.0,2025,3,March,Sunday
+2023-08-31,21:54:00,S2,Store A,Printer,4,252.56,Credit Card,TX300746,1010.24,2023,8,August,Thursday
+2023-04-13,13:16:00,S6,Store D,Tablet,6,367.26,Online,TX300747,2203.56,2023,4,April,Thursday
+2023-03-15,09:17:00,S5,Store D,Monitor,7,46.54,Online,TX300748,325.78,2023,3,March,Wednesday
+2024-05-29,13:14:00,S9,Store D,Tablet,7,250.76,Cash,TX300749,1755.32,2024,5,May,Wednesday
+2023-05-18,18:29:00,S3,Store D,Tablet,6,359.48,Cash,TX300750,2156.88,2023,5,May,Thursday
+2024-10-27,20:13:00,S4,Store C,Monitor,10,295.74,Debit Card,TX300751,2957.4,2024,10,October,Sunday
+2024-03-04,13:31:00,S10,Store D,Laptop,7,383.18,Debit Card,TX300752,2682.26,2024,3,March,Monday
+2023-11-26,18:19:00,S7,Store C,Tablet,6,267.88,Debit Card,TX300753,1607.28,2023,11,November,Sunday
+2023-09-30,16:34:00,S10,Store C,Phone,7,87.98,Debit Card,TX300754,615.86,2023,9,September,Saturday
+2025-05-21,18:48:00,S3,Store A,Tablet,1,324.91,Gift Card,TX300755,324.91,2025,5,May,Wednesday
+2023-10-08,16:17:00,S4,Store C,Monitor,10,51.6,Gift Card,TX300756,516.0,2023,10,October,Sunday
+2025-05-05,11:28:00,S2,Store A,Phone,6,124.48,Cash,TX300757,746.88,2025,5,May,Monday
+2023-10-15,16:49:00,S7,Store A,Phone,1,388.96,Credit Card,TX300758,388.96,2023,10,October,Sunday
+2023-09-08,21:38:00,S8,Store D,Monitor,3,94.78,Online,TX300759,284.34,2023,9,September,Friday
+2024-11-09,16:34:00,S4,Store D,Laptop,8,229.52,Credit Card,TX300760,1836.16,2024,11,November,Saturday
+2024-09-04,10:27:00,S6,Store B,Chair,8,270.4,Debit Card,TX300761,2163.2,2024,9,September,Wednesday
+2023-10-07,14:18:00,S1,Store D,Monitor,5,252.4,Credit Card,TX300762,1262.0,2023,10,October,Saturday
+2024-09-19,10:51:00,S8,Store C,Monitor,1,296.26,Cash,TX300763,296.26,2024,9,September,Thursday
+2024-11-13,17:48:00,S3,Store C,Tablet,8,368.79,Gift Card,TX300764,2950.32,2024,11,November,Wednesday
+2025-03-28,21:10:00,S4,Store B,Printer,9,52.48,Credit Card,TX300765,472.32,2025,3,March,Friday
+2025-06-24,16:55:00,S2,Store A,Printer,1,362.13,Debit Card,TX300766,362.13,2025,6,June,Tuesday
+2024-03-25,19:12:00,S9,Store B,Printer,6,69.21,Online,TX300767,415.26,2024,3,March,Monday
+2023-02-24,19:08:00,S2,Store C,Printer,6,152.42,Cash,TX300768,914.52,2023,2,February,Friday
+2024-06-18,17:41:00,S9,Store B,Printer,10,297.7,Online,TX300769,2977.0,2024,6,June,Tuesday
+2023-01-07,16:20:00,S4,Store D,Chair,3,53.9,Debit Card,TX300770,161.7,2023,1,January,Saturday
+2023-03-28,21:08:00,S10,Store C,Tablet,4,10.77,Cash,TX300771,43.08,2023,3,March,Tuesday
+2023-03-06,10:48:00,S6,Store A,Phone,4,366.43,Cash,TX300772,1465.72,2023,3,March,Monday
+2023-04-14,19:41:00,S1,Store B,Laptop,2,210.28,Debit Card,TX300773,420.56,2023,4,April,Friday
+2023-10-14,13:22:00,S4,Store A,Phone,6,258.31,Credit Card,TX300774,1549.86,2023,10,October,Saturday
+2023-01-02,17:11:00,S3,Store C,Printer,6,395.89,Online,TX300775,2375.34,2023,1,January,Monday
+2024-04-22,19:01:00,S3,Store B,Monitor,3,385.34,Credit Card,TX300776,1156.02,2024,4,April,Monday
+2023-09-24,15:56:00,S7,Store B,Phone,5,188.3,Credit Card,TX300777,941.5,2023,9,September,Sunday
+2023-10-31,13:01:00,S10,Store C,Laptop,6,187.42,Cash,TX300778,1124.52,2023,10,October,Tuesday
+2024-10-12,13:38:00,S3,Store B,Tablet,1,26.79,Debit Card,TX300779,26.79,2024,10,October,Saturday
+2024-11-30,10:51:00,S7,Store B,Monitor,6,248.6,Credit Card,TX300780,1491.6,2024,11,November,Saturday
+2023-03-19,20:19:00,S8,Store A,Desk,10,307.43,Credit Card,TX300781,3074.3,2023,3,March,Sunday
+2025-03-18,09:38:00,S9,Store A,Chair,2,37.5,Debit Card,TX300782,75.0,2025,3,March,Tuesday
+2024-08-05,21:41:00,S9,Store D,Tablet,8,90.61,Credit Card,TX300783,724.88,2024,8,August,Monday
+2023-01-23,10:15:00,S9,Store A,Printer,4,362.84,Cash,TX300784,1451.36,2023,1,January,Monday
+2023-07-08,11:55:00,S6,Store B,Laptop,2,54.41,Gift Card,TX300785,108.82,2023,7,July,Saturday
+2024-03-07,10:55:00,S3,Store C,Desk,2,110.95,Credit Card,TX300786,221.9,2024,3,March,Thursday
+2023-11-21,09:11:00,S5,Store C,Desk,6,284.03,Credit Card,TX300787,1704.18,2023,11,November,Tuesday
+2024-06-14,16:47:00,S2,Store A,Monitor,3,83.49,Gift Card,TX300788,250.47,2024,6,June,Friday
+2023-06-03,17:06:00,S8,Store B,Laptop,8,274.38,Cash,TX300789,2195.04,2023,6,June,Saturday
+2025-02-12,09:02:00,S8,Store A,Desk,5,183.23,Debit Card,TX300790,916.15,2025,2,February,Wednesday
+2024-06-11,11:39:00,S2,Store D,Chair,2,334.18,Credit Card,TX300791,668.36,2024,6,June,Tuesday
+2023-12-10,09:57:00,S6,Store B,Phone,9,52.06,Gift Card,TX300792,468.54,2023,12,December,Sunday
+2023-11-24,16:37:00,S6,Store D,Laptop,7,95.68,Credit Card,TX300793,669.76,2023,11,November,Friday
+2023-01-12,21:19:00,S8,Store B,Tablet,3,213.45,Online,TX300794,640.35,2023,1,January,Thursday
+2024-03-31,10:55:00,S8,Store C,Printer,6,331.06,Debit Card,TX300795,1986.36,2024,3,March,Sunday
+2024-04-17,12:03:00,S2,Store B,Tablet,4,232.8,Debit Card,TX300796,931.2,2024,4,April,Wednesday
+2024-07-08,20:47:00,S6,Store A,Laptop,8,355.36,Cash,TX300797,2842.88,2024,7,July,Monday
+2024-04-28,10:35:00,S9,Store D,Chair,10,377.3,Online,TX300798,3773.0,2024,4,April,Sunday
+2024-07-09,16:01:00,S1,Store C,Phone,8,330.84,Cash,TX300799,2646.72,2024,7,July,Tuesday
+2023-07-18,14:53:00,S2,Store A,Chair,3,320.9,Online,TX300800,962.7,2023,7,July,Tuesday
+2024-01-06,16:10:00,S5,Store A,Monitor,6,236.45,Online,TX300801,1418.7,2024,1,January,Saturday
+2024-11-12,15:47:00,S4,Store A,Printer,7,152.73,Debit Card,TX300802,1069.11,2024,11,November,Tuesday
+2025-01-01,20:55:00,S1,Store B,Tablet,5,70.03,Cash,TX300803,350.15,2025,1,January,Wednesday
+2024-04-13,18:18:00,S5,Store C,Printer,9,150.05,Online,TX300804,1350.45,2024,4,April,Saturday
+2023-04-03,10:46:00,S4,Store B,Chair,1,91.53,Credit Card,TX300805,91.53,2023,4,April,Monday
+2023-01-21,17:20:00,S3,Store C,Monitor,4,264.5,Cash,TX300806,1058.0,2023,1,January,Saturday
+2025-02-20,09:16:00,S4,Store A,Desk,3,158.85,Gift Card,TX300807,476.55,2025,2,February,Thursday
+2024-09-12,11:05:00,S9,Store D,Chair,10,78.58,Credit Card,TX300808,785.8,2024,9,September,Thursday
+2024-01-10,16:55:00,S1,Store C,Chair,10,298.16,Cash,TX300809,2981.6,2024,1,January,Wednesday
+2023-07-13,16:08:00,S2,Store D,Phone,3,339.33,Cash,TX300810,1017.99,2023,7,July,Thursday
+2024-09-05,21:05:00,S6,Store D,Monitor,10,239.02,Online,TX300811,2390.2,2024,9,September,Thursday
+2024-11-19,16:45:00,S9,Store D,Monitor,6,33.96,Online,TX300812,203.76,2024,11,November,Tuesday
+2025-04-13,17:20:00,S10,Store C,Monitor,6,363.2,Cash,TX300813,2179.2,2025,4,April,Sunday
+2023-02-17,17:15:00,S3,Store C,Laptop,2,219.89,Credit Card,TX300814,439.78,2023,2,February,Friday
+2025-04-01,19:43:00,S8,Store C,Monitor,6,78.16,Credit Card,TX300815,468.96,2025,4,April,Tuesday
+2023-03-31,21:56:00,S3,Store D,Monitor,3,26.29,Credit Card,TX300816,78.87,2023,3,March,Friday
+2024-11-26,16:15:00,S3,Store C,Laptop,8,30.71,Online,TX300817,245.68,2024,11,November,Tuesday
+2023-10-10,09:10:00,S8,Store B,Phone,7,132.85,Gift Card,TX300818,929.95,2023,10,October,Tuesday
+2024-03-16,15:15:00,S6,Store A,Tablet,6,263.04,Credit Card,TX300819,1578.24,2024,3,March,Saturday
+2024-09-26,13:53:00,S3,Store B,Desk,10,343.56,Cash,TX300820,3435.6,2024,9,September,Thursday
+2025-06-17,21:12:00,S4,Store B,Chair,1,356.83,Gift Card,TX300821,356.83,2025,6,June,Tuesday
+2025-04-23,21:10:00,S3,Store C,Laptop,4,23.58,Online,TX300822,94.32,2025,4,April,Wednesday
+2023-12-27,17:51:00,S3,Store B,Printer,3,125.95,Online,TX300823,377.85,2023,12,December,Wednesday
+2023-02-10,09:10:00,S10,Store C,Printer,5,202.74,Cash,TX300824,1013.7,2023,2,February,Friday
+2024-03-12,14:28:00,S1,Store D,Chair,3,339.72,Online,TX300825,1019.16,2024,3,March,Tuesday
+2025-03-06,10:10:00,S6,Store A,Printer,8,258.44,Gift Card,TX300826,2067.52,2025,3,March,Thursday
+2024-06-07,14:43:00,S2,Store D,Monitor,7,324.63,Gift Card,TX300827,2272.41,2024,6,June,Friday
+2025-03-04,16:14:00,S4,Store D,Phone,10,218.99,Cash,TX300828,2189.9,2025,3,March,Tuesday
+2023-11-30,10:26:00,S6,Store A,Desk,9,304.14,Online,TX300829,2737.26,2023,11,November,Thursday
+2024-01-02,11:34:00,S7,Store C,Chair,9,255.06,Credit Card,TX300830,2295.54,2024,1,January,Tuesday
+2024-10-02,17:35:00,S1,Store C,Printer,4,306.21,Gift Card,TX300831,1224.84,2024,10,October,Wednesday
+2024-06-30,14:04:00,S9,Store D,Phone,8,368.84,Online,TX300832,2950.72,2024,6,June,Sunday
+2025-01-30,16:50:00,S6,Store B,Laptop,1,215.32,Cash,TX300833,215.32,2025,1,January,Thursday
+2024-10-30,16:22:00,S8,Store D,Monitor,10,196.13,Gift Card,TX300834,1961.3,2024,10,October,Wednesday
+2024-03-11,12:51:00,S10,Store C,Monitor,2,135.56,Cash,TX300835,271.12,2024,3,March,Monday
+2024-02-13,10:59:00,S4,Store D,Tablet,7,55.66,Cash,TX300836,389.62,2024,2,February,Tuesday
+2024-10-14,11:14:00,S6,Store C,Monitor,6,273.77,Cash,TX300837,1642.62,2024,10,October,Monday
+2025-01-16,20:11:00,S1,Store A,Chair,10,327.45,Cash,TX300838,3274.5,2025,1,January,Thursday
+2023-05-29,21:05:00,S6,Store A,Laptop,8,69.04,Credit Card,TX300839,552.32,2023,5,May,Monday
+2024-09-03,13:12:00,S9,Store D,Monitor,8,225.66,Credit Card,TX300840,1805.28,2024,9,September,Tuesday
+2024-10-04,17:43:00,S4,Store B,Laptop,8,364.36,Gift Card,TX300841,2914.88,2024,10,October,Friday
+2024-02-14,17:27:00,S1,Store A,Monitor,9,341.96,Gift Card,TX300842,3077.64,2024,2,February,Wednesday
+2024-04-22,13:53:00,S8,Store C,Chair,2,220.74,Cash,TX300843,441.48,2024,4,April,Monday
+2023-07-20,18:38:00,S5,Store B,Laptop,1,222.88,Credit Card,TX300844,222.88,2023,7,July,Thursday
+2024-10-27,12:17:00,S1,Store C,Phone,4,155.65,Online,TX300845,622.6,2024,10,October,Sunday
+2023-12-22,16:03:00,S7,Store D,Monitor,6,391.4,Online,TX300846,2348.4,2023,12,December,Friday
+2023-06-11,20:28:00,S6,Store A,Laptop,4,230.11,Cash,TX300847,920.44,2023,6,June,Sunday
+2023-11-01,13:30:00,S10,Store D,Chair,6,360.69,Credit Card,TX300848,2164.14,2023,11,November,Wednesday
+2023-12-21,20:05:00,S5,Store D,Monitor,3,276.34,Credit Card,TX300849,829.02,2023,12,December,Thursday
+2023-09-09,21:18:00,S3,Store A,Chair,2,178.88,Debit Card,TX300850,357.76,2023,9,September,Saturday
+2023-02-26,09:13:00,S4,Store D,Phone,6,96.53,Cash,TX300851,579.18,2023,2,February,Sunday
+2023-12-13,12:17:00,S5,Store B,Monitor,2,52.8,Cash,TX300852,105.6,2023,12,December,Wednesday
+2023-12-18,10:33:00,S6,Store B,Monitor,10,213.74,Gift Card,TX300853,2137.4,2023,12,December,Monday
+2024-10-14,18:40:00,S1,Store C,Monitor,3,12.98,Cash,TX300854,38.94,2024,10,October,Monday
+2023-05-10,09:33:00,S1,Store C,Chair,7,293.77,Cash,TX300855,2056.39,2023,5,May,Wednesday
+2023-11-12,14:28:00,S9,Store B,Tablet,5,288.71,Online,TX300856,1443.55,2023,11,November,Sunday
+2024-12-23,10:23:00,S1,Store A,Laptop,7,47.88,Cash,TX300857,335.16,2024,12,December,Monday
+2025-01-23,15:09:00,S8,Store D,Chair,1,355.54,Gift Card,TX300858,355.54,2025,1,January,Thursday
+2024-07-20,11:01:00,S5,Store A,Phone,3,331.3,Online,TX300859,993.9,2024,7,July,Saturday
+2023-09-14,19:35:00,S6,Store A,Desk,3,26.97,Cash,TX300860,80.91,2023,9,September,Thursday
+2024-09-24,10:17:00,S3,Store C,Chair,5,394.6,Debit Card,TX300861,1973.0,2024,9,September,Tuesday
+2024-04-11,11:46:00,S8,Store D,Printer,7,235.07,Cash,TX300862,1645.49,2024,4,April,Thursday
+2024-12-30,09:55:00,S1,Store B,Laptop,9,354.65,Online,TX300863,3191.85,2024,12,December,Monday
+2024-11-05,09:22:00,S7,Store A,Tablet,4,177.34,Gift Card,TX300864,709.36,2024,11,November,Tuesday
+2025-04-05,20:17:00,S10,Store D,Printer,2,69.27,Gift Card,TX300865,138.54,2025,4,April,Saturday
+2025-01-11,18:06:00,S6,Store B,Tablet,6,180.53,Debit Card,TX300866,1083.18,2025,1,January,Saturday
+2025-06-08,13:29:00,S1,Store B,Chair,1,249.98,Cash,TX300867,249.98,2025,6,June,Sunday
+2024-08-17,14:59:00,S4,Store D,Phone,2,159.78,Online,TX300868,319.56,2024,8,August,Saturday
+2025-01-16,14:57:00,S1,Store D,Laptop,1,385.99,Online,TX300869,385.99,2025,1,January,Thursday
+2024-05-02,20:23:00,S9,Store D,Monitor,10,138.86,Cash,TX300870,1388.6,2024,5,May,Thursday
+2023-09-28,18:53:00,S7,Store C,Desk,4,90.29,Gift Card,TX300871,361.16,2023,9,September,Thursday
+2023-03-18,12:18:00,S3,Store C,Laptop,6,159.58,Debit Card,TX300872,957.48,2023,3,March,Saturday
+2024-01-01,16:34:00,S2,Store C,Monitor,8,151.31,Gift Card,TX300873,1210.48,2024,1,January,Monday
+2023-11-28,20:31:00,S7,Store A,Desk,10,79.69,Online,TX300874,796.9,2023,11,November,Tuesday
+2023-10-23,11:15:00,S7,Store C,Desk,10,324.83,Online,TX300875,3248.3,2023,10,October,Monday
+2024-07-23,14:16:00,S9,Store B,Desk,1,147.84,Gift Card,TX300876,147.84,2024,7,July,Tuesday
+2023-10-24,20:29:00,S6,Store C,Monitor,7,285.42,Credit Card,TX300877,1997.94,2023,10,October,Tuesday
+2024-09-15,13:09:00,S1,Store A,Printer,4,160.51,Cash,TX300878,642.04,2024,9,September,Sunday
+2024-10-29,16:36:00,S5,Store D,Phone,2,394.52,Gift Card,TX300879,789.04,2024,10,October,Tuesday
+2025-04-20,17:53:00,S5,Store C,Phone,10,170.14,Online,TX300880,1701.4,2025,4,April,Sunday
+2024-04-23,17:43:00,S10,Store C,Monitor,10,144.39,Cash,TX300881,1443.9,2024,4,April,Tuesday
+2023-08-18,09:04:00,S10,Store D,Monitor,7,355.97,Online,TX300882,2491.79,2023,8,August,Friday
+2023-10-14,18:56:00,S4,Store C,Phone,1,319.26,Gift Card,TX300883,319.26,2023,10,October,Saturday
+2024-02-23,11:50:00,S10,Store A,Laptop,4,96.13,Credit Card,TX300884,384.52,2024,2,February,Friday
+2023-08-28,20:15:00,S3,Store D,Laptop,6,160.47,Online,TX300885,962.82,2023,8,August,Monday
+2024-04-09,15:38:00,S7,Store A,Printer,2,288.11,Online,TX300886,576.22,2024,4,April,Tuesday
+2024-02-19,09:10:00,S5,Store B,Printer,4,97.8,Cash,TX300887,391.2,2024,2,February,Monday
+2023-12-16,14:34:00,S6,Store A,Desk,1,228.94,Credit Card,TX300888,228.94,2023,12,December,Saturday
+2023-07-30,10:23:00,S9,Store D,Tablet,4,326.36,Debit Card,TX300889,1305.44,2023,7,July,Sunday
+2023-01-26,12:29:00,S6,Store A,Chair,8,100.89,Gift Card,TX300890,807.12,2023,1,January,Thursday
+2025-06-28,15:52:00,S5,Store C,Chair,6,153.65,Gift Card,TX300891,921.9,2025,6,June,Saturday
+2024-02-21,13:53:00,S10,Store A,Phone,4,335.28,Debit Card,TX300892,1341.12,2024,2,February,Wednesday
+2025-05-22,13:37:00,S1,Store D,Tablet,8,351.15,Online,TX300893,2809.2,2025,5,May,Thursday
+2024-08-04,11:16:00,S6,Store D,Desk,2,202.0,Debit Card,TX300894,404.0,2024,8,August,Sunday
+2025-02-21,14:45:00,S5,Store D,Tablet,6,192.41,Cash,TX300895,1154.46,2025,2,February,Friday
+2023-04-21,18:40:00,S10,Store A,Tablet,9,206.01,Credit Card,TX300896,1854.09,2023,4,April,Friday
+2023-03-15,16:24:00,S10,Store C,Phone,3,375.43,Debit Card,TX300897,1126.29,2023,3,March,Wednesday
+2024-11-29,17:29:00,S7,Store C,Printer,7,98.82,Debit Card,TX300898,691.74,2024,11,November,Friday
+2023-09-24,12:38:00,S4,Store A,Chair,8,141.12,Cash,TX300899,1128.96,2023,9,September,Sunday
+2024-03-01,11:43:00,S6,Store D,Laptop,4,388.12,Online,TX300900,1552.48,2024,3,March,Friday
+2023-03-24,11:49:00,S4,Store B,Tablet,4,372.75,Credit Card,TX300901,1491.0,2023,3,March,Friday
+2024-12-17,17:07:00,S5,Store B,Laptop,1,120.47,Cash,TX300902,120.47,2024,12,December,Tuesday
+2025-04-14,12:43:00,S3,Store A,Printer,2,86.6,Gift Card,TX300903,173.2,2025,4,April,Monday
+2023-03-13,18:13:00,S4,Store D,Desk,5,140.39,Credit Card,TX300904,701.95,2023,3,March,Monday
+2023-12-06,12:17:00,S9,Store C,Desk,6,152.18,Cash,TX300905,913.08,2023,12,December,Wednesday
+2024-08-18,20:25:00,S2,Store D,Tablet,10,72.47,Credit Card,TX300906,724.7,2024,8,August,Sunday
+2023-06-29,17:39:00,S10,Store C,Phone,6,249.3,Online,TX300907,1495.8,2023,6,June,Thursday
+2023-09-24,12:21:00,S6,Store C,Printer,10,42.45,Credit Card,TX300908,424.5,2023,9,September,Sunday
+2023-01-14,10:01:00,S5,Store A,Desk,6,152.63,Online,TX300909,915.78,2023,1,January,Saturday
+2024-10-28,14:56:00,S5,Store C,Desk,5,91.27,Gift Card,TX300910,456.35,2024,10,October,Monday
+2024-05-27,19:23:00,S7,Store B,Laptop,5,155.88,Credit Card,TX300911,779.4,2024,5,May,Monday
+2023-09-01,17:46:00,S3,Store A,Tablet,3,167.77,Gift Card,TX300912,503.31,2023,9,September,Friday
+2025-01-13,17:56:00,S5,Store A,Tablet,3,389.45,Online,TX300913,1168.35,2025,1,January,Monday
+2024-08-19,15:13:00,S4,Store B,Desk,1,113.57,Online,TX300914,113.57,2024,8,August,Monday
+2024-12-05,15:01:00,S3,Store C,Chair,1,11.97,Online,TX300915,11.97,2024,12,December,Thursday
+2024-08-15,10:53:00,S8,Store D,Printer,2,389.92,Debit Card,TX300916,779.84,2024,8,August,Thursday
+2024-12-09,18:46:00,S9,Store C,Printer,10,301.79,Credit Card,TX300917,3017.9,2024,12,December,Monday
+2023-11-08,14:53:00,S2,Store D,Monitor,3,140.91,Gift Card,TX300918,422.73,2023,11,November,Wednesday
+2025-03-04,17:23:00,S5,Store B,Chair,4,384.08,Debit Card,TX300919,1536.32,2025,3,March,Tuesday
+2023-06-15,18:48:00,S10,Store A,Tablet,6,199.51,Gift Card,TX300920,1197.06,2023,6,June,Thursday
+2024-02-29,14:42:00,S10,Store A,Monitor,3,246.73,Cash,TX300921,740.19,2024,2,February,Thursday
+2023-01-15,12:42:00,S6,Store B,Monitor,6,172.81,Debit Card,TX300922,1036.86,2023,1,January,Sunday
+2023-03-24,09:44:00,S9,Store C,Monitor,4,393.0,Credit Card,TX300923,1572.0,2023,3,March,Friday
+2023-09-29,16:40:00,S3,Store B,Printer,10,223.88,Credit Card,TX300924,2238.8,2023,9,September,Friday
+2023-02-14,13:27:00,S5,Store C,Laptop,2,144.82,Gift Card,TX300925,289.64,2023,2,February,Tuesday
+2025-03-13,15:39:00,S10,Store A,Chair,7,97.22,Cash,TX300926,680.54,2025,3,March,Thursday
+2023-11-14,19:04:00,S4,Store B,Laptop,3,276.7,Online,TX300927,830.1,2023,11,November,Tuesday
+2024-02-15,18:09:00,S1,Store D,Monitor,7,192.28,Cash,TX300928,1345.96,2024,2,February,Thursday
+2025-01-11,20:03:00,S2,Store D,Tablet,7,123.1,Online,TX300929,861.7,2025,1,January,Saturday
+2024-02-27,09:55:00,S10,Store D,Printer,3,339.25,Debit Card,TX300930,1017.75,2024,2,February,Tuesday
+2024-03-18,20:13:00,S9,Store C,Chair,5,329.67,Cash,TX300931,1648.35,2024,3,March,Monday
+2024-07-18,19:48:00,S8,Store A,Chair,2,85.7,Online,TX300932,171.4,2024,7,July,Thursday
+2023-01-23,18:04:00,S5,Store A,Chair,8,81.87,Cash,TX300933,654.96,2023,1,January,Monday
+2024-02-26,13:28:00,S1,Store A,Desk,1,20.69,Credit Card,TX300934,20.69,2024,2,February,Monday
+2023-08-10,14:12:00,S8,Store C,Chair,2,82.94,Debit Card,TX300935,165.88,2023,8,August,Thursday
+2025-04-14,16:16:00,S4,Store A,Desk,8,25.34,Cash,TX300936,202.72,2025,4,April,Monday
+2024-08-01,13:42:00,S8,Store A,Laptop,7,47.17,Debit Card,TX300937,330.19,2024,8,August,Thursday
+2024-06-22,09:10:00,S2,Store A,Printer,1,154.27,Online,TX300938,154.27,2024,6,June,Saturday
+2024-08-10,16:26:00,S10,Store D,Tablet,1,168.73,Debit Card,TX300939,168.73,2024,8,August,Saturday
+2025-03-05,18:39:00,S5,Store A,Chair,9,72.36,Cash,TX300940,651.24,2025,3,March,Wednesday
+2024-11-17,13:33:00,S1,Store B,Phone,6,314.56,Gift Card,TX300941,1887.36,2024,11,November,Sunday
+2024-01-28,14:35:00,S3,Store A,Tablet,7,263.9,Credit Card,TX300942,1847.3,2024,1,January,Sunday
+2023-02-15,10:04:00,S3,Store B,Chair,10,330.66,Gift Card,TX300943,3306.6,2023,2,February,Wednesday
+2024-09-28,09:44:00,S2,Store B,Chair,10,60.63,Gift Card,TX300944,606.3,2024,9,September,Saturday
+2023-12-05,15:05:00,S8,Store B,Tablet,4,161.58,Credit Card,TX300945,646.32,2023,12,December,Tuesday
+2024-05-23,16:16:00,S10,Store A,Phone,5,40.39,Online,TX300946,201.95,2024,5,May,Thursday
+2024-03-02,15:17:00,S4,Store D,Tablet,8,43.32,Cash,TX300947,346.56,2024,3,March,Saturday
+2025-04-03,14:34:00,S1,Store B,Laptop,5,281.55,Online,TX300948,1407.75,2025,4,April,Thursday
+2024-06-20,09:18:00,S1,Store B,Laptop,8,12.14,Gift Card,TX300949,97.12,2024,6,June,Thursday
+2025-02-08,18:31:00,S10,Store D,Desk,3,92.98,Credit Card,TX300950,278.94,2025,2,February,Saturday
+2025-03-12,14:13:00,S4,Store A,Phone,1,240.4,Online,TX300951,240.4,2025,3,March,Wednesday
+2023-12-24,20:30:00,S10,Store D,Tablet,4,397.6,Credit Card,TX300952,1590.4,2023,12,December,Sunday
+2025-03-19,11:28:00,S3,Store B,Printer,2,386.74,Cash,TX300953,773.48,2025,3,March,Wednesday
+2023-07-26,20:50:00,S6,Store C,Laptop,7,131.63,Cash,TX300954,921.41,2023,7,July,Wednesday
+2023-06-26,18:33:00,S5,Store D,Laptop,4,139.81,Credit Card,TX300955,559.24,2023,6,June,Monday
+2023-11-13,15:18:00,S1,Store C,Chair,5,328.34,Debit Card,TX300956,1641.7,2023,11,November,Monday
+2024-12-05,10:31:00,S2,Store A,Monitor,5,211.16,Online,TX300957,1055.8,2024,12,December,Thursday
+2024-09-20,20:43:00,S4,Store B,Monitor,10,203.44,Credit Card,TX300958,2034.4,2024,9,September,Friday
+2024-10-31,18:13:00,S8,Store B,Tablet,9,328.18,Online,TX300959,2953.62,2024,10,October,Thursday
+2023-04-09,16:50:00,S1,Store A,Chair,10,229.46,Credit Card,TX300960,2294.6,2023,4,April,Sunday
+2025-05-12,16:42:00,S4,Store A,Laptop,3,315.21,Credit Card,TX300961,945.63,2025,5,May,Monday
+2023-09-19,15:20:00,S2,Store C,Monitor,8,372.17,Credit Card,TX300962,2977.36,2023,9,September,Tuesday
+2024-03-28,09:43:00,S9,Store A,Tablet,8,235.9,Online,TX300963,1887.2,2024,3,March,Thursday
+2023-03-01,21:25:00,S1,Store C,Phone,5,13.65,Cash,TX300964,68.25,2023,3,March,Wednesday
+2024-11-13,16:06:00,S10,Store A,Tablet,6,158.08,Credit Card,TX300965,948.48,2024,11,November,Wednesday
+2024-11-25,10:13:00,S9,Store B,Desk,6,321.57,Cash,TX300966,1929.42,2024,11,November,Monday
+2025-06-26,17:06:00,S1,Store A,Phone,6,261.27,Credit Card,TX300967,1567.62,2025,6,June,Thursday
+2025-01-13,18:53:00,S4,Store A,Phone,4,327.87,Debit Card,TX300968,1311.48,2025,1,January,Monday
+2025-03-14,14:00:00,S8,Store A,Laptop,3,16.25,Credit Card,TX300969,48.75,2025,3,March,Friday
+2023-03-22,13:57:00,S5,Store A,Monitor,10,38.83,Cash,TX300970,388.3,2023,3,March,Wednesday
+2025-02-14,12:45:00,S2,Store B,Desk,8,39.13,Online,TX300971,313.04,2025,2,February,Friday
+2023-03-15,11:54:00,S9,Store D,Laptop,1,230.26,Gift Card,TX300972,230.26,2023,3,March,Wednesday
+2023-10-24,16:04:00,S10,Store B,Desk,10,362.13,Debit Card,TX300973,3621.3,2023,10,October,Tuesday
+2024-08-11,09:46:00,S2,Store D,Monitor,1,171.54,Gift Card,TX300974,171.54,2024,8,August,Sunday
+2024-09-02,09:15:00,S2,Store D,Laptop,10,160.28,Credit Card,TX300975,1602.8,2024,9,September,Monday
+2025-05-10,18:22:00,S2,Store B,Monitor,4,217.17,Online,TX300976,868.68,2025,5,May,Saturday
+2023-12-09,13:06:00,S9,Store B,Desk,3,330.9,Debit Card,TX300977,992.7,2023,12,December,Saturday
+2025-01-29,20:53:00,S10,Store C,Desk,7,258.57,Debit Card,TX300978,1809.99,2025,1,January,Wednesday
+2024-12-31,10:28:00,S10,Store C,Chair,1,106.8,Credit Card,TX300979,106.8,2024,12,December,Tuesday
+2024-05-24,16:26:00,S3,Store B,Chair,8,109.46,Credit Card,TX300980,875.68,2024,5,May,Friday
+2025-02-20,09:25:00,S4,Store C,Desk,10,133.34,Cash,TX300981,1333.4,2025,2,February,Thursday
+2023-12-20,18:11:00,S9,Store A,Phone,3,277.08,Cash,TX300982,831.24,2023,12,December,Wednesday
+2025-05-04,13:17:00,S9,Store D,Monitor,4,337.24,Cash,TX300983,1348.96,2025,5,May,Sunday
+2025-01-22,15:34:00,S4,Store C,Tablet,1,395.95,Gift Card,TX300984,395.95,2025,1,January,Wednesday
+2024-05-10,11:00:00,S9,Store B,Monitor,1,174.29,Cash,TX300985,174.29,2024,5,May,Friday
+2023-09-06,17:24:00,S7,Store C,Phone,9,257.94,Credit Card,TX300986,2321.46,2023,9,September,Wednesday
+2025-01-09,15:53:00,S4,Store C,Desk,2,127.23,Online,TX300987,254.46,2025,1,January,Thursday
+2024-07-25,09:21:00,S6,Store D,Laptop,10,66.37,Cash,TX300988,663.7,2024,7,July,Thursday
+2023-09-25,14:37:00,S10,Store C,Chair,10,184.31,Cash,TX300989,1843.1,2023,9,September,Monday
+2024-05-12,10:05:00,S9,Store B,Printer,6,257.91,Online,TX300990,1547.46,2024,5,May,Sunday
+2024-04-17,19:23:00,S6,Store C,Printer,10,42.03,Gift Card,TX300991,420.3,2024,4,April,Wednesday
+2024-10-31,13:39:00,S6,Store C,Tablet,2,110.13,Cash,TX300992,220.26,2024,10,October,Thursday
+2023-02-08,21:03:00,S1,Store A,Monitor,7,389.71,Debit Card,TX300993,2727.97,2023,2,February,Wednesday
+2023-10-23,20:00:00,S8,Store B,Phone,2,320.51,Cash,TX300994,641.02,2023,10,October,Monday
+2023-05-22,13:22:00,S1,Store B,Chair,7,371.04,Gift Card,TX300995,2597.28,2023,5,May,Monday
+2024-12-22,18:40:00,S1,Store A,Tablet,5,61.64,Online,TX300996,308.2,2024,12,December,Sunday
+2024-02-20,20:19:00,S6,Store B,Monitor,6,121.9,Credit Card,TX300997,731.4,2024,2,February,Tuesday
+2023-08-27,21:30:00,S6,Store C,Monitor,6,356.85,Cash,TX300998,2141.1,2023,8,August,Sunday
+2023-09-10,21:04:00,S6,Store A,Chair,1,244.43,Cash,TX300999,244.43,2023,9,September,Sunday
+2025-03-29,20:08:00,S2,Store D,Phone,7,153.68,Credit Card,TX301000,1075.76,2025,3,March,Saturday
+2025-03-02,10:46:00,S8,Store D,Printer,8,240.82,Debit Card,TX301001,1926.56,2025,3,March,Sunday
+2024-09-05,13:54:00,S4,Store A,Printer,9,65.08,Cash,TX301002,585.72,2024,9,September,Thursday
+2023-11-19,15:00:00,S2,Store B,Printer,2,93.8,Cash,TX301003,187.6,2023,11,November,Sunday
+2024-07-27,18:00:00,S1,Store D,Laptop,4,138.49,Credit Card,TX301004,553.96,2024,7,July,Saturday
+2024-06-29,14:07:00,S2,Store B,Desk,2,75.8,Debit Card,TX301005,151.6,2024,6,June,Saturday
+2024-02-08,16:58:00,S8,Store B,Tablet,8,89.24,Credit Card,TX301006,713.92,2024,2,February,Thursday
+2025-05-23,14:05:00,S7,Store B,Printer,2,386.54,Debit Card,TX301007,773.08,2025,5,May,Friday
+2024-11-16,11:30:00,S9,Store D,Phone,5,343.92,Gift Card,TX301008,1719.6,2024,11,November,Saturday
+2023-08-01,10:35:00,S2,Store A,Tablet,3,362.73,Credit Card,TX301009,1088.19,2023,8,August,Tuesday
+2024-04-01,20:11:00,S5,Store D,Printer,7,355.17,Credit Card,TX301010,2486.19,2024,4,April,Monday
+2023-11-17,21:55:00,S5,Store A,Tablet,10,147.16,Debit Card,TX301011,1471.6,2023,11,November,Friday
+2023-08-18,16:27:00,S5,Store D,Desk,1,195.82,Debit Card,TX301012,195.82,2023,8,August,Friday
+2025-01-17,15:19:00,S7,Store A,Tablet,9,118.67,Credit Card,TX301013,1068.03,2025,1,January,Friday
+2023-06-24,21:08:00,S8,Store A,Monitor,10,315.98,Online,TX301014,3159.8,2023,6,June,Saturday
+2023-02-07,09:50:00,S7,Store C,Printer,10,169.05,Online,TX301015,1690.5,2023,2,February,Tuesday
+2023-08-23,09:17:00,S6,Store C,Tablet,4,131.56,Cash,TX301016,526.24,2023,8,August,Wednesday
+2024-01-22,20:47:00,S3,Store B,Chair,6,129.2,Cash,TX301017,775.2,2024,1,January,Monday
+2024-06-17,20:22:00,S7,Store D,Laptop,8,214.09,Credit Card,TX301018,1712.72,2024,6,June,Monday
+2023-04-20,19:11:00,S10,Store A,Printer,10,396.16,Gift Card,TX301019,3961.6,2023,4,April,Thursday
+2023-04-13,20:05:00,S5,Store C,Laptop,5,153.28,Gift Card,TX301020,766.4,2023,4,April,Thursday
+2024-06-23,09:54:00,S8,Store C,Laptop,6,348.35,Debit Card,TX301021,2090.1,2024,6,June,Sunday
+2025-01-09,12:04:00,S7,Store C,Monitor,8,74.96,Credit Card,TX301022,599.68,2025,1,January,Thursday
+2024-09-17,17:23:00,S10,Store C,Desk,10,117.03,Online,TX301023,1170.3,2024,9,September,Tuesday
+2024-09-08,20:28:00,S9,Store D,Monitor,6,78.34,Cash,TX301024,470.04,2024,9,September,Sunday
+2024-06-12,17:04:00,S6,Store B,Desk,6,43.01,Credit Card,TX301025,258.06,2024,6,June,Wednesday
+2023-08-21,19:43:00,S3,Store C,Chair,8,182.52,Gift Card,TX301026,1460.16,2023,8,August,Monday
+2025-04-11,14:37:00,S5,Store B,Chair,2,21.91,Cash,TX301027,43.82,2025,4,April,Friday
+2023-01-13,19:20:00,S1,Store B,Monitor,5,117.73,Credit Card,TX301028,588.65,2023,1,January,Friday
+2025-01-10,10:43:00,S7,Store D,Tablet,5,23.2,Debit Card,TX301029,116.0,2025,1,January,Friday
+2024-01-21,09:50:00,S3,Store A,Phone,3,95.43,Credit Card,TX301030,286.29,2024,1,January,Sunday
+2025-03-10,10:59:00,S2,Store C,Phone,3,48.91,Debit Card,TX301031,146.73,2025,3,March,Monday
+2024-01-07,17:08:00,S5,Store D,Laptop,6,123.15,Credit Card,TX301032,738.9,2024,1,January,Sunday
+2023-11-01,09:30:00,S10,Store D,Desk,10,59.88,Gift Card,TX301033,598.8,2023,11,November,Wednesday
+2024-02-16,11:08:00,S6,Store B,Desk,1,309.32,Debit Card,TX301034,309.32,2024,2,February,Friday
+2023-07-31,20:56:00,S5,Store A,Printer,1,181.86,Debit Card,TX301035,181.86,2023,7,July,Monday
+2025-03-23,15:40:00,S1,Store D,Laptop,10,125.01,Credit Card,TX301036,1250.1,2025,3,March,Sunday
+2024-04-14,17:28:00,S9,Store A,Laptop,6,187.23,Cash,TX301037,1123.38,2024,4,April,Sunday
+2023-06-27,13:40:00,S5,Store D,Printer,4,232.92,Online,TX301038,931.68,2023,6,June,Tuesday
+2023-12-25,20:43:00,S8,Store A,Desk,8,89.85,Gift Card,TX301039,718.8,2023,12,December,Monday
+2024-08-06,18:50:00,S4,Store C,Laptop,10,85.85,Credit Card,TX301040,858.5,2024,8,August,Tuesday
+2024-01-21,11:56:00,S3,Store D,Desk,9,235.54,Cash,TX301041,2119.86,2024,1,January,Sunday
+2024-12-12,15:27:00,S7,Store A,Printer,6,133.12,Gift Card,TX301042,798.72,2024,12,December,Thursday
+2024-02-27,18:18:00,S10,Store D,Printer,5,311.8,Credit Card,TX301043,1559.0,2024,2,February,Tuesday
+2024-09-07,21:26:00,S8,Store D,Chair,5,179.97,Gift Card,TX301044,899.85,2024,9,September,Saturday
+2024-01-08,11:36:00,S4,Store D,Laptop,4,195.82,Debit Card,TX301045,783.28,2024,1,January,Monday
+2023-06-12,19:46:00,S8,Store D,Desk,6,80.69,Debit Card,TX301046,484.14,2023,6,June,Monday
+2024-08-27,18:49:00,S6,Store C,Tablet,8,271.51,Credit Card,TX301047,2172.08,2024,8,August,Tuesday
+2025-02-14,09:25:00,S7,Store D,Monitor,1,294.61,Gift Card,TX301048,294.61,2025,2,February,Friday
+2024-08-09,15:46:00,S6,Store D,Monitor,4,204.59,Online,TX301049,818.36,2024,8,August,Friday
+2025-05-15,09:17:00,S6,Store A,Monitor,10,189.33,Debit Card,TX301050,1893.3,2025,5,May,Thursday
+2023-04-14,21:32:00,S6,Store D,Chair,6,177.5,Debit Card,TX301051,1065.0,2023,4,April,Friday
+2023-02-02,11:38:00,S7,Store C,Laptop,6,9.12,Debit Card,TX301052,54.72,2023,2,February,Thursday
+2024-05-29,20:17:00,S5,Store D,Printer,3,84.26,Online,TX301053,252.78,2024,5,May,Wednesday
+2024-03-05,12:04:00,S10,Store D,Phone,5,66.75,Debit Card,TX301054,333.75,2024,3,March,Tuesday
+2023-05-27,17:21:00,S9,Store A,Laptop,2,388.63,Debit Card,TX301055,777.26,2023,5,May,Saturday
+2024-03-01,11:30:00,S8,Store B,Laptop,1,59.73,Online,TX301056,59.73,2024,3,March,Friday
+2023-08-02,19:28:00,S8,Store A,Desk,6,60.67,Credit Card,TX301057,364.02,2023,8,August,Wednesday
+2025-01-04,16:19:00,S6,Store D,Phone,9,98.31,Cash,TX301058,884.79,2025,1,January,Saturday
+2023-01-30,11:18:00,S10,Store D,Printer,2,197.88,Online,TX301059,395.76,2023,1,January,Monday
+2023-08-09,13:59:00,S3,Store C,Phone,8,32.6,Gift Card,TX301060,260.8,2023,8,August,Wednesday
+2023-09-22,19:33:00,S7,Store D,Tablet,5,210.45,Online,TX301061,1052.25,2023,9,September,Friday
+2023-03-30,16:31:00,S5,Store D,Desk,1,370.98,Credit Card,TX301062,370.98,2023,3,March,Thursday
+2023-12-30,19:49:00,S8,Store A,Laptop,8,163.76,Credit Card,TX301063,1310.08,2023,12,December,Saturday
+2023-12-11,14:52:00,S2,Store B,Printer,8,44.13,Cash,TX301064,353.04,2023,12,December,Monday
+2023-06-09,11:02:00,S6,Store A,Tablet,3,302.68,Credit Card,TX301065,908.04,2023,6,June,Friday
+2023-12-24,13:08:00,S8,Store D,Monitor,9,272.79,Debit Card,TX301066,2455.11,2023,12,December,Sunday
+2023-07-13,15:10:00,S4,Store B,Monitor,9,222.17,Debit Card,TX301067,1999.53,2023,7,July,Thursday
+2024-05-21,13:28:00,S10,Store C,Chair,6,208.2,Debit Card,TX301068,1249.2,2024,5,May,Tuesday
+2024-01-10,16:20:00,S10,Store B,Desk,1,378.72,Online,TX301069,378.72,2024,1,January,Wednesday
+2024-04-04,16:48:00,S1,Store A,Monitor,8,174.44,Debit Card,TX301070,1395.52,2024,4,April,Thursday
+2023-04-03,14:11:00,S2,Store B,Desk,9,152.36,Debit Card,TX301071,1371.24,2023,4,April,Monday
+2024-02-09,10:25:00,S3,Store C,Desk,10,110.98,Debit Card,TX301072,1109.8,2024,2,February,Friday
+2024-08-23,20:42:00,S5,Store D,Phone,1,36.93,Debit Card,TX301073,36.93,2024,8,August,Friday
+2024-03-20,19:48:00,S8,Store C,Chair,8,154.0,Debit Card,TX301074,1232.0,2024,3,March,Wednesday
+2024-08-13,13:58:00,S9,Store B,Monitor,6,10.07,Online,TX301075,60.42,2024,8,August,Tuesday
+2023-08-05,14:31:00,S5,Store C,Phone,2,60.84,Gift Card,TX301076,121.68,2023,8,August,Saturday
+2024-09-08,10:00:00,S3,Store A,Printer,10,165.44,Debit Card,TX301077,1654.4,2024,9,September,Sunday
+2023-01-20,09:56:00,S2,Store D,Desk,4,329.69,Debit Card,TX301078,1318.76,2023,1,January,Friday
+2024-07-24,12:19:00,S5,Store C,Phone,8,124.58,Credit Card,TX301079,996.64,2024,7,July,Wednesday
+2023-06-28,11:00:00,S4,Store B,Printer,3,186.86,Gift Card,TX301080,560.58,2023,6,June,Wednesday
+2024-12-03,21:38:00,S2,Store C,Chair,1,52.19,Debit Card,TX301081,52.19,2024,12,December,Tuesday
+2024-12-05,18:59:00,S3,Store B,Phone,7,330.98,Cash,TX301082,2316.86,2024,12,December,Thursday
+2025-03-20,12:10:00,S7,Store B,Laptop,8,385.72,Debit Card,TX301083,3085.76,2025,3,March,Thursday
+2024-12-02,12:32:00,S9,Store A,Printer,9,52.64,Gift Card,TX301084,473.76,2024,12,December,Monday
+2023-03-15,21:26:00,S4,Store B,Phone,8,92.08,Debit Card,TX301085,736.64,2023,3,March,Wednesday
+2024-11-26,09:58:00,S5,Store D,Laptop,5,363.76,Credit Card,TX301086,1818.8,2024,11,November,Tuesday
+2025-06-29,15:21:00,S7,Store B,Tablet,3,323.04,Online,TX301087,969.12,2025,6,June,Sunday
+2023-09-29,14:14:00,S1,Store B,Phone,10,147.65,Online,TX301088,1476.5,2023,9,September,Friday
+2024-04-03,17:29:00,S3,Store B,Chair,5,178.54,Credit Card,TX301089,892.7,2024,4,April,Wednesday
+2024-05-25,14:26:00,S4,Store A,Tablet,4,155.69,Debit Card,TX301090,622.76,2024,5,May,Saturday
+2024-05-26,14:07:00,S4,Store B,Chair,5,154.36,Online,TX301091,771.8,2024,5,May,Sunday
+2023-12-26,12:43:00,S3,Store B,Chair,1,202.41,Online,TX301092,202.41,2023,12,December,Tuesday
+2024-03-24,18:09:00,S5,Store D,Laptop,10,205.57,Credit Card,TX301093,2055.7,2024,3,March,Sunday
+2023-04-25,13:27:00,S8,Store D,Desk,6,105.89,Gift Card,TX301094,635.34,2023,4,April,Tuesday
+2023-10-08,21:31:00,S9,Store B,Desk,9,308.84,Credit Card,TX301095,2779.56,2023,10,October,Sunday
+2024-02-09,20:14:00,S4,Store C,Monitor,4,233.77,Credit Card,TX301096,935.08,2024,2,February,Friday
+2023-05-07,17:44:00,S5,Store A,Phone,8,224.58,Cash,TX301097,1796.64,2023,5,May,Sunday
+2025-05-28,13:41:00,S10,Store D,Monitor,6,364.61,Online,TX301098,2187.66,2025,5,May,Wednesday
+2025-03-11,14:36:00,S7,Store B,Desk,5,386.77,Debit Card,TX301099,1933.85,2025,3,March,Tuesday
+2023-07-15,21:58:00,S3,Store B,Printer,8,154.78,Gift Card,TX301100,1238.24,2023,7,July,Saturday
+2023-07-27,09:16:00,S9,Store B,Chair,8,147.77,Debit Card,TX301101,1182.16,2023,7,July,Thursday
+2024-12-18,21:27:00,S10,Store C,Printer,5,38.2,Debit Card,TX301102,191.0,2024,12,December,Wednesday
+2024-05-07,19:16:00,S2,Store D,Chair,5,300.81,Cash,TX301103,1504.05,2024,5,May,Tuesday
+2024-01-12,20:43:00,S3,Store A,Laptop,3,226.82,Credit Card,TX301104,680.46,2024,1,January,Friday
+2023-03-06,14:15:00,S8,Store D,Desk,3,337.16,Online,TX301105,1011.48,2023,3,March,Monday
+2023-11-01,10:59:00,S8,Store B,Chair,6,371.52,Gift Card,TX301106,2229.12,2023,11,November,Wednesday
+2025-01-01,14:01:00,S6,Store B,Printer,2,39.91,Cash,TX301107,79.82,2025,1,January,Wednesday
+2023-03-24,12:28:00,S10,Store A,Printer,10,386.21,Online,TX301108,3862.1,2023,3,March,Friday
+2024-09-19,11:15:00,S6,Store D,Printer,4,279.84,Online,TX301109,1119.36,2024,9,September,Thursday
+2025-05-15,16:19:00,S7,Store C,Tablet,2,156.52,Gift Card,TX301110,313.04,2025,5,May,Thursday
+2024-06-07,17:40:00,S8,Store C,Laptop,8,367.19,Gift Card,TX301111,2937.52,2024,6,June,Friday
+2023-04-23,12:08:00,S10,Store B,Laptop,6,161.79,Online,TX301112,970.74,2023,4,April,Sunday
+2024-01-13,14:50:00,S5,Store D,Desk,4,129.85,Gift Card,TX301113,519.4,2024,1,January,Saturday
+2023-07-08,21:14:00,S4,Store B,Phone,8,37.98,Debit Card,TX301114,303.84,2023,7,July,Saturday
+2025-04-28,20:08:00,S2,Store D,Phone,10,142.35,Cash,TX301115,1423.5,2025,4,April,Monday
+2024-10-19,09:40:00,S4,Store C,Printer,8,310.4,Online,TX301116,2483.2,2024,10,October,Saturday
+2023-09-27,18:29:00,S8,Store D,Laptop,1,7.37,Debit Card,TX301117,7.37,2023,9,September,Wednesday
+2024-07-03,17:15:00,S10,Store B,Tablet,2,391.88,Credit Card,TX301118,783.76,2024,7,July,Wednesday
+2024-05-15,11:18:00,S8,Store C,Printer,6,374.4,Gift Card,TX301119,2246.4,2024,5,May,Wednesday
+2024-10-12,20:54:00,S9,Store D,Chair,3,67.73,Online,TX301120,203.19,2024,10,October,Saturday
+2023-05-05,09:57:00,S2,Store D,Tablet,9,360.7,Online,TX301121,3246.3,2023,5,May,Friday
+2023-12-31,13:18:00,S1,Store B,Chair,5,353.08,Online,TX301122,1765.4,2023,12,December,Sunday
+2024-11-04,09:51:00,S5,Store D,Tablet,1,280.34,Credit Card,TX301123,280.34,2024,11,November,Monday
+2024-05-02,19:08:00,S9,Store B,Monitor,5,271.5,Credit Card,TX301124,1357.5,2024,5,May,Thursday
+2025-02-07,13:54:00,S5,Store D,Printer,5,15.07,Cash,TX301125,75.35,2025,2,February,Friday
+2024-05-25,19:50:00,S9,Store D,Phone,9,223.23,Credit Card,TX301126,2009.07,2024,5,May,Saturday
+2023-08-16,17:33:00,S9,Store A,Chair,3,271.37,Cash,TX301127,814.11,2023,8,August,Wednesday
+2024-07-22,20:19:00,S9,Store C,Tablet,8,107.23,Gift Card,TX301128,857.84,2024,7,July,Monday
+2025-02-14,13:51:00,S9,Store C,Laptop,3,127.57,Gift Card,TX301129,382.71,2025,2,February,Friday
+2024-12-12,21:02:00,S1,Store C,Laptop,2,107.36,Online,TX301130,214.72,2024,12,December,Thursday
+2023-05-17,15:48:00,S10,Store C,Printer,6,94.8,Credit Card,TX301131,568.8,2023,5,May,Wednesday
+2025-06-25,10:51:00,S3,Store C,Tablet,8,278.75,Credit Card,TX301132,2230.0,2025,6,June,Wednesday
+2023-12-21,10:31:00,S5,Store D,Phone,6,374.27,Online,TX301133,2245.62,2023,12,December,Thursday
+2023-06-24,16:52:00,S9,Store A,Tablet,5,82.7,Cash,TX301134,413.5,2023,6,June,Saturday
+2024-04-20,16:55:00,S9,Store C,Desk,5,119.16,Credit Card,TX301135,595.8,2024,4,April,Saturday
+2023-09-11,16:22:00,S3,Store D,Printer,2,296.61,Cash,TX301136,593.22,2023,9,September,Monday
+2025-04-18,15:25:00,S3,Store A,Printer,5,311.51,Credit Card,TX301137,1557.55,2025,4,April,Friday
+2025-03-27,18:53:00,S1,Store D,Monitor,5,257.77,Credit Card,TX301138,1288.85,2025,3,March,Thursday
+2024-12-23,19:19:00,S6,Store A,Tablet,1,391.91,Debit Card,TX301139,391.91,2024,12,December,Monday
+2024-03-14,18:54:00,S3,Store D,Chair,10,319.07,Debit Card,TX301140,3190.7,2024,3,March,Thursday
+2023-08-31,10:24:00,S7,Store D,Desk,3,262.7,Gift Card,TX301141,788.1,2023,8,August,Thursday
+2025-03-23,14:23:00,S8,Store C,Monitor,4,263.38,Cash,TX301142,1053.52,2025,3,March,Sunday
+2024-10-17,13:24:00,S7,Store B,Chair,7,85.46,Debit Card,TX301143,598.22,2024,10,October,Thursday
+2025-02-03,12:46:00,S2,Store A,Monitor,8,10.89,Online,TX301144,87.12,2025,2,February,Monday
+2023-05-20,18:42:00,S6,Store C,Printer,10,289.09,Cash,TX301145,2890.9,2023,5,May,Saturday
+2024-09-20,10:44:00,S8,Store B,Chair,10,393.44,Debit Card,TX301146,3934.4,2024,9,September,Friday
+2024-12-24,12:05:00,S6,Store A,Desk,7,186.42,Gift Card,TX301147,1304.94,2024,12,December,Tuesday
+2023-12-20,21:03:00,S6,Store C,Monitor,7,284.08,Debit Card,TX301148,1988.56,2023,12,December,Wednesday
+2024-10-15,12:54:00,S6,Store D,Phone,7,244.27,Gift Card,TX301149,1709.89,2024,10,October,Tuesday
+2024-11-29,16:04:00,S7,Store D,Printer,1,58.12,Debit Card,TX301150,58.12,2024,11,November,Friday
+2024-04-18,20:26:00,S8,Store D,Printer,4,296.7,Credit Card,TX301151,1186.8,2024,4,April,Thursday
+2023-05-06,19:22:00,S7,Store D,Tablet,8,113.49,Debit Card,TX301152,907.92,2023,5,May,Saturday
+2024-01-23,11:54:00,S4,Store D,Printer,3,170.52,Gift Card,TX301153,511.56,2024,1,January,Tuesday
+2025-04-28,10:17:00,S3,Store A,Printer,5,90.6,Credit Card,TX301154,453.0,2025,4,April,Monday
+2025-05-07,18:00:00,S6,Store C,Desk,3,91.49,Cash,TX301155,274.47,2025,5,May,Wednesday
+2023-01-12,17:43:00,S2,Store D,Laptop,1,310.38,Credit Card,TX301156,310.38,2023,1,January,Thursday
+2024-09-03,13:25:00,S2,Store B,Desk,5,141.82,Debit Card,TX301157,709.1,2024,9,September,Tuesday
+2024-04-25,19:12:00,S3,Store C,Phone,3,306.65,Credit Card,TX301158,919.95,2024,4,April,Thursday
+2023-11-16,18:37:00,S4,Store D,Desk,4,380.96,Credit Card,TX301159,1523.84,2023,11,November,Thursday
+2024-12-11,16:00:00,S10,Store B,Desk,1,183.95,Debit Card,TX301160,183.95,2024,12,December,Wednesday
+2025-03-19,10:34:00,S4,Store A,Tablet,7,265.0,Online,TX301161,1855.0,2025,3,March,Wednesday
+2024-12-29,19:24:00,S6,Store A,Chair,8,270.64,Online,TX301162,2165.12,2024,12,December,Sunday
+2023-12-06,16:27:00,S8,Store B,Monitor,1,313.59,Online,TX301163,313.59,2023,12,December,Wednesday
+2024-10-25,20:48:00,S7,Store A,Chair,2,92.83,Online,TX301164,185.66,2024,10,October,Friday
+2024-12-31,13:42:00,S10,Store B,Phone,8,12.45,Debit Card,TX301165,99.6,2024,12,December,Tuesday
+2024-12-05,20:18:00,S2,Store C,Phone,5,101.99,Cash,TX301166,509.95,2024,12,December,Thursday
+2024-08-29,17:00:00,S1,Store C,Chair,7,85.84,Debit Card,TX301167,600.88,2024,8,August,Thursday
+2024-06-19,09:54:00,S9,Store A,Phone,10,36.18,Debit Card,TX301168,361.8,2024,6,June,Wednesday
+2024-07-11,18:02:00,S2,Store B,Laptop,2,352.11,Debit Card,TX301169,704.22,2024,7,July,Thursday
+2023-10-30,10:25:00,S6,Store B,Phone,2,376.14,Credit Card,TX301170,752.28,2023,10,October,Monday
+2025-04-27,10:24:00,S1,Store A,Printer,1,301.4,Gift Card,TX301171,301.4,2025,4,April,Sunday
+2024-06-18,09:08:00,S10,Store C,Laptop,1,255.95,Gift Card,TX301172,255.95,2024,6,June,Tuesday
+2024-02-14,21:03:00,S1,Store D,Printer,10,159.59,Online,TX301173,1595.9,2024,2,February,Wednesday
+2023-01-29,14:00:00,S3,Store C,Phone,4,104.77,Online,TX301174,419.08,2023,1,January,Sunday
+2023-04-18,09:58:00,S8,Store A,Phone,8,342.27,Gift Card,TX301175,2738.16,2023,4,April,Tuesday
+2024-10-09,13:52:00,S10,Store B,Monitor,6,100.27,Cash,TX301176,601.62,2024,10,October,Wednesday
+2024-08-11,20:01:00,S4,Store B,Printer,2,363.67,Cash,TX301177,727.34,2024,8,August,Sunday
+2024-07-21,15:28:00,S9,Store A,Tablet,7,63.5,Cash,TX301178,444.5,2024,7,July,Sunday
+2024-03-22,17:04:00,S1,Store C,Desk,4,297.67,Online,TX301179,1190.68,2024,3,March,Friday
+2025-02-14,18:40:00,S9,Store C,Tablet,1,25.56,Online,TX301180,25.56,2025,2,February,Friday
+2024-06-22,09:30:00,S8,Store D,Desk,6,298.28,Credit Card,TX301181,1789.68,2024,6,June,Saturday
+2024-03-08,21:21:00,S4,Store D,Desk,7,372.01,Cash,TX301182,2604.07,2024,3,March,Friday
+2023-10-25,12:40:00,S10,Store B,Desk,1,117.04,Online,TX301183,117.04,2023,10,October,Wednesday
+2025-05-11,14:29:00,S9,Store C,Printer,6,153.29,Debit Card,TX301184,919.74,2025,5,May,Sunday
+2024-07-03,10:37:00,S1,Store A,Desk,4,130.3,Online,TX301185,521.2,2024,7,July,Wednesday
+2024-05-07,18:01:00,S5,Store C,Chair,8,263.16,Online,TX301186,2105.28,2024,5,May,Tuesday
+2025-04-05,17:16:00,S9,Store A,Printer,8,254.66,Debit Card,TX301187,2037.28,2025,4,April,Saturday
+2024-06-29,14:48:00,S6,Store A,Desk,5,32.6,Credit Card,TX301188,163.0,2024,6,June,Saturday
+2023-03-20,15:47:00,S6,Store C,Laptop,7,28.32,Cash,TX301189,198.24,2023,3,March,Monday
+2025-05-03,10:10:00,S3,Store A,Phone,3,188.67,Cash,TX301190,566.01,2025,5,May,Saturday
+2023-08-12,15:35:00,S1,Store C,Monitor,5,123.41,Gift Card,TX301191,617.05,2023,8,August,Saturday
+2025-04-07,11:39:00,S5,Store A,Printer,4,296.67,Cash,TX301192,1186.68,2025,4,April,Monday
+2024-10-24,13:02:00,S9,Store D,Chair,8,205.08,Cash,TX301193,1640.64,2024,10,October,Thursday
+2024-07-15,11:45:00,S3,Store A,Laptop,1,61.21,Cash,TX301194,61.21,2024,7,July,Monday
+2024-05-28,16:31:00,S5,Store C,Monitor,8,160.45,Credit Card,TX301195,1283.6,2024,5,May,Tuesday
+2024-04-30,10:20:00,S1,Store B,Chair,6,339.61,Cash,TX301196,2037.66,2024,4,April,Tuesday
+2024-10-06,11:21:00,S1,Store A,Tablet,7,136.57,Cash,TX301197,955.99,2024,10,October,Sunday
+2024-06-20,12:52:00,S3,Store C,Desk,5,117.18,Debit Card,TX301198,585.9,2024,6,June,Thursday
+2023-12-09,15:27:00,S4,Store B,Desk,7,310.19,Online,TX301199,2171.33,2023,12,December,Saturday
+2024-10-25,20:00:00,S7,Store A,Phone,5,143.27,Online,TX301200,716.35,2024,10,October,Friday
+2025-04-01,10:47:00,S1,Store D,Phone,5,205.46,Gift Card,TX301201,1027.3,2025,4,April,Tuesday
+2023-12-13,14:51:00,S1,Store B,Desk,8,269.41,Debit Card,TX301202,2155.28,2023,12,December,Wednesday
+2024-08-19,21:11:00,S4,Store A,Tablet,9,22.41,Gift Card,TX301203,201.69,2024,8,August,Monday
+2025-03-06,18:02:00,S6,Store C,Printer,8,189.34,Debit Card,TX301204,1514.72,2025,3,March,Thursday
+2023-09-07,17:37:00,S1,Store B,Laptop,8,125.02,Debit Card,TX301205,1000.16,2023,9,September,Thursday
+2024-09-10,16:01:00,S10,Store C,Phone,10,116.36,Cash,TX301206,1163.6,2024,9,September,Tuesday
+2023-08-25,15:10:00,S4,Store A,Phone,3,122.4,Online,TX301207,367.2,2023,8,August,Friday
+2025-01-29,13:22:00,S4,Store C,Desk,4,143.65,Cash,TX301208,574.6,2025,1,January,Wednesday
+2024-06-12,21:28:00,S5,Store A,Phone,7,270.53,Debit Card,TX301209,1893.71,2024,6,June,Wednesday
+2023-03-04,18:13:00,S3,Store A,Monitor,1,322.36,Cash,TX301210,322.36,2023,3,March,Saturday
+2024-01-08,20:19:00,S10,Store A,Phone,7,155.29,Debit Card,TX301211,1087.03,2024,1,January,Monday
+2024-02-17,13:22:00,S9,Store C,Printer,6,56.79,Online,TX301212,340.74,2024,2,February,Saturday
+2023-02-05,18:32:00,S8,Store C,Tablet,8,263.28,Gift Card,TX301213,2106.24,2023,2,February,Sunday
+2024-03-04,13:03:00,S3,Store C,Chair,7,55.57,Debit Card,TX301214,388.99,2024,3,March,Monday
+2023-05-25,12:04:00,S9,Store A,Desk,2,30.24,Debit Card,TX301215,60.48,2023,5,May,Thursday
+2025-02-06,13:54:00,S6,Store D,Laptop,2,346.3,Cash,TX301216,692.6,2025,2,February,Thursday
+2023-06-22,21:36:00,S7,Store C,Phone,10,262.02,Credit Card,TX301217,2620.2,2023,6,June,Thursday
+2025-04-20,19:42:00,S1,Store C,Monitor,9,311.86,Gift Card,TX301218,2806.74,2025,4,April,Sunday
+2025-06-27,13:54:00,S6,Store C,Printer,4,85.86,Credit Card,TX301219,343.44,2025,6,June,Friday
+2024-12-28,19:09:00,S5,Store B,Laptop,2,355.75,Credit Card,TX301220,711.5,2024,12,December,Saturday
+2025-04-04,19:50:00,S5,Store B,Monitor,6,76.48,Debit Card,TX301221,458.88,2025,4,April,Friday
+2023-07-17,14:18:00,S8,Store B,Printer,10,117.78,Gift Card,TX301222,1177.8,2023,7,July,Monday
+2025-03-14,09:31:00,S1,Store B,Printer,6,274.1,Gift Card,TX301223,1644.6,2025,3,March,Friday
+2023-12-31,20:16:00,S6,Store B,Phone,3,138.16,Cash,TX301224,414.48,2023,12,December,Sunday
+2023-12-15,19:01:00,S2,Store C,Phone,7,168.85,Online,TX301225,1181.95,2023,12,December,Friday
+2025-06-23,13:11:00,S2,Store C,Tablet,6,226.46,Debit Card,TX301226,1358.76,2025,6,June,Monday
+2023-09-21,15:38:00,S9,Store D,Laptop,2,44.04,Debit Card,TX301227,88.08,2023,9,September,Thursday
+2023-01-10,09:37:00,S9,Store D,Laptop,10,132.39,Credit Card,TX301228,1323.9,2023,1,January,Tuesday
+2023-10-15,16:45:00,S5,Store D,Laptop,10,82.02,Debit Card,TX301229,820.2,2023,10,October,Sunday
+2025-01-23,21:23:00,S8,Store B,Tablet,1,252.48,Debit Card,TX301230,252.48,2025,1,January,Thursday
+2023-01-07,21:21:00,S5,Store B,Printer,4,311.86,Cash,TX301231,1247.44,2023,1,January,Saturday
+2024-06-28,17:16:00,S2,Store A,Laptop,7,125.94,Gift Card,TX301232,881.58,2024,6,June,Friday
+2023-01-21,17:28:00,S6,Store A,Tablet,9,137.04,Debit Card,TX301233,1233.36,2023,1,January,Saturday
+2023-08-26,13:20:00,S3,Store C,Monitor,2,219.9,Gift Card,TX301234,439.8,2023,8,August,Saturday
+2023-03-22,15:54:00,S9,Store C,Monitor,7,125.84,Credit Card,TX301235,880.88,2023,3,March,Wednesday
+2023-04-22,21:51:00,S6,Store B,Monitor,8,351.63,Credit Card,TX301236,2813.04,2023,4,April,Saturday
+2025-06-17,19:46:00,S10,Store B,Chair,2,103.88,Gift Card,TX301237,207.76,2025,6,June,Tuesday
+2024-04-19,12:38:00,S9,Store A,Monitor,2,291.48,Debit Card,TX301238,582.96,2024,4,April,Friday
+2023-03-15,14:41:00,S6,Store D,Desk,6,9.48,Online,TX301239,56.88,2023,3,March,Wednesday
+2025-01-08,17:58:00,S5,Store A,Desk,9,255.96,Online,TX301240,2303.64,2025,1,January,Wednesday
+2024-01-09,18:20:00,S7,Store D,Printer,9,370.31,Online,TX301241,3332.79,2024,1,January,Tuesday
+2024-06-18,14:44:00,S4,Store C,Monitor,7,97.86,Credit Card,TX301242,685.02,2024,6,June,Tuesday
+2024-01-03,20:16:00,S3,Store D,Laptop,9,247.25,Gift Card,TX301243,2225.25,2024,1,January,Wednesday
+2024-04-06,18:50:00,S9,Store B,Printer,2,215.61,Debit Card,TX301244,431.22,2024,4,April,Saturday
+2023-03-24,17:55:00,S5,Store D,Chair,5,64.05,Cash,TX301245,320.25,2023,3,March,Friday
+2025-06-13,20:46:00,S8,Store B,Monitor,9,25.13,Credit Card,TX301246,226.17,2025,6,June,Friday
+2024-02-17,10:33:00,S5,Store A,Laptop,3,62.74,Credit Card,TX301247,188.22,2024,2,February,Saturday
+2023-04-28,15:19:00,S10,Store C,Tablet,7,152.62,Gift Card,TX301248,1068.34,2023,4,April,Friday
+2023-09-03,09:10:00,S3,Store B,Desk,4,96.21,Cash,TX301249,384.84,2023,9,September,Sunday
+2023-10-17,12:14:00,S7,Store C,Printer,6,34.02,Online,TX301250,204.12,2023,10,October,Tuesday
+2023-06-29,11:05:00,S1,Store B,Monitor,3,372.33,Debit Card,TX301251,1116.99,2023,6,June,Thursday
+2023-04-19,11:27:00,S3,Store D,Monitor,7,291.13,Credit Card,TX301252,2037.91,2023,4,April,Wednesday
+2024-04-16,16:09:00,S1,Store A,Laptop,6,370.61,Debit Card,TX301253,2223.66,2024,4,April,Tuesday
+2024-07-09,10:45:00,S7,Store D,Phone,7,73.0,Credit Card,TX301254,511.0,2024,7,July,Tuesday
+2025-05-14,12:28:00,S8,Store B,Printer,4,95.77,Credit Card,TX301255,383.08,2025,5,May,Wednesday
+2024-11-27,19:00:00,S7,Store A,Chair,8,142.71,Credit Card,TX301256,1141.68,2024,11,November,Wednesday
+2025-01-10,17:13:00,S10,Store A,Laptop,4,258.23,Debit Card,TX301257,1032.92,2025,1,January,Friday
+2023-06-01,18:10:00,S5,Store B,Printer,10,10.26,Gift Card,TX301258,102.6,2023,6,June,Thursday
+2023-04-06,13:48:00,S3,Store B,Chair,6,186.47,Online,TX301259,1118.82,2023,4,April,Thursday
+2023-11-20,18:09:00,S7,Store D,Tablet,5,366.33,Cash,TX301260,1831.65,2023,11,November,Monday
+2024-04-19,21:49:00,S1,Store C,Tablet,1,140.06,Cash,TX301261,140.06,2024,4,April,Friday
+2023-06-26,16:31:00,S9,Store D,Phone,5,214.22,Debit Card,TX301262,1071.1,2023,6,June,Monday
+2024-03-08,14:46:00,S1,Store B,Laptop,5,99.54,Credit Card,TX301263,497.7,2024,3,March,Friday
+2023-12-03,09:30:00,S5,Store C,Laptop,8,258.17,Credit Card,TX301264,2065.36,2023,12,December,Sunday
+2024-04-28,17:38:00,S9,Store D,Tablet,8,269.15,Cash,TX301265,2153.2,2024,4,April,Sunday
+2023-07-20,09:20:00,S6,Store B,Tablet,6,206.93,Online,TX301266,1241.58,2023,7,July,Thursday
+2023-02-28,13:57:00,S8,Store C,Chair,4,380.5,Cash,TX301267,1522.0,2023,2,February,Tuesday
+2023-04-26,20:13:00,S1,Store D,Desk,1,170.79,Cash,TX301268,170.79,2023,4,April,Wednesday
+2023-02-14,16:36:00,S6,Store D,Tablet,8,263.04,Gift Card,TX301269,2104.32,2023,2,February,Tuesday
+2023-08-12,12:52:00,S8,Store D,Chair,8,228.64,Gift Card,TX301270,1829.12,2023,8,August,Saturday
+2025-03-14,20:41:00,S8,Store D,Phone,9,356.43,Debit Card,TX301271,3207.87,2025,3,March,Friday
+2023-01-02,12:12:00,S5,Store C,Printer,8,279.96,Online,TX301272,2239.68,2023,1,January,Monday
+2023-05-26,11:19:00,S10,Store B,Desk,9,49.73,Debit Card,TX301273,447.57,2023,5,May,Friday
+2025-02-22,15:41:00,S5,Store D,Tablet,3,372.86,Cash,TX301274,1118.58,2025,2,February,Saturday
+2024-07-16,17:29:00,S3,Store A,Monitor,3,183.66,Online,TX301275,550.98,2024,7,July,Tuesday
+2025-03-11,19:48:00,S4,Store D,Printer,6,119.43,Debit Card,TX301276,716.58,2025,3,March,Tuesday
+2025-03-23,11:13:00,S8,Store A,Desk,6,282.93,Gift Card,TX301277,1697.58,2025,3,March,Sunday
+2023-02-14,09:54:00,S2,Store A,Tablet,9,246.69,Cash,TX301278,2220.21,2023,2,February,Tuesday
+2024-07-02,09:14:00,S10,Store C,Tablet,7,269.45,Gift Card,TX301279,1886.15,2024,7,July,Tuesday
+2023-10-29,18:34:00,S10,Store D,Printer,6,346.0,Cash,TX301280,2076.0,2023,10,October,Sunday
+2023-02-10,11:44:00,S3,Store D,Desk,8,272.6,Online,TX301281,2180.8,2023,2,February,Friday
+2023-08-14,16:45:00,S3,Store B,Printer,9,17.85,Cash,TX301282,160.65,2023,8,August,Monday
+2023-06-21,10:20:00,S4,Store C,Tablet,10,368.15,Cash,TX301283,3681.5,2023,6,June,Wednesday
+2024-02-27,13:16:00,S8,Store A,Chair,7,253.26,Cash,TX301284,1772.82,2024,2,February,Tuesday
+2024-05-20,20:53:00,S4,Store D,Chair,1,109.97,Credit Card,TX301285,109.97,2024,5,May,Monday
+2024-10-07,15:16:00,S7,Store A,Phone,9,94.96,Online,TX301286,854.64,2024,10,October,Monday
+2023-05-11,20:09:00,S9,Store A,Tablet,8,267.13,Online,TX301287,2137.04,2023,5,May,Thursday
+2023-06-18,10:11:00,S7,Store D,Chair,2,393.8,Cash,TX301288,787.6,2023,6,June,Sunday
+2023-03-04,12:24:00,S6,Store A,Chair,9,175.22,Gift Card,TX301289,1576.98,2023,3,March,Saturday
+2025-05-12,13:09:00,S10,Store C,Printer,3,104.72,Gift Card,TX301290,314.16,2025,5,May,Monday
+2024-07-07,15:22:00,S6,Store D,Laptop,1,231.89,Gift Card,TX301291,231.89,2024,7,July,Sunday
+2023-10-16,15:40:00,S10,Store B,Laptop,3,140.36,Credit Card,TX301292,421.08,2023,10,October,Monday
+2023-06-09,16:32:00,S7,Store A,Chair,6,206.9,Cash,TX301293,1241.4,2023,6,June,Friday
+2023-04-08,12:07:00,S10,Store B,Monitor,8,227.59,Online,TX301294,1820.72,2023,4,April,Saturday
+2024-04-12,16:37:00,S1,Store A,Tablet,7,34.52,Credit Card,TX301295,241.64,2024,4,April,Friday
+2024-12-28,21:56:00,S4,Store C,Laptop,3,15.01,Gift Card,TX301296,45.03,2024,12,December,Saturday
+2023-05-24,21:43:00,S10,Store A,Laptop,4,149.8,Debit Card,TX301297,599.2,2023,5,May,Wednesday
+2024-10-29,13:30:00,S6,Store A,Tablet,10,69.23,Online,TX301298,692.3,2024,10,October,Tuesday
+2023-02-04,16:07:00,S5,Store D,Monitor,5,264.75,Debit Card,TX301299,1323.75,2023,2,February,Saturday
+2025-02-26,17:27:00,S10,Store B,Chair,8,8.98,Cash,TX301300,71.84,2025,2,February,Wednesday
+2025-05-22,21:56:00,S9,Store B,Monitor,10,116.92,Gift Card,TX301301,1169.2,2025,5,May,Thursday
+2024-11-10,20:26:00,S1,Store A,Monitor,8,286.52,Credit Card,TX301302,2292.16,2024,11,November,Sunday
+2025-02-28,16:36:00,S5,Store C,Tablet,10,272.01,Gift Card,TX301303,2720.1,2025,2,February,Friday
+2023-08-11,13:00:00,S8,Store D,Chair,4,382.19,Debit Card,TX301304,1528.76,2023,8,August,Friday
+2024-07-16,15:41:00,S5,Store D,Phone,4,374.29,Cash,TX301305,1497.16,2024,7,July,Tuesday
+2023-12-07,19:18:00,S3,Store D,Monitor,8,148.34,Credit Card,TX301306,1186.72,2023,12,December,Thursday
+2024-05-30,21:48:00,S5,Store B,Tablet,7,197.82,Online,TX301307,1384.74,2024,5,May,Thursday
+2025-03-24,09:32:00,S3,Store C,Printer,2,309.61,Gift Card,TX301308,619.22,2025,3,March,Monday
+2024-01-25,11:18:00,S3,Store C,Chair,5,195.89,Online,TX301309,979.45,2024,1,January,Thursday
+2024-04-26,16:36:00,S9,Store B,Tablet,3,10.99,Gift Card,TX301310,32.97,2024,4,April,Friday
+2023-02-07,18:36:00,S2,Store B,Desk,7,253.16,Cash,TX301311,1772.12,2023,2,February,Tuesday
+2024-10-19,13:55:00,S4,Store A,Tablet,3,76.47,Online,TX301312,229.41,2024,10,October,Saturday
+2025-02-04,16:04:00,S4,Store B,Laptop,1,11.77,Online,TX301313,11.77,2025,2,February,Tuesday
+2025-01-02,15:57:00,S9,Store C,Laptop,6,223.9,Debit Card,TX301314,1343.4,2025,1,January,Thursday
+2023-10-22,17:56:00,S10,Store B,Laptop,4,249.73,Credit Card,TX301315,998.92,2023,10,October,Sunday
+2024-11-19,13:37:00,S1,Store B,Printer,4,121.41,Gift Card,TX301316,485.64,2024,11,November,Tuesday
+2025-04-02,12:50:00,S7,Store B,Laptop,9,299.02,Gift Card,TX301317,2691.18,2025,4,April,Wednesday
+2024-08-07,16:46:00,S8,Store B,Tablet,1,99.54,Cash,TX301318,99.54,2024,8,August,Wednesday
+2023-06-28,16:28:00,S9,Store B,Tablet,2,73.85,Cash,TX301319,147.7,2023,6,June,Wednesday
+2023-09-14,18:00:00,S3,Store A,Printer,9,378.41,Debit Card,TX301320,3405.69,2023,9,September,Thursday
+2024-01-27,18:34:00,S7,Store B,Monitor,9,73.88,Cash,TX301321,664.92,2024,1,January,Saturday
+2023-06-06,21:33:00,S2,Store C,Monitor,5,168.94,Debit Card,TX301322,844.7,2023,6,June,Tuesday
+2023-05-02,18:11:00,S1,Store C,Tablet,2,368.37,Gift Card,TX301323,736.74,2023,5,May,Tuesday
+2023-07-28,12:12:00,S8,Store B,Phone,1,388.73,Gift Card,TX301324,388.73,2023,7,July,Friday
+2024-07-26,20:15:00,S5,Store C,Phone,5,393.72,Credit Card,TX301325,1968.6,2024,7,July,Friday
+2024-11-22,11:01:00,S1,Store D,Laptop,10,10.58,Gift Card,TX301326,105.8,2024,11,November,Friday
+2023-12-20,11:38:00,S1,Store A,Monitor,6,344.74,Online,TX301327,2068.44,2023,12,December,Wednesday
+2024-08-16,12:11:00,S6,Store C,Laptop,6,64.1,Debit Card,TX301328,384.6,2024,8,August,Friday
+2024-02-07,09:08:00,S5,Store D,Laptop,5,203.39,Debit Card,TX301329,1016.95,2024,2,February,Wednesday
+2024-09-30,16:23:00,S7,Store C,Printer,3,175.8,Gift Card,TX301330,527.4,2024,9,September,Monday
+2025-02-06,14:55:00,S8,Store A,Printer,5,343.61,Debit Card,TX301331,1718.05,2025,2,February,Thursday
+2024-07-03,11:36:00,S3,Store B,Tablet,5,364.79,Credit Card,TX301332,1823.95,2024,7,July,Wednesday
+2025-01-18,11:02:00,S3,Store B,Printer,9,92.12,Credit Card,TX301333,829.08,2025,1,January,Saturday
+2025-04-14,13:15:00,S9,Store C,Chair,4,129.89,Credit Card,TX301334,519.56,2025,4,April,Monday
+2024-05-15,11:40:00,S8,Store B,Tablet,4,354.63,Credit Card,TX301335,1418.52,2024,5,May,Wednesday
+2024-03-05,15:20:00,S5,Store C,Phone,4,115.36,Cash,TX301336,461.44,2024,3,March,Tuesday
+2025-04-01,13:08:00,S2,Store A,Chair,5,20.36,Cash,TX301337,101.8,2025,4,April,Tuesday
+2023-05-09,15:25:00,S7,Store B,Printer,2,89.15,Online,TX301338,178.3,2023,5,May,Tuesday
+2025-06-17,18:13:00,S3,Store C,Laptop,10,326.45,Gift Card,TX301339,3264.5,2025,6,June,Tuesday
+2023-07-08,10:00:00,S4,Store D,Tablet,9,224.31,Debit Card,TX301340,2018.79,2023,7,July,Saturday
+2023-05-07,21:52:00,S9,Store C,Desk,1,221.96,Cash,TX301341,221.96,2023,5,May,Sunday
+2023-08-24,17:09:00,S3,Store A,Tablet,3,376.76,Debit Card,TX301342,1130.28,2023,8,August,Thursday
+2024-11-21,09:38:00,S4,Store D,Chair,8,152.29,Credit Card,TX301343,1218.32,2024,11,November,Thursday
+2023-09-24,15:05:00,S2,Store D,Desk,2,98.37,Debit Card,TX301344,196.74,2023,9,September,Sunday
+2023-01-19,16:34:00,S7,Store B,Desk,10,262.33,Gift Card,TX301345,2623.3,2023,1,January,Thursday
+2025-02-23,19:10:00,S6,Store C,Tablet,10,207.55,Cash,TX301346,2075.5,2025,2,February,Sunday
+2025-02-26,16:19:00,S7,Store A,Monitor,1,67.34,Cash,TX301347,67.34,2025,2,February,Wednesday
+2025-03-17,19:42:00,S5,Store A,Printer,3,346.35,Cash,TX301348,1039.05,2025,3,March,Monday
+2024-09-26,19:56:00,S9,Store B,Phone,1,124.46,Online,TX301349,124.46,2024,9,September,Thursday
+2024-10-08,09:27:00,S10,Store A,Desk,2,298.99,Credit Card,TX301350,597.98,2024,10,October,Tuesday
+2024-07-15,10:24:00,S2,Store B,Monitor,1,318.83,Debit Card,TX301351,318.83,2024,7,July,Monday
+2024-01-22,19:01:00,S7,Store C,Laptop,4,107.64,Online,TX301352,430.56,2024,1,January,Monday
+2024-12-03,14:11:00,S2,Store B,Phone,5,96.13,Online,TX301353,480.65,2024,12,December,Tuesday
+2024-09-24,12:55:00,S3,Store A,Printer,3,377.63,Online,TX301354,1132.89,2024,9,September,Tuesday
+2025-02-04,21:26:00,S7,Store A,Tablet,6,115.95,Credit Card,TX301355,695.7,2025,2,February,Tuesday
+2025-06-21,21:50:00,S8,Store A,Phone,8,80.38,Online,TX301356,643.04,2025,6,June,Saturday
+2023-05-04,13:32:00,S7,Store D,Monitor,9,387.83,Gift Card,TX301357,3490.47,2023,5,May,Thursday
+2025-03-15,14:06:00,S6,Store B,Tablet,8,142.2,Cash,TX301358,1137.6,2025,3,March,Saturday
+2024-06-02,15:36:00,S9,Store B,Monitor,8,221.86,Credit Card,TX301359,1774.88,2024,6,June,Sunday
+2024-11-25,10:50:00,S3,Store B,Phone,3,331.95,Credit Card,TX301360,995.85,2024,11,November,Monday
+2024-06-15,21:04:00,S2,Store C,Phone,10,109.91,Debit Card,TX301361,1099.1,2024,6,June,Saturday
+2023-04-14,18:35:00,S5,Store B,Monitor,5,386.16,Cash,TX301362,1930.8,2023,4,April,Friday
+2023-09-12,12:15:00,S6,Store A,Chair,6,202.43,Online,TX301363,1214.58,2023,9,September,Tuesday
+2023-03-24,09:44:00,S9,Store A,Phone,5,249.96,Cash,TX301364,1249.8,2023,3,March,Friday
+2024-03-30,14:17:00,S6,Store B,Chair,8,22.18,Debit Card,TX301365,177.44,2024,3,March,Saturday
+2023-03-21,11:56:00,S5,Store D,Laptop,5,398.19,Gift Card,TX301366,1990.95,2023,3,March,Tuesday
+2025-04-13,19:58:00,S8,Store C,Monitor,7,61.81,Credit Card,TX301367,432.67,2025,4,April,Sunday
+2024-03-03,21:44:00,S3,Store D,Chair,6,120.36,Online,TX301368,722.16,2024,3,March,Sunday
+2024-11-18,14:26:00,S9,Store B,Monitor,1,371.02,Online,TX301369,371.02,2024,11,November,Monday
+2023-04-03,14:54:00,S7,Store A,Tablet,9,67.98,Credit Card,TX301370,611.82,2023,4,April,Monday
+2023-10-29,10:46:00,S3,Store D,Monitor,7,194.84,Online,TX301371,1363.88,2023,10,October,Sunday
+2024-09-08,10:52:00,S7,Store A,Chair,2,301.23,Online,TX301372,602.46,2024,9,September,Sunday
+2025-05-12,09:29:00,S9,Store C,Chair,6,284.08,Debit Card,TX301373,1704.48,2025,5,May,Monday
+2023-11-22,17:17:00,S5,Store B,Laptop,4,220.45,Cash,TX301374,881.8,2023,11,November,Wednesday
+2025-02-22,14:11:00,S10,Store A,Desk,5,254.06,Online,TX301375,1270.3,2025,2,February,Saturday
+2023-12-20,13:23:00,S7,Store B,Printer,6,194.11,Online,TX301376,1164.66,2023,12,December,Wednesday
+2023-04-14,19:01:00,S7,Store B,Monitor,4,324.28,Gift Card,TX301377,1297.12,2023,4,April,Friday
+2023-11-22,20:27:00,S1,Store A,Monitor,1,390.76,Online,TX301378,390.76,2023,11,November,Wednesday
+2024-02-16,17:18:00,S10,Store D,Printer,3,24.64,Credit Card,TX301379,73.92,2024,2,February,Friday
+2025-06-05,20:48:00,S2,Store D,Printer,1,263.09,Online,TX301380,263.09,2025,6,June,Thursday
+2023-01-02,18:03:00,S6,Store B,Printer,6,345.68,Cash,TX301381,2074.08,2023,1,January,Monday
+2023-11-05,15:50:00,S10,Store B,Desk,1,197.46,Credit Card,TX301382,197.46,2023,11,November,Sunday
+2024-04-17,17:54:00,S9,Store A,Printer,7,285.29,Credit Card,TX301383,1997.03,2024,4,April,Wednesday
+2023-04-07,19:41:00,S5,Store D,Phone,9,265.26,Gift Card,TX301384,2387.34,2023,4,April,Friday
+2023-02-14,21:45:00,S4,Store C,Laptop,9,86.8,Gift Card,TX301385,781.2,2023,2,February,Tuesday
+2024-03-04,11:39:00,S6,Store D,Phone,5,128.22,Debit Card,TX301386,641.1,2024,3,March,Monday
+2025-01-22,14:13:00,S3,Store D,Phone,4,217.45,Credit Card,TX301387,869.8,2025,1,January,Wednesday
+2023-02-23,19:59:00,S2,Store A,Desk,2,27.39,Cash,TX301388,54.78,2023,2,February,Thursday
+2023-03-02,18:05:00,S3,Store A,Laptop,7,293.82,Online,TX301389,2056.74,2023,3,March,Thursday
+2023-12-25,16:08:00,S6,Store A,Monitor,4,310.24,Debit Card,TX301390,1240.96,2023,12,December,Monday
+2025-03-10,16:10:00,S3,Store D,Printer,8,339.18,Cash,TX301391,2713.44,2025,3,March,Monday
+2023-11-16,17:34:00,S1,Store B,Printer,8,118.09,Credit Card,TX301392,944.72,2023,11,November,Thursday
+2024-08-25,14:03:00,S2,Store B,Tablet,8,138.79,Online,TX301393,1110.32,2024,8,August,Sunday
+2023-12-01,19:20:00,S3,Store A,Printer,8,264.55,Debit Card,TX301394,2116.4,2023,12,December,Friday
+2025-05-12,13:14:00,S7,Store D,Desk,3,396.2,Debit Card,TX301395,1188.6,2025,5,May,Monday
+2025-02-06,18:17:00,S4,Store A,Tablet,4,22.53,Cash,TX301396,90.12,2025,2,February,Thursday
+2024-06-23,20:50:00,S1,Store B,Phone,8,343.26,Credit Card,TX301397,2746.08,2024,6,June,Sunday
+2024-09-09,16:29:00,S7,Store C,Laptop,10,6.88,Gift Card,TX301398,68.8,2024,9,September,Monday
+2023-10-29,09:34:00,S8,Store B,Phone,4,361.29,Debit Card,TX301399,1445.16,2023,10,October,Sunday
+2024-09-07,20:49:00,S8,Store C,Phone,8,21.46,Credit Card,TX301400,171.68,2024,9,September,Saturday
+2023-09-12,10:22:00,S6,Store B,Tablet,1,14.39,Gift Card,TX301401,14.39,2023,9,September,Tuesday
+2024-05-30,21:01:00,S10,Store D,Tablet,8,213.66,Online,TX301402,1709.28,2024,5,May,Thursday
+2025-04-16,20:13:00,S8,Store C,Tablet,9,148.82,Gift Card,TX301403,1339.38,2025,4,April,Wednesday
+2023-01-04,20:02:00,S2,Store D,Phone,2,222.24,Credit Card,TX301404,444.48,2023,1,January,Wednesday
+2023-04-06,17:42:00,S8,Store B,Tablet,1,126.75,Credit Card,TX301405,126.75,2023,4,April,Thursday
+2023-01-12,17:37:00,S8,Store D,Desk,10,5.01,Cash,TX301406,50.1,2023,1,January,Thursday
+2024-08-15,10:40:00,S2,Store B,Printer,7,21.35,Gift Card,TX301407,149.45,2024,8,August,Thursday
+2025-02-09,15:07:00,S8,Store C,Monitor,4,35.97,Debit Card,TX301408,143.88,2025,2,February,Sunday
+2024-03-29,18:16:00,S4,Store B,Chair,7,88.35,Credit Card,TX301409,618.45,2024,3,March,Friday
+2024-08-08,11:03:00,S7,Store B,Tablet,10,65.43,Debit Card,TX301410,654.3,2024,8,August,Thursday
+2023-04-16,12:19:00,S5,Store D,Monitor,10,111.29,Credit Card,TX301411,1112.9,2023,4,April,Sunday
+2023-03-05,12:31:00,S8,Store B,Monitor,4,61.35,Debit Card,TX301412,245.4,2023,3,March,Sunday
+2023-09-24,14:13:00,S9,Store C,Tablet,9,62.14,Debit Card,TX301413,559.26,2023,9,September,Sunday
+2023-09-07,17:40:00,S10,Store A,Tablet,8,259.17,Credit Card,TX301414,2073.36,2023,9,September,Thursday
+2023-03-27,21:47:00,S10,Store D,Laptop,10,78.33,Gift Card,TX301415,783.3,2023,3,March,Monday
+2024-11-02,21:50:00,S9,Store C,Printer,6,374.8,Cash,TX301416,2248.8,2024,11,November,Saturday
+2025-03-09,21:43:00,S5,Store C,Chair,4,30.68,Cash,TX301417,122.72,2025,3,March,Sunday
+2023-11-14,11:32:00,S2,Store A,Phone,10,324.62,Gift Card,TX301418,3246.2,2023,11,November,Tuesday
+2023-10-10,19:11:00,S6,Store D,Phone,2,259.89,Credit Card,TX301419,519.78,2023,10,October,Tuesday
+2025-03-09,09:07:00,S5,Store B,Monitor,3,51.13,Debit Card,TX301420,153.39,2025,3,March,Sunday
+2025-03-17,12:39:00,S5,Store D,Laptop,10,138.8,Online,TX301421,1388.0,2025,3,March,Monday
+2023-09-28,13:45:00,S10,Store D,Printer,7,94.41,Debit Card,TX301422,660.87,2023,9,September,Thursday
+2023-08-23,10:46:00,S4,Store A,Desk,8,284.04,Debit Card,TX301423,2272.32,2023,8,August,Wednesday
+2024-09-22,17:02:00,S2,Store D,Laptop,1,397.79,Cash,TX301424,397.79,2024,9,September,Sunday
+2023-07-22,13:22:00,S4,Store B,Tablet,5,255.76,Cash,TX301425,1278.8,2023,7,July,Saturday
+2023-03-12,20:37:00,S5,Store D,Desk,9,106.58,Gift Card,TX301426,959.22,2023,3,March,Sunday
+2023-07-14,12:03:00,S10,Store D,Printer,3,19.16,Credit Card,TX301427,57.48,2023,7,July,Friday
+2023-12-18,16:19:00,S1,Store A,Desk,4,58.36,Cash,TX301428,233.44,2023,12,December,Monday
+2023-02-19,16:03:00,S2,Store C,Phone,6,59.09,Debit Card,TX301429,354.54,2023,2,February,Sunday
+2023-01-30,09:19:00,S1,Store B,Desk,8,129.8,Online,TX301430,1038.4,2023,1,January,Monday
+2024-04-08,19:28:00,S6,Store B,Tablet,6,368.76,Gift Card,TX301431,2212.56,2024,4,April,Monday
+2023-04-04,12:53:00,S6,Store A,Printer,6,372.35,Debit Card,TX301432,2234.1,2023,4,April,Tuesday
+2023-01-27,12:20:00,S8,Store B,Laptop,7,205.34,Online,TX301433,1437.38,2023,1,January,Friday
+2025-06-28,14:13:00,S6,Store B,Desk,2,360.62,Cash,TX301434,721.24,2025,6,June,Saturday
+2024-11-15,20:26:00,S10,Store A,Printer,2,92.46,Debit Card,TX301435,184.92,2024,11,November,Friday
+2025-01-01,12:29:00,S3,Store C,Desk,5,270.68,Credit Card,TX301436,1353.4,2025,1,January,Wednesday
+2024-04-14,20:27:00,S2,Store C,Tablet,6,111.11,Debit Card,TX301437,666.66,2024,4,April,Sunday
+2025-03-10,21:43:00,S9,Store C,Tablet,9,46.66,Cash,TX301438,419.94,2025,3,March,Monday
+2024-12-01,20:17:00,S1,Store D,Laptop,2,264.18,Online,TX301439,528.36,2024,12,December,Sunday
+2023-04-10,17:04:00,S9,Store A,Monitor,3,245.07,Credit Card,TX301440,735.21,2023,4,April,Monday
+2025-06-09,15:14:00,S7,Store D,Chair,10,186.28,Gift Card,TX301441,1862.8,2025,6,June,Monday
+2025-03-12,20:19:00,S2,Store B,Desk,10,314.97,Cash,TX301442,3149.7,2025,3,March,Wednesday
+2024-09-06,19:59:00,S3,Store D,Printer,2,241.93,Cash,TX301443,483.86,2024,9,September,Friday
+2024-08-10,10:47:00,S8,Store C,Printer,7,149.77,Debit Card,TX301444,1048.39,2024,8,August,Saturday
+2024-01-07,14:58:00,S6,Store A,Monitor,5,353.76,Gift Card,TX301445,1768.8,2024,1,January,Sunday
+2023-05-25,14:31:00,S3,Store A,Phone,3,74.84,Debit Card,TX301446,224.52,2023,5,May,Thursday
+2023-12-09,11:44:00,S5,Store A,Phone,2,121.05,Credit Card,TX301447,242.1,2023,12,December,Saturday
+2023-05-12,16:03:00,S9,Store D,Tablet,7,277.36,Debit Card,TX301448,1941.52,2023,5,May,Friday
+2024-03-21,11:31:00,S4,Store B,Desk,9,330.57,Gift Card,TX301449,2975.13,2024,3,March,Thursday
+2023-01-22,14:53:00,S1,Store A,Tablet,4,49.38,Gift Card,TX301450,197.52,2023,1,January,Sunday
+2023-07-21,19:06:00,S3,Store C,Laptop,6,200.88,Cash,TX301451,1205.28,2023,7,July,Friday
+2024-12-21,12:08:00,S8,Store D,Chair,6,348.36,Debit Card,TX301452,2090.16,2024,12,December,Saturday
+2023-04-08,11:56:00,S3,Store A,Laptop,3,335.86,Online,TX301453,1007.58,2023,4,April,Saturday
+2024-06-19,17:13:00,S10,Store C,Tablet,5,31.82,Gift Card,TX301454,159.1,2024,6,June,Wednesday
+2023-05-10,14:15:00,S9,Store C,Monitor,9,104.52,Online,TX301455,940.68,2023,5,May,Wednesday
+2023-06-11,21:27:00,S5,Store D,Printer,3,275.63,Debit Card,TX301456,826.89,2023,6,June,Sunday
+2024-07-13,17:44:00,S5,Store A,Phone,6,296.97,Debit Card,TX301457,1781.82,2024,7,July,Saturday
+2024-01-18,15:24:00,S9,Store A,Monitor,5,331.32,Debit Card,TX301458,1656.6,2024,1,January,Thursday
+2023-10-06,18:58:00,S1,Store D,Printer,2,51.53,Cash,TX301459,103.06,2023,10,October,Friday
+2023-03-14,10:06:00,S3,Store C,Desk,2,271.74,Cash,TX301460,543.48,2023,3,March,Tuesday
+2023-03-12,14:15:00,S8,Store A,Phone,2,293.07,Credit Card,TX301461,586.14,2023,3,March,Sunday
+2023-10-01,15:59:00,S6,Store C,Printer,7,361.77,Gift Card,TX301462,2532.39,2023,10,October,Sunday
+2023-12-07,16:51:00,S10,Store A,Tablet,6,272.26,Gift Card,TX301463,1633.56,2023,12,December,Thursday
+2023-07-04,12:15:00,S8,Store C,Chair,6,104.02,Debit Card,TX301464,624.12,2023,7,July,Tuesday
+2025-05-12,20:39:00,S3,Store B,Desk,5,357.77,Debit Card,TX301465,1788.85,2025,5,May,Monday
+2024-06-02,19:00:00,S10,Store D,Monitor,3,362.96,Online,TX301466,1088.88,2024,6,June,Sunday
+2023-07-09,12:33:00,S1,Store A,Printer,3,20.37,Debit Card,TX301467,61.11,2023,7,July,Sunday
+2024-07-11,18:35:00,S6,Store A,Desk,9,278.29,Cash,TX301468,2504.61,2024,7,July,Thursday
+2023-04-27,11:35:00,S2,Store C,Phone,8,127.29,Debit Card,TX301469,1018.32,2023,4,April,Thursday
+2023-12-26,09:39:00,S7,Store D,Phone,10,364.16,Online,TX301470,3641.6,2023,12,December,Tuesday
+2024-06-27,14:07:00,S1,Store B,Tablet,3,122.45,Credit Card,TX301471,367.35,2024,6,June,Thursday
+2023-10-28,10:11:00,S4,Store D,Chair,10,221.44,Gift Card,TX301472,2214.4,2023,10,October,Saturday
+2023-01-18,10:27:00,S1,Store D,Desk,3,129.41,Gift Card,TX301473,388.23,2023,1,January,Wednesday
+2025-01-09,16:07:00,S6,Store B,Tablet,4,194.44,Online,TX301474,777.76,2025,1,January,Thursday
+2025-01-05,20:01:00,S10,Store B,Printer,10,7.42,Online,TX301475,74.2,2025,1,January,Sunday
+2023-09-10,12:20:00,S2,Store A,Phone,8,222.24,Online,TX301476,1777.92,2023,9,September,Sunday
+2023-01-19,19:22:00,S2,Store B,Printer,6,115.85,Gift Card,TX301477,695.1,2023,1,January,Thursday
+2023-04-10,10:36:00,S6,Store A,Chair,2,45.59,Debit Card,TX301478,91.18,2023,4,April,Monday
+2024-10-19,15:18:00,S6,Store A,Laptop,10,284.88,Cash,TX301479,2848.8,2024,10,October,Saturday
+2023-05-28,09:15:00,S8,Store C,Monitor,1,138.53,Cash,TX301480,138.53,2023,5,May,Sunday
+2025-06-25,20:26:00,S5,Store B,Monitor,1,315.13,Gift Card,TX301481,315.13,2025,6,June,Wednesday
+2024-03-24,18:23:00,S7,Store A,Tablet,10,100.85,Online,TX301482,1008.5,2024,3,March,Sunday
+2024-09-26,12:46:00,S5,Store C,Chair,10,253.03,Credit Card,TX301483,2530.3,2024,9,September,Thursday
+2024-12-17,14:25:00,S4,Store C,Printer,7,305.53,Cash,TX301484,2138.71,2024,12,December,Tuesday
+2024-05-29,13:18:00,S4,Store B,Tablet,8,226.38,Debit Card,TX301485,1811.04,2024,5,May,Wednesday
+2023-07-06,13:28:00,S5,Store A,Monitor,5,159.03,Credit Card,TX301486,795.15,2023,7,July,Thursday
+2024-06-06,10:59:00,S3,Store B,Tablet,3,43.97,Gift Card,TX301487,131.91,2024,6,June,Thursday
+2023-05-12,09:57:00,S6,Store C,Desk,9,209.42,Debit Card,TX301488,1884.78,2023,5,May,Friday
+2024-05-25,17:47:00,S1,Store C,Chair,4,362.34,Credit Card,TX301489,1449.36,2024,5,May,Saturday
+2024-08-12,10:20:00,S10,Store C,Tablet,5,285.76,Online,TX301490,1428.8,2024,8,August,Monday
+2025-06-10,13:39:00,S2,Store A,Phone,6,72.54,Gift Card,TX301491,435.24,2025,6,June,Tuesday
+2024-07-14,17:44:00,S4,Store B,Laptop,10,223.31,Cash,TX301492,2233.1,2024,7,July,Sunday
+2023-01-13,09:32:00,S4,Store B,Tablet,9,8.13,Credit Card,TX301493,73.17,2023,1,January,Friday
+2025-06-30,10:03:00,S5,Store B,Laptop,8,139.06,Cash,TX301494,1112.48,2025,6,June,Monday
+2025-05-18,15:21:00,S8,Store D,Phone,10,221.57,Debit Card,TX301495,2215.7,2025,5,May,Sunday
+2023-12-12,16:20:00,S3,Store A,Printer,1,106.75,Credit Card,TX301496,106.75,2023,12,December,Tuesday
+2023-04-11,20:26:00,S10,Store B,Tablet,9,176.65,Debit Card,TX301497,1589.85,2023,4,April,Tuesday
+2023-06-19,20:13:00,S6,Store B,Printer,8,132.11,Credit Card,TX301498,1056.88,2023,6,June,Monday
+2024-04-24,11:36:00,S1,Store D,Phone,3,377.38,Cash,TX301499,1132.14,2024,4,April,Wednesday
+2023-01-18,10:03:00,S4,Store C,Desk,7,288.66,Gift Card,TX301500,2020.62,2023,1,January,Wednesday
+2024-02-24,16:42:00,S10,Store B,Printer,5,157.3,Credit Card,TX301501,786.5,2024,2,February,Saturday
+2024-07-27,13:33:00,S2,Store A,Printer,1,40.39,Gift Card,TX301502,40.39,2024,7,July,Saturday
+2023-06-02,16:27:00,S6,Store A,Printer,2,58.06,Online,TX301503,116.12,2023,6,June,Friday
+2024-06-01,14:12:00,S3,Store C,Laptop,10,35.81,Online,TX301504,358.1,2024,6,June,Saturday
+2024-08-31,13:01:00,S2,Store C,Phone,7,253.06,Cash,TX301505,1771.42,2024,8,August,Saturday
+2025-04-17,11:09:00,S10,Store A,Tablet,3,91.79,Cash,TX301506,275.37,2025,4,April,Thursday
+2024-01-08,18:10:00,S3,Store B,Phone,4,139.01,Cash,TX301507,556.04,2024,1,January,Monday
+2024-05-11,10:05:00,S8,Store C,Phone,2,54.08,Online,TX301508,108.16,2024,5,May,Saturday
+2024-03-14,15:43:00,S4,Store C,Chair,8,245.72,Gift Card,TX301509,1965.76,2024,3,March,Thursday
+2024-05-17,18:47:00,S3,Store D,Phone,2,89.38,Online,TX301510,178.76,2024,5,May,Friday
+2023-05-09,20:10:00,S3,Store A,Monitor,3,290.93,Cash,TX301511,872.79,2023,5,May,Tuesday
+2024-01-14,18:42:00,S1,Store B,Laptop,2,302.06,Debit Card,TX301512,604.12,2024,1,January,Sunday
+2024-01-15,15:05:00,S8,Store D,Monitor,5,154.45,Debit Card,TX301513,772.25,2024,1,January,Monday
+2024-03-22,09:21:00,S5,Store C,Monitor,10,284.8,Cash,TX301514,2848.0,2024,3,March,Friday
+2023-12-25,17:21:00,S6,Store C,Phone,2,383.87,Cash,TX301515,767.74,2023,12,December,Monday
+2025-05-27,13:39:00,S1,Store D,Printer,9,45.51,Online,TX301516,409.59,2025,5,May,Tuesday
+2024-06-29,09:56:00,S8,Store B,Monitor,5,246.01,Gift Card,TX301517,1230.05,2024,6,June,Saturday
+2024-02-20,10:11:00,S1,Store C,Laptop,2,255.54,Credit Card,TX301518,511.08,2024,2,February,Tuesday
+2024-02-28,09:26:00,S3,Store D,Tablet,3,109.42,Credit Card,TX301519,328.26,2024,2,February,Wednesday
+2025-01-01,12:37:00,S6,Store B,Laptop,4,342.03,Online,TX301520,1368.12,2025,1,January,Wednesday
+2023-02-22,16:47:00,S8,Store C,Monitor,4,255.43,Online,TX301521,1021.72,2023,2,February,Wednesday
+2023-10-07,13:57:00,S5,Store B,Monitor,10,228.02,Credit Card,TX301522,2280.2,2023,10,October,Saturday
+2024-06-30,10:38:00,S4,Store A,Monitor,7,232.92,Debit Card,TX301523,1630.44,2024,6,June,Sunday
+2025-05-30,17:32:00,S5,Store D,Printer,5,214.37,Debit Card,TX301524,1071.85,2025,5,May,Friday
+2024-10-29,15:09:00,S5,Store B,Phone,1,130.45,Cash,TX301525,130.45,2024,10,October,Tuesday
+2025-02-23,17:05:00,S3,Store B,Monitor,9,252.58,Credit Card,TX301526,2273.22,2025,2,February,Sunday
+2024-05-08,15:09:00,S3,Store A,Chair,5,108.84,Gift Card,TX301527,544.2,2024,5,May,Wednesday
+2024-03-27,10:04:00,S2,Store D,Printer,10,219.61,Cash,TX301528,2196.1,2024,3,March,Wednesday
+2023-04-18,16:32:00,S10,Store D,Tablet,9,211.67,Credit Card,TX301529,1905.03,2023,4,April,Tuesday
+2024-01-16,14:32:00,S4,Store A,Printer,6,345.65,Debit Card,TX301530,2073.9,2024,1,January,Tuesday
+2023-02-03,19:52:00,S8,Store B,Chair,8,337.73,Debit Card,TX301531,2701.84,2023,2,February,Friday
+2023-02-11,12:27:00,S2,Store C,Chair,8,154.05,Credit Card,TX301532,1232.4,2023,2,February,Saturday
+2024-02-19,19:29:00,S9,Store A,Monitor,5,146.28,Debit Card,TX301533,731.4,2024,2,February,Monday
+2025-02-18,19:02:00,S2,Store A,Monitor,3,224.49,Credit Card,TX301534,673.47,2025,2,February,Tuesday
+2023-04-29,15:45:00,S3,Store D,Printer,8,331.87,Gift Card,TX301535,2654.96,2023,4,April,Saturday
+2023-07-02,19:24:00,S4,Store C,Phone,2,242.0,Credit Card,TX301536,484.0,2023,7,July,Sunday
+2024-09-19,12:48:00,S3,Store B,Monitor,4,364.69,Gift Card,TX301537,1458.76,2024,9,September,Thursday
+2023-03-06,20:43:00,S3,Store B,Monitor,1,249.38,Cash,TX301538,249.38,2023,3,March,Monday
+2023-07-09,10:40:00,S5,Store A,Desk,6,274.34,Cash,TX301539,1646.04,2023,7,July,Sunday
+2024-12-02,13:06:00,S3,Store B,Monitor,4,131.52,Credit Card,TX301540,526.08,2024,12,December,Monday
+2025-06-20,20:22:00,S5,Store D,Tablet,2,138.36,Gift Card,TX301541,276.72,2025,6,June,Friday
+2024-02-18,10:13:00,S3,Store B,Printer,6,240.23,Online,TX301542,1441.38,2024,2,February,Sunday
+2023-08-04,14:53:00,S10,Store B,Desk,5,257.71,Online,TX301543,1288.55,2023,8,August,Friday
+2024-06-21,09:51:00,S5,Store B,Tablet,1,322.54,Cash,TX301544,322.54,2024,6,June,Friday
+2023-03-19,09:09:00,S3,Store B,Printer,3,229.92,Online,TX301545,689.76,2023,3,March,Sunday
+2023-11-20,11:17:00,S2,Store A,Chair,6,395.79,Credit Card,TX301546,2374.74,2023,11,November,Monday
+2024-01-01,14:59:00,S1,Store D,Chair,7,268.29,Credit Card,TX301547,1878.03,2024,1,January,Monday
+2024-07-15,16:11:00,S7,Store C,Chair,7,346.83,Online,TX301548,2427.81,2024,7,July,Monday
+2023-04-16,12:18:00,S3,Store A,Printer,2,325.91,Debit Card,TX301549,651.82,2023,4,April,Sunday
+2025-01-10,17:27:00,S7,Store B,Chair,5,298.31,Online,TX301550,1491.55,2025,1,January,Friday
+2023-08-11,17:32:00,S3,Store D,Tablet,6,96.53,Cash,TX301551,579.18,2023,8,August,Friday
+2023-05-28,16:24:00,S2,Store C,Phone,9,122.13,Debit Card,TX301552,1099.17,2023,5,May,Sunday
+2025-04-02,09:59:00,S9,Store B,Monitor,10,200.72,Credit Card,TX301553,2007.2,2025,4,April,Wednesday
+2023-01-13,16:20:00,S5,Store C,Chair,9,318.41,Debit Card,TX301554,2865.69,2023,1,January,Friday
+2023-12-17,14:10:00,S1,Store A,Phone,5,373.5,Debit Card,TX301555,1867.5,2023,12,December,Sunday
+2024-04-30,14:56:00,S9,Store A,Tablet,7,395.92,Online,TX301556,2771.44,2024,4,April,Tuesday
+2023-10-17,19:25:00,S9,Store C,Tablet,2,328.21,Gift Card,TX301557,656.42,2023,10,October,Tuesday
+2023-05-30,19:48:00,S3,Store D,Desk,3,258.19,Gift Card,TX301558,774.57,2023,5,May,Tuesday
+2023-02-24,16:47:00,S7,Store A,Tablet,4,207.62,Credit Card,TX301559,830.48,2023,2,February,Friday
+2024-07-02,09:10:00,S5,Store C,Monitor,1,287.84,Cash,TX301560,287.84,2024,7,July,Tuesday
+2023-01-24,09:14:00,S1,Store D,Chair,10,303.18,Gift Card,TX301561,3031.8,2023,1,January,Tuesday
+2023-11-02,10:13:00,S7,Store C,Laptop,8,170.21,Online,TX301562,1361.68,2023,11,November,Thursday
+2023-02-07,09:08:00,S10,Store C,Chair,9,302.06,Debit Card,TX301563,2718.54,2023,2,February,Tuesday
+2024-10-23,12:25:00,S1,Store B,Printer,10,68.48,Gift Card,TX301564,684.8,2024,10,October,Wednesday
+2023-04-10,21:29:00,S10,Store B,Laptop,6,94.92,Credit Card,TX301565,569.52,2023,4,April,Monday
+2023-07-17,11:00:00,S5,Store C,Monitor,7,74.85,Cash,TX301566,523.95,2023,7,July,Monday
+2024-06-10,16:20:00,S5,Store C,Desk,3,293.43,Debit Card,TX301567,880.29,2024,6,June,Monday
+2024-02-04,13:02:00,S10,Store A,Tablet,1,337.9,Gift Card,TX301568,337.9,2024,2,February,Sunday
+2023-11-23,12:57:00,S7,Store A,Phone,1,231.16,Online,TX301569,231.16,2023,11,November,Thursday
+2023-11-12,20:39:00,S4,Store B,Phone,2,17.67,Gift Card,TX301570,35.34,2023,11,November,Sunday
+2025-04-28,17:42:00,S2,Store C,Laptop,6,92.43,Cash,TX301571,554.58,2025,4,April,Monday
+2024-06-09,10:57:00,S6,Store A,Desk,2,39.52,Debit Card,TX301572,79.04,2024,6,June,Sunday
+2024-06-25,16:34:00,S9,Store C,Chair,8,323.82,Credit Card,TX301573,2590.56,2024,6,June,Tuesday
+2023-07-24,09:30:00,S5,Store B,Monitor,10,257.51,Online,TX301574,2575.1,2023,7,July,Monday
+2025-01-17,17:14:00,S3,Store B,Tablet,10,292.85,Online,TX301575,2928.5,2025,1,January,Friday
+2024-05-12,18:23:00,S6,Store D,Laptop,4,313.24,Gift Card,TX301576,1252.96,2024,5,May,Sunday
+2023-04-30,10:17:00,S6,Store B,Laptop,7,355.86,Debit Card,TX301577,2491.02,2023,4,April,Sunday
+2024-12-09,13:47:00,S4,Store D,Tablet,7,25.03,Online,TX301578,175.21,2024,12,December,Monday
+2025-06-27,10:19:00,S10,Store C,Tablet,2,52.08,Credit Card,TX301579,104.16,2025,6,June,Friday
+2023-06-27,17:40:00,S6,Store D,Chair,4,249.64,Online,TX301580,998.56,2023,6,June,Tuesday
+2025-05-19,21:58:00,S10,Store A,Tablet,4,283.24,Online,TX301581,1132.96,2025,5,May,Monday
+2024-07-17,20:51:00,S2,Store D,Chair,8,122.72,Credit Card,TX301582,981.76,2024,7,July,Wednesday
+2024-03-07,19:45:00,S10,Store A,Chair,1,318.78,Cash,TX301583,318.78,2024,3,March,Thursday
+2023-02-09,18:22:00,S1,Store B,Chair,3,330.4,Gift Card,TX301584,991.2,2023,2,February,Thursday
+2023-08-20,14:52:00,S6,Store C,Tablet,8,11.98,Debit Card,TX301585,95.84,2023,8,August,Sunday
+2023-02-13,10:33:00,S10,Store D,Desk,1,71.12,Online,TX301586,71.12,2023,2,February,Monday
+2025-03-10,19:38:00,S7,Store C,Laptop,8,358.91,Debit Card,TX301587,2871.28,2025,3,March,Monday
+2024-12-15,18:07:00,S4,Store A,Desk,7,41.86,Online,TX301588,293.02,2024,12,December,Sunday
+2023-10-18,18:54:00,S2,Store A,Desk,6,303.95,Debit Card,TX301589,1823.7,2023,10,October,Wednesday
+2025-06-02,13:15:00,S2,Store D,Laptop,10,380.28,Debit Card,TX301590,3802.8,2025,6,June,Monday
+2024-05-03,17:39:00,S2,Store D,Phone,2,320.66,Gift Card,TX301591,641.32,2024,5,May,Friday
+2023-04-06,21:21:00,S7,Store B,Chair,8,129.49,Cash,TX301592,1035.92,2023,4,April,Thursday
+2024-06-03,15:35:00,S2,Store D,Printer,3,319.82,Online,TX301593,959.46,2024,6,June,Monday
+2024-11-01,09:11:00,S9,Store D,Tablet,3,374.41,Debit Card,TX301594,1123.23,2024,11,November,Friday
+2023-11-26,11:06:00,S4,Store C,Monitor,10,343.66,Credit Card,TX301595,3436.6,2023,11,November,Sunday
+2023-06-18,20:35:00,S8,Store A,Chair,1,53.91,Cash,TX301596,53.91,2023,6,June,Sunday
+2024-05-30,20:13:00,S4,Store D,Phone,2,180.34,Cash,TX301597,360.68,2024,5,May,Thursday
+2023-12-26,21:02:00,S1,Store D,Printer,7,148.31,Credit Card,TX301598,1038.17,2023,12,December,Tuesday
+2023-02-11,15:17:00,S8,Store C,Tablet,8,326.17,Credit Card,TX301599,2609.36,2023,2,February,Saturday
+2024-03-03,15:51:00,S9,Store A,Laptop,7,215.7,Debit Card,TX301600,1509.9,2024,3,March,Sunday
+2023-10-26,18:45:00,S7,Store D,Printer,10,91.27,Debit Card,TX301601,912.7,2023,10,October,Thursday
+2025-01-16,10:56:00,S2,Store D,Chair,9,43.26,Cash,TX301602,389.34,2025,1,January,Thursday
+2023-05-10,14:02:00,S10,Store A,Desk,7,61.08,Gift Card,TX301603,427.56,2023,5,May,Wednesday
+2023-10-30,16:12:00,S3,Store B,Chair,4,132.07,Debit Card,TX301604,528.28,2023,10,October,Monday
+2024-09-24,12:00:00,S2,Store C,Desk,1,159.52,Debit Card,TX301605,159.52,2024,9,September,Tuesday
+2024-12-27,19:02:00,S3,Store D,Chair,4,134.66,Debit Card,TX301606,538.64,2024,12,December,Friday
+2023-06-09,21:57:00,S5,Store B,Printer,6,45.37,Cash,TX301607,272.22,2023,6,June,Friday
+2023-07-03,14:17:00,S1,Store C,Phone,8,296.29,Credit Card,TX301608,2370.32,2023,7,July,Monday
+2024-01-08,15:26:00,S2,Store C,Chair,3,384.37,Cash,TX301609,1153.11,2024,1,January,Monday
+2024-02-09,11:49:00,S6,Store D,Phone,6,160.8,Debit Card,TX301610,964.8,2024,2,February,Friday
+2023-09-09,18:09:00,S9,Store B,Chair,4,267.99,Credit Card,TX301611,1071.96,2023,9,September,Saturday
+2025-06-28,20:10:00,S2,Store A,Chair,6,152.9,Debit Card,TX301612,917.4,2025,6,June,Saturday
+2024-07-11,17:21:00,S7,Store B,Desk,4,114.63,Online,TX301613,458.52,2024,7,July,Thursday
+2024-11-27,20:34:00,S9,Store B,Tablet,5,83.16,Online,TX301614,415.8,2024,11,November,Wednesday
+2023-05-08,11:04:00,S1,Store C,Printer,6,315.78,Cash,TX301615,1894.68,2023,5,May,Monday
+2024-01-05,18:00:00,S6,Store A,Monitor,9,395.2,Cash,TX301616,3556.8,2024,1,January,Friday
+2025-05-15,12:58:00,S5,Store C,Desk,8,322.52,Cash,TX301617,2580.16,2025,5,May,Thursday
+2023-08-14,13:56:00,S7,Store A,Tablet,10,174.06,Debit Card,TX301618,1740.6,2023,8,August,Monday
+2023-09-27,18:51:00,S5,Store A,Chair,10,98.41,Cash,TX301619,984.1,2023,9,September,Wednesday
+2023-01-27,14:52:00,S2,Store C,Laptop,9,246.89,Credit Card,TX301620,2222.01,2023,1,January,Friday
+2025-01-02,17:57:00,S7,Store A,Laptop,8,68.63,Credit Card,TX301621,549.04,2025,1,January,Thursday
+2025-04-19,16:14:00,S8,Store A,Chair,2,174.57,Debit Card,TX301622,349.14,2025,4,April,Saturday
+2023-12-24,14:16:00,S9,Store B,Chair,4,84.97,Cash,TX301623,339.88,2023,12,December,Sunday
+2023-09-21,15:43:00,S7,Store D,Chair,5,15.19,Credit Card,TX301624,75.95,2023,9,September,Thursday
+2023-03-05,19:03:00,S4,Store A,Tablet,10,133.34,Online,TX301625,1333.4,2023,3,March,Sunday
+2024-05-25,16:59:00,S9,Store D,Laptop,5,129.6,Credit Card,TX301626,648.0,2024,5,May,Saturday
+2025-05-10,11:53:00,S8,Store D,Monitor,10,52.31,Online,TX301627,523.1,2025,5,May,Saturday
+2024-01-27,20:48:00,S4,Store D,Desk,10,366.42,Debit Card,TX301628,3664.2,2024,1,January,Saturday
+2024-08-02,16:20:00,S1,Store B,Phone,1,258.97,Debit Card,TX301629,258.97,2024,8,August,Friday
+2023-12-25,20:38:00,S8,Store D,Chair,10,292.68,Online,TX301630,2926.8,2023,12,December,Monday
+2025-01-24,19:35:00,S1,Store C,Phone,5,224.77,Debit Card,TX301631,1123.85,2025,1,January,Friday
+2023-12-05,18:27:00,S8,Store C,Chair,1,399.31,Cash,TX301632,399.31,2023,12,December,Tuesday
+2023-03-06,09:04:00,S1,Store B,Phone,4,61.05,Gift Card,TX301633,244.2,2023,3,March,Monday
+2024-01-12,21:07:00,S2,Store A,Monitor,1,39.85,Cash,TX301634,39.85,2024,1,January,Friday
+2023-11-27,14:44:00,S1,Store C,Monitor,2,71.25,Debit Card,TX301635,142.5,2023,11,November,Monday
+2024-06-24,14:07:00,S10,Store C,Tablet,10,223.71,Online,TX301636,2237.1,2024,6,June,Monday
+2025-01-12,13:29:00,S8,Store C,Phone,9,79.26,Debit Card,TX301637,713.34,2025,1,January,Sunday
+2023-07-16,18:50:00,S6,Store D,Monitor,6,352.11,Gift Card,TX301638,2112.66,2023,7,July,Sunday
+2023-06-24,17:42:00,S8,Store D,Monitor,2,264.04,Cash,TX301639,528.08,2023,6,June,Saturday
+2025-03-18,11:24:00,S6,Store D,Laptop,4,141.85,Cash,TX301640,567.4,2025,3,March,Tuesday
+2024-01-20,10:27:00,S4,Store C,Monitor,5,264.69,Gift Card,TX301641,1323.45,2024,1,January,Saturday
+2024-09-30,11:13:00,S3,Store B,Desk,6,213.37,Debit Card,TX301642,1280.22,2024,9,September,Monday
+2023-01-24,11:44:00,S7,Store C,Desk,5,154.16,Cash,TX301643,770.8,2023,1,January,Tuesday
+2023-03-12,21:42:00,S2,Store B,Printer,8,210.83,Debit Card,TX301644,1686.64,2023,3,March,Sunday
+2023-08-08,12:15:00,S1,Store A,Monitor,7,35.63,Online,TX301645,249.41,2023,8,August,Tuesday
+2024-05-27,20:05:00,S9,Store D,Chair,7,399.84,Credit Card,TX301646,2798.88,2024,5,May,Monday
+2025-02-21,20:02:00,S8,Store A,Desk,9,78.43,Debit Card,TX301647,705.87,2025,2,February,Friday
+2025-01-14,09:44:00,S7,Store A,Tablet,10,15.83,Online,TX301648,158.3,2025,1,January,Tuesday
+2024-02-17,15:36:00,S5,Store A,Desk,7,59.78,Credit Card,TX301649,418.46,2024,2,February,Saturday
+2024-03-13,09:39:00,S9,Store D,Laptop,5,82.19,Debit Card,TX301650,410.95,2024,3,March,Wednesday
+2023-10-10,17:50:00,S10,Store C,Printer,7,218.78,Credit Card,TX301651,1531.46,2023,10,October,Tuesday
+2025-02-17,14:24:00,S1,Store D,Laptop,1,237.09,Debit Card,TX301652,237.09,2025,2,February,Monday
+2024-02-18,19:52:00,S10,Store D,Laptop,1,329.62,Online,TX301653,329.62,2024,2,February,Sunday
+2024-10-08,18:09:00,S5,Store A,Monitor,5,348.37,Cash,TX301654,1741.85,2024,10,October,Tuesday
+2024-11-14,14:10:00,S5,Store B,Desk,5,124.49,Cash,TX301655,622.45,2024,11,November,Thursday
+2024-03-15,12:13:00,S7,Store A,Printer,3,60.69,Gift Card,TX301656,182.07,2024,3,March,Friday
+2025-01-22,20:14:00,S9,Store D,Chair,6,164.69,Debit Card,TX301657,988.14,2025,1,January,Wednesday
+2024-04-06,10:38:00,S6,Store A,Monitor,9,364.39,Debit Card,TX301658,3279.51,2024,4,April,Saturday
+2025-06-19,10:13:00,S9,Store D,Monitor,1,44.62,Online,TX301659,44.62,2025,6,June,Thursday
+2024-10-22,09:31:00,S2,Store B,Tablet,7,122.95,Cash,TX301660,860.65,2024,10,October,Tuesday
+2025-05-01,20:45:00,S4,Store B,Printer,2,275.21,Credit Card,TX301661,550.42,2025,5,May,Thursday
+2025-05-22,20:05:00,S3,Store C,Monitor,2,32.54,Gift Card,TX301662,65.08,2025,5,May,Thursday
+2023-10-26,11:43:00,S1,Store C,Chair,8,112.95,Cash,TX301663,903.6,2023,10,October,Thursday
+2024-06-02,19:03:00,S4,Store B,Desk,8,212.13,Debit Card,TX301664,1697.04,2024,6,June,Sunday
+2024-11-12,17:07:00,S6,Store D,Tablet,8,159.36,Cash,TX301665,1274.88,2024,11,November,Tuesday
+2023-10-29,10:35:00,S9,Store C,Laptop,6,131.09,Debit Card,TX301666,786.54,2023,10,October,Sunday
+2023-06-30,13:21:00,S2,Store C,Phone,3,43.79,Debit Card,TX301667,131.37,2023,6,June,Friday
+2023-03-26,16:52:00,S8,Store C,Phone,9,386.54,Debit Card,TX301668,3478.86,2023,3,March,Sunday
+2025-05-17,14:05:00,S9,Store C,Printer,6,159.03,Online,TX301669,954.18,2025,5,May,Saturday
+2025-05-20,09:11:00,S2,Store D,Phone,7,346.39,Online,TX301670,2424.73,2025,5,May,Tuesday
+2024-11-12,18:14:00,S1,Store B,Tablet,7,381.19,Credit Card,TX301671,2668.33,2024,11,November,Tuesday
+2024-10-11,16:24:00,S10,Store C,Printer,4,268.92,Online,TX301672,1075.68,2024,10,October,Friday
+2025-01-05,09:49:00,S9,Store A,Desk,7,33.8,Debit Card,TX301673,236.6,2025,1,January,Sunday
+2023-09-09,15:53:00,S9,Store B,Laptop,9,112.07,Credit Card,TX301674,1008.63,2023,9,September,Saturday
+2023-05-18,20:41:00,S6,Store B,Printer,9,29.42,Credit Card,TX301675,264.78,2023,5,May,Thursday
+2023-02-15,11:56:00,S4,Store B,Chair,4,93.92,Credit Card,TX301676,375.68,2023,2,February,Wednesday
+2024-11-28,20:03:00,S4,Store A,Printer,2,328.66,Cash,TX301677,657.32,2024,11,November,Thursday
+2023-06-04,15:23:00,S8,Store A,Printer,3,60.13,Gift Card,TX301678,180.39,2023,6,June,Sunday
+2023-11-04,11:39:00,S3,Store A,Tablet,2,139.89,Cash,TX301679,279.78,2023,11,November,Saturday
+2025-06-01,14:59:00,S4,Store B,Phone,10,258.14,Debit Card,TX301680,2581.4,2025,6,June,Sunday
+2023-01-13,20:40:00,S1,Store B,Chair,8,236.42,Online,TX301681,1891.36,2023,1,January,Friday
+2024-06-10,15:34:00,S2,Store D,Desk,1,309.89,Debit Card,TX301682,309.89,2024,6,June,Monday
+2024-05-21,13:05:00,S8,Store A,Laptop,7,291.64,Credit Card,TX301683,2041.48,2024,5,May,Tuesday
+2025-05-08,10:17:00,S7,Store D,Laptop,10,84.01,Cash,TX301684,840.1,2025,5,May,Thursday
+2023-09-25,09:39:00,S3,Store A,Monitor,3,60.66,Cash,TX301685,181.98,2023,9,September,Monday
+2025-02-14,12:58:00,S6,Store A,Phone,5,364.23,Credit Card,TX301686,1821.15,2025,2,February,Friday
+2023-08-21,10:08:00,S2,Store A,Laptop,7,55.08,Debit Card,TX301687,385.56,2023,8,August,Monday
+2024-04-17,14:55:00,S4,Store C,Printer,2,235.68,Debit Card,TX301688,471.36,2024,4,April,Wednesday
+2024-01-13,12:27:00,S1,Store C,Monitor,10,278.33,Debit Card,TX301689,2783.3,2024,1,January,Saturday
+2025-01-28,21:07:00,S4,Store C,Phone,7,334.22,Credit Card,TX301690,2339.54,2025,1,January,Tuesday
+2023-06-20,21:03:00,S2,Store C,Chair,9,316.2,Credit Card,TX301691,2845.8,2023,6,June,Tuesday
+2024-10-02,13:33:00,S6,Store B,Printer,9,261.12,Online,TX301692,2350.08,2024,10,October,Wednesday
+2023-11-04,16:54:00,S4,Store B,Tablet,5,152.95,Cash,TX301693,764.75,2023,11,November,Saturday
+2024-07-23,18:54:00,S10,Store A,Printer,1,273.63,Online,TX301694,273.63,2024,7,July,Tuesday
+2023-12-28,09:07:00,S10,Store D,Tablet,2,100.43,Online,TX301695,200.86,2023,12,December,Thursday
+2023-04-07,18:36:00,S9,Store B,Tablet,4,129.51,Online,TX301696,518.04,2023,4,April,Friday
+2023-02-17,20:44:00,S8,Store B,Laptop,1,196.22,Credit Card,TX301697,196.22,2023,2,February,Friday
+2025-03-24,17:21:00,S10,Store B,Tablet,9,341.6,Online,TX301698,3074.4,2025,3,March,Monday
+2023-08-14,12:16:00,S6,Store B,Desk,1,371.27,Credit Card,TX301699,371.27,2023,8,August,Monday
+2024-07-14,20:03:00,S4,Store D,Laptop,5,132.68,Online,TX301700,663.4,2024,7,July,Sunday
+2025-04-16,20:14:00,S4,Store C,Monitor,3,21.15,Online,TX301701,63.45,2025,4,April,Wednesday
+2023-05-03,15:05:00,S1,Store A,Printer,7,262.11,Debit Card,TX301702,1834.77,2023,5,May,Wednesday
+2024-02-29,15:35:00,S3,Store C,Laptop,4,20.86,Debit Card,TX301703,83.44,2024,2,February,Thursday
+2025-06-26,21:23:00,S7,Store B,Printer,5,350.15,Credit Card,TX301704,1750.75,2025,6,June,Thursday
+2025-04-26,11:23:00,S4,Store C,Monitor,2,302.49,Cash,TX301705,604.98,2025,4,April,Saturday
+2023-03-13,11:34:00,S1,Store D,Laptop,1,42.78,Gift Card,TX301706,42.78,2023,3,March,Monday
+2023-05-25,17:11:00,S7,Store A,Phone,2,126.37,Online,TX301707,252.74,2023,5,May,Thursday
+2024-03-08,12:52:00,S3,Store C,Tablet,2,151.89,Gift Card,TX301708,303.78,2024,3,March,Friday
+2023-01-30,14:53:00,S4,Store D,Desk,7,29.59,Online,TX301709,207.13,2023,1,January,Monday
+2024-05-27,14:51:00,S7,Store A,Chair,2,322.73,Cash,TX301710,645.46,2024,5,May,Monday
+2024-10-01,10:36:00,S8,Store C,Laptop,9,184.8,Debit Card,TX301711,1663.2,2024,10,October,Tuesday
+2025-03-17,15:29:00,S1,Store C,Chair,5,106.95,Credit Card,TX301712,534.75,2025,3,March,Monday
+2023-05-22,14:07:00,S10,Store B,Monitor,1,257.74,Online,TX301713,257.74,2023,5,May,Monday
+2023-02-12,13:29:00,S2,Store B,Phone,9,117.58,Online,TX301714,1058.22,2023,2,February,Sunday
+2024-06-11,13:46:00,S7,Store C,Printer,1,16.02,Online,TX301715,16.02,2024,6,June,Tuesday
+2024-07-24,19:46:00,S8,Store C,Tablet,7,108.08,Credit Card,TX301716,756.56,2024,7,July,Wednesday
+2023-11-12,20:13:00,S9,Store D,Tablet,9,137.26,Online,TX301717,1235.34,2023,11,November,Sunday
+2024-06-26,13:07:00,S3,Store B,Printer,5,206.39,Credit Card,TX301718,1031.95,2024,6,June,Wednesday
+2025-02-27,14:01:00,S7,Store A,Desk,3,375.7,Debit Card,TX301719,1127.1,2025,2,February,Thursday
+2024-05-29,09:47:00,S7,Store B,Printer,2,257.27,Online,TX301720,514.54,2024,5,May,Wednesday
+2025-02-09,11:08:00,S4,Store C,Printer,7,44.59,Credit Card,TX301721,312.13,2025,2,February,Sunday
+2024-05-27,11:07:00,S6,Store C,Phone,9,309.23,Credit Card,TX301722,2783.07,2024,5,May,Monday
+2023-06-05,18:49:00,S9,Store D,Printer,6,133.94,Debit Card,TX301723,803.64,2023,6,June,Monday
+2023-08-24,18:08:00,S4,Store A,Printer,3,268.52,Online,TX301724,805.56,2023,8,August,Thursday
+2024-01-08,15:45:00,S10,Store D,Chair,6,181.74,Online,TX301725,1090.44,2024,1,January,Monday
+2024-08-06,21:28:00,S8,Store B,Monitor,3,356.32,Gift Card,TX301726,1068.96,2024,8,August,Tuesday
+2023-03-11,11:08:00,S7,Store B,Phone,10,273.17,Credit Card,TX301727,2731.7,2023,3,March,Saturday
+2024-08-01,16:49:00,S3,Store D,Chair,5,386.61,Credit Card,TX301728,1933.05,2024,8,August,Thursday
+2023-11-21,13:02:00,S3,Store C,Monitor,5,69.55,Online,TX301729,347.75,2023,11,November,Tuesday
+2023-04-04,10:30:00,S8,Store D,Chair,4,374.3,Credit Card,TX301730,1497.2,2023,4,April,Tuesday
+2024-12-06,09:33:00,S2,Store B,Phone,2,34.03,Online,TX301731,68.06,2024,12,December,Friday
+2024-01-04,16:37:00,S7,Store D,Phone,8,21.25,Cash,TX301732,170.0,2024,1,January,Thursday
+2023-07-17,10:18:00,S10,Store D,Printer,9,126.15,Credit Card,TX301733,1135.35,2023,7,July,Monday
+2025-03-02,12:39:00,S4,Store C,Laptop,9,204.16,Online,TX301734,1837.44,2025,3,March,Sunday
+2025-02-08,16:54:00,S4,Store D,Laptop,2,260.92,Cash,TX301735,521.84,2025,2,February,Saturday
+2024-08-06,20:00:00,S10,Store B,Desk,2,133.31,Gift Card,TX301736,266.62,2024,8,August,Tuesday
+2023-06-04,11:49:00,S10,Store A,Desk,9,281.94,Debit Card,TX301737,2537.46,2023,6,June,Sunday
+2024-12-11,15:00:00,S10,Store D,Printer,5,280.53,Credit Card,TX301738,1402.65,2024,12,December,Wednesday
+2025-04-21,19:00:00,S2,Store C,Printer,3,200.9,Credit Card,TX301739,602.7,2025,4,April,Monday
+2023-08-21,12:06:00,S6,Store A,Laptop,1,96.6,Cash,TX301740,96.6,2023,8,August,Monday
+2024-04-28,09:00:00,S6,Store B,Desk,8,76.79,Gift Card,TX301741,614.32,2024,4,April,Sunday
+2024-05-06,13:47:00,S8,Store D,Chair,1,156.76,Debit Card,TX301742,156.76,2024,5,May,Monday
+2023-09-15,12:13:00,S5,Store A,Tablet,5,180.96,Cash,TX301743,904.8,2023,9,September,Friday
+2024-05-25,15:37:00,S1,Store D,Desk,7,83.2,Cash,TX301744,582.4,2024,5,May,Saturday
+2023-10-04,17:44:00,S8,Store B,Printer,4,30.7,Debit Card,TX301745,122.8,2023,10,October,Wednesday
+2024-12-22,13:43:00,S6,Store C,Printer,4,17.38,Credit Card,TX301746,69.52,2024,12,December,Sunday
+2025-03-08,10:25:00,S8,Store C,Tablet,10,146.81,Credit Card,TX301747,1468.1,2025,3,March,Saturday
+2025-02-13,09:44:00,S3,Store B,Printer,9,258.06,Credit Card,TX301748,2322.54,2025,2,February,Thursday
+2024-05-06,16:25:00,S9,Store B,Laptop,4,263.54,Gift Card,TX301749,1054.16,2024,5,May,Monday
+2023-04-28,13:17:00,S5,Store D,Desk,1,258.83,Debit Card,TX301750,258.83,2023,4,April,Friday
+2023-07-20,12:56:00,S7,Store D,Tablet,6,320.46,Online,TX301751,1922.76,2023,7,July,Thursday
+2024-09-22,19:38:00,S7,Store D,Desk,9,331.31,Debit Card,TX301752,2981.79,2024,9,September,Sunday
+2023-11-16,20:07:00,S6,Store B,Printer,10,193.2,Cash,TX301753,1932.0,2023,11,November,Thursday
+2024-03-17,17:05:00,S1,Store B,Monitor,3,202.34,Gift Card,TX301754,607.02,2024,3,March,Sunday
+2025-02-11,18:59:00,S4,Store A,Tablet,1,94.87,Credit Card,TX301755,94.87,2025,2,February,Tuesday
+2024-05-10,12:28:00,S6,Store A,Tablet,2,294.98,Online,TX301756,589.96,2024,5,May,Friday
+2025-04-16,15:08:00,S8,Store B,Chair,8,249.03,Cash,TX301757,1992.24,2025,4,April,Wednesday
+2023-09-22,09:55:00,S5,Store A,Chair,6,264.35,Online,TX301758,1586.1,2023,9,September,Friday
+2023-09-16,20:02:00,S1,Store B,Tablet,6,63.86,Gift Card,TX301759,383.16,2023,9,September,Saturday
+2025-06-07,15:47:00,S2,Store A,Desk,9,170.79,Credit Card,TX301760,1537.11,2025,6,June,Saturday
+2024-11-01,10:09:00,S7,Store A,Desk,4,149.36,Credit Card,TX301761,597.44,2024,11,November,Friday
+2024-12-28,09:10:00,S4,Store C,Chair,1,170.62,Credit Card,TX301762,170.62,2024,12,December,Saturday
+2023-11-15,10:11:00,S2,Store D,Tablet,10,99.73,Debit Card,TX301763,997.3,2023,11,November,Wednesday
+2023-06-04,14:46:00,S4,Store C,Printer,6,123.3,Online,TX301764,739.8,2023,6,June,Sunday
+2024-03-01,17:55:00,S9,Store B,Printer,7,154.19,Cash,TX301765,1079.33,2024,3,March,Friday
+2023-06-03,19:10:00,S6,Store B,Monitor,1,310.65,Cash,TX301766,310.65,2023,6,June,Saturday
+2024-08-22,11:13:00,S4,Store C,Phone,9,120.28,Cash,TX301767,1082.52,2024,8,August,Thursday
+2024-10-30,12:59:00,S6,Store D,Desk,3,337.89,Cash,TX301768,1013.67,2024,10,October,Wednesday
+2023-03-21,18:22:00,S3,Store B,Monitor,7,66.76,Cash,TX301769,467.32,2023,3,March,Tuesday
+2025-05-05,13:04:00,S5,Store B,Printer,3,370.92,Cash,TX301770,1112.76,2025,5,May,Monday
+2023-11-26,11:55:00,S8,Store C,Chair,3,203.32,Cash,TX301771,609.96,2023,11,November,Sunday
+2024-02-19,15:40:00,S2,Store D,Laptop,9,136.79,Credit Card,TX301772,1231.11,2024,2,February,Monday
+2024-01-29,18:31:00,S4,Store C,Tablet,5,130.1,Gift Card,TX301773,650.5,2024,1,January,Monday
+2025-03-17,13:52:00,S5,Store A,Printer,10,60.34,Credit Card,TX301774,603.4,2025,3,March,Monday
+2024-07-05,13:48:00,S8,Store A,Laptop,8,13.17,Debit Card,TX301775,105.36,2024,7,July,Friday
+2023-11-29,09:50:00,S6,Store A,Desk,5,160.54,Credit Card,TX301776,802.7,2023,11,November,Wednesday
+2025-06-03,17:33:00,S6,Store B,Monitor,7,255.98,Cash,TX301777,1791.86,2025,6,June,Tuesday
+2024-11-14,16:20:00,S6,Store C,Laptop,7,161.95,Cash,TX301778,1133.65,2024,11,November,Thursday
+2025-04-09,11:25:00,S4,Store C,Tablet,3,288.88,Debit Card,TX301779,866.64,2025,4,April,Wednesday
+2025-01-11,18:00:00,S10,Store C,Desk,6,151.75,Online,TX301780,910.5,2025,1,January,Saturday
+2024-07-10,20:38:00,S1,Store A,Monitor,4,205.78,Online,TX301781,823.12,2024,7,July,Wednesday
+2023-09-15,18:51:00,S9,Store C,Laptop,2,12.5,Cash,TX301782,25.0,2023,9,September,Friday
+2025-04-03,16:14:00,S8,Store D,Phone,7,19.1,Credit Card,TX301783,133.7,2025,4,April,Thursday
+2023-08-22,09:09:00,S9,Store C,Laptop,7,342.43,Debit Card,TX301784,2397.01,2023,8,August,Tuesday
+2025-04-22,14:09:00,S3,Store D,Monitor,6,84.35,Cash,TX301785,506.1,2025,4,April,Tuesday
+2025-06-04,12:09:00,S10,Store D,Desk,9,120.3,Online,TX301786,1082.7,2025,6,June,Wednesday
+2023-07-04,14:36:00,S7,Store A,Chair,7,150.54,Credit Card,TX301787,1053.78,2023,7,July,Tuesday
+2024-04-09,21:09:00,S1,Store A,Printer,9,154.54,Online,TX301788,1390.86,2024,4,April,Tuesday
+2023-01-23,21:09:00,S1,Store B,Desk,4,169.72,Cash,TX301789,678.88,2023,1,January,Monday
+2025-04-28,18:58:00,S10,Store D,Printer,5,135.86,Credit Card,TX301790,679.3,2025,4,April,Monday
+2025-03-28,09:32:00,S1,Store C,Chair,9,141.4,Credit Card,TX301791,1272.6,2025,3,March,Friday
+2025-03-18,21:22:00,S6,Store D,Desk,3,177.64,Gift Card,TX301792,532.92,2025,3,March,Tuesday
+2023-06-21,21:12:00,S2,Store C,Tablet,9,120.79,Online,TX301793,1087.11,2023,6,June,Wednesday
+2023-07-09,16:25:00,S5,Store B,Phone,1,154.19,Gift Card,TX301794,154.19,2023,7,July,Sunday
+2023-10-03,18:50:00,S3,Store A,Desk,9,195.15,Gift Card,TX301795,1756.35,2023,10,October,Tuesday
+2023-09-06,19:22:00,S9,Store B,Laptop,8,212.14,Debit Card,TX301796,1697.12,2023,9,September,Wednesday
+2024-02-24,19:28:00,S4,Store A,Tablet,10,81.29,Debit Card,TX301797,812.9,2024,2,February,Saturday
+2023-01-08,11:38:00,S8,Store B,Printer,3,64.42,Debit Card,TX301798,193.26,2023,1,January,Sunday
+2023-01-19,14:03:00,S2,Store C,Laptop,4,230.15,Gift Card,TX301799,920.6,2023,1,January,Thursday
+2024-07-31,20:55:00,S7,Store A,Phone,7,143.31,Online,TX301800,1003.17,2024,7,July,Wednesday
+2024-12-27,10:55:00,S8,Store A,Phone,3,95.88,Debit Card,TX301801,287.64,2024,12,December,Friday
+2025-05-12,17:45:00,S10,Store C,Tablet,7,6.09,Gift Card,TX301802,42.63,2025,5,May,Monday
+2024-10-26,16:59:00,S10,Store C,Printer,5,55.87,Debit Card,TX301803,279.35,2024,10,October,Saturday
+2023-03-31,20:56:00,S10,Store C,Tablet,9,317.69,Credit Card,TX301804,2859.21,2023,3,March,Friday
+2023-10-14,14:37:00,S7,Store D,Laptop,3,22.13,Credit Card,TX301805,66.39,2023,10,October,Saturday
+2024-02-05,21:26:00,S7,Store B,Laptop,2,162.37,Gift Card,TX301806,324.74,2024,2,February,Monday
+2023-09-02,14:32:00,S10,Store A,Laptop,5,327.6,Gift Card,TX301807,1638.0,2023,9,September,Saturday
+2023-07-29,16:53:00,S4,Store C,Printer,9,52.04,Gift Card,TX301808,468.36,2023,7,July,Saturday
+2024-02-05,10:10:00,S3,Store C,Desk,4,167.94,Credit Card,TX301809,671.76,2024,2,February,Monday
+2025-03-04,16:45:00,S7,Store A,Tablet,3,48.51,Debit Card,TX301810,145.53,2025,3,March,Tuesday
+2024-06-09,12:10:00,S4,Store B,Chair,7,250.94,Debit Card,TX301811,1756.58,2024,6,June,Sunday
+2023-03-29,11:33:00,S8,Store C,Chair,10,72.6,Cash,TX301812,726.0,2023,3,March,Wednesday
+2025-03-14,16:20:00,S3,Store B,Printer,2,229.46,Cash,TX301813,458.92,2025,3,March,Friday
+2024-01-26,20:52:00,S2,Store A,Desk,7,89.98,Debit Card,TX301814,629.86,2024,1,January,Friday
+2024-05-11,11:02:00,S1,Store B,Printer,10,299.33,Credit Card,TX301815,2993.3,2024,5,May,Saturday
+2025-03-23,12:33:00,S4,Store A,Monitor,3,269.05,Cash,TX301816,807.15,2025,3,March,Sunday
+2025-02-27,10:29:00,S8,Store A,Desk,5,254.98,Gift Card,TX301817,1274.9,2025,2,February,Thursday
+2023-12-05,15:12:00,S7,Store A,Phone,6,196.33,Credit Card,TX301818,1177.98,2023,12,December,Tuesday
+2024-07-31,18:02:00,S6,Store D,Desk,8,265.63,Online,TX301819,2125.04,2024,7,July,Wednesday
+2024-07-06,14:49:00,S10,Store A,Desk,9,220.84,Online,TX301820,1987.56,2024,7,July,Saturday
+2023-10-01,13:04:00,S7,Store C,Monitor,3,190.25,Online,TX301821,570.75,2023,10,October,Sunday
+2024-10-19,16:34:00,S5,Store D,Tablet,7,45.06,Debit Card,TX301822,315.42,2024,10,October,Saturday
+2024-04-18,19:36:00,S9,Store A,Desk,8,243.8,Gift Card,TX301823,1950.4,2024,4,April,Thursday
+2024-10-31,19:02:00,S8,Store A,Desk,8,99.9,Online,TX301824,799.2,2024,10,October,Thursday
+2023-01-13,19:45:00,S10,Store A,Printer,5,106.33,Debit Card,TX301825,531.65,2023,1,January,Friday
+2025-04-29,16:22:00,S4,Store D,Chair,5,95.82,Cash,TX301826,479.1,2025,4,April,Tuesday
+2024-07-28,10:45:00,S10,Store B,Laptop,6,165.69,Credit Card,TX301827,994.14,2024,7,July,Sunday
+2024-01-08,11:34:00,S4,Store D,Laptop,9,244.46,Cash,TX301828,2200.14,2024,1,January,Monday
+2023-09-29,12:12:00,S4,Store B,Laptop,4,265.38,Online,TX301829,1061.52,2023,9,September,Friday
+2024-01-28,09:52:00,S3,Store A,Tablet,2,94.02,Debit Card,TX301830,188.04,2024,1,January,Sunday
+2023-04-20,19:32:00,S6,Store B,Phone,4,188.71,Online,TX301831,754.84,2023,4,April,Thursday
+2023-09-26,09:18:00,S10,Store D,Tablet,8,161.61,Gift Card,TX301832,1292.88,2023,9,September,Tuesday
+2024-12-05,18:10:00,S10,Store B,Phone,7,52.07,Gift Card,TX301833,364.49,2024,12,December,Thursday
+2024-12-11,13:06:00,S7,Store A,Monitor,7,324.85,Debit Card,TX301834,2273.95,2024,12,December,Wednesday
+2024-12-07,16:03:00,S2,Store C,Chair,9,269.56,Online,TX301835,2426.04,2024,12,December,Saturday
+2023-08-13,09:01:00,S1,Store A,Printer,10,332.92,Online,TX301836,3329.2,2023,8,August,Sunday
+2023-11-15,09:45:00,S5,Store B,Laptop,9,79.4,Cash,TX301837,714.6,2023,11,November,Wednesday
+2024-11-10,19:55:00,S5,Store B,Laptop,1,231.81,Credit Card,TX301838,231.81,2024,11,November,Sunday
+2025-06-30,12:06:00,S5,Store A,Desk,10,155.46,Cash,TX301839,1554.6,2025,6,June,Monday
+2024-12-01,15:32:00,S6,Store B,Monitor,10,388.8,Cash,TX301840,3888.0,2024,12,December,Sunday
+2024-10-17,20:33:00,S10,Store C,Monitor,9,278.23,Gift Card,TX301841,2504.07,2024,10,October,Thursday
+2023-01-04,14:58:00,S5,Store A,Tablet,10,147.92,Online,TX301842,1479.2,2023,1,January,Wednesday
+2024-06-27,09:31:00,S9,Store B,Printer,1,87.51,Online,TX301843,87.51,2024,6,June,Thursday
+2023-05-02,09:39:00,S7,Store A,Printer,3,391.06,Cash,TX301844,1173.18,2023,5,May,Tuesday
+2025-06-30,09:31:00,S6,Store D,Phone,4,355.18,Online,TX301845,1420.72,2025,6,June,Monday
+2023-09-09,20:04:00,S2,Store A,Printer,1,36.88,Gift Card,TX301846,36.88,2023,9,September,Saturday
+2024-08-12,15:40:00,S10,Store A,Tablet,10,10.16,Cash,TX301847,101.6,2024,8,August,Monday
+2025-04-08,16:12:00,S7,Store C,Phone,8,104.62,Gift Card,TX301848,836.96,2025,4,April,Tuesday
+2025-04-26,12:15:00,S7,Store B,Tablet,8,27.83,Debit Card,TX301849,222.64,2025,4,April,Saturday
+2024-01-15,14:05:00,S3,Store C,Printer,10,55.93,Gift Card,TX301850,559.3,2024,1,January,Monday
+2025-03-03,21:53:00,S2,Store C,Printer,4,5.65,Gift Card,TX301851,22.6,2025,3,March,Monday
+2023-12-20,19:53:00,S1,Store D,Printer,5,216.17,Cash,TX301852,1080.85,2023,12,December,Wednesday
+2024-07-10,14:37:00,S7,Store B,Laptop,9,80.04,Gift Card,TX301853,720.36,2024,7,July,Wednesday
+2024-05-21,14:59:00,S5,Store D,Printer,2,143.64,Gift Card,TX301854,287.28,2024,5,May,Tuesday
+2023-07-06,15:35:00,S3,Store A,Laptop,7,51.16,Cash,TX301855,358.12,2023,7,July,Thursday
+2025-05-20,11:02:00,S1,Store D,Monitor,5,34.4,Debit Card,TX301856,172.0,2025,5,May,Tuesday
+2024-09-27,11:19:00,S1,Store C,Desk,7,18.22,Credit Card,TX301857,127.54,2024,9,September,Friday
+2024-08-19,16:22:00,S5,Store D,Chair,6,79.19,Debit Card,TX301858,475.14,2024,8,August,Monday
+2023-08-15,09:00:00,S4,Store C,Tablet,5,190.38,Debit Card,TX301859,951.9,2023,8,August,Tuesday
+2023-09-15,09:13:00,S10,Store D,Monitor,5,229.61,Online,TX301860,1148.05,2023,9,September,Friday
+2023-10-03,21:56:00,S10,Store C,Monitor,4,324.27,Debit Card,TX301861,1297.08,2023,10,October,Tuesday
+2025-05-22,18:02:00,S9,Store A,Desk,4,198.93,Debit Card,TX301862,795.72,2025,5,May,Thursday
+2023-01-22,15:24:00,S7,Store C,Tablet,5,259.34,Cash,TX301863,1296.7,2023,1,January,Sunday
+2024-07-17,14:28:00,S8,Store A,Tablet,4,313.06,Online,TX301864,1252.24,2024,7,July,Wednesday
+2023-11-20,16:12:00,S9,Store D,Monitor,7,171.93,Credit Card,TX301865,1203.51,2023,11,November,Monday
+2024-03-12,11:42:00,S3,Store D,Printer,5,282.97,Cash,TX301866,1414.85,2024,3,March,Tuesday
+2024-06-27,15:12:00,S6,Store A,Monitor,3,311.18,Online,TX301867,933.54,2024,6,June,Thursday
+2023-03-14,16:27:00,S2,Store A,Laptop,1,244.7,Credit Card,TX301868,244.7,2023,3,March,Tuesday
+2024-12-13,10:55:00,S2,Store C,Tablet,2,177.27,Gift Card,TX301869,354.54,2024,12,December,Friday
+2024-10-11,16:51:00,S9,Store C,Chair,2,308.35,Cash,TX301870,616.7,2024,10,October,Friday
+2023-01-10,21:31:00,S5,Store C,Tablet,1,195.84,Gift Card,TX301871,195.84,2023,1,January,Tuesday
+2023-10-08,15:24:00,S9,Store A,Phone,7,127.06,Online,TX301872,889.42,2023,10,October,Sunday
+2023-01-24,21:42:00,S4,Store A,Desk,3,82.39,Gift Card,TX301873,247.17,2023,1,January,Tuesday
+2025-01-02,14:17:00,S4,Store D,Laptop,8,140.23,Cash,TX301874,1121.84,2025,1,January,Thursday
+2024-04-01,09:58:00,S5,Store C,Printer,1,377.2,Credit Card,TX301875,377.2,2024,4,April,Monday
+2024-10-22,13:25:00,S4,Store A,Monitor,3,138.21,Gift Card,TX301876,414.63,2024,10,October,Tuesday
+2023-10-27,11:16:00,S5,Store B,Laptop,3,110.85,Credit Card,TX301877,332.55,2023,10,October,Friday
+2023-09-03,20:54:00,S10,Store C,Chair,7,310.06,Debit Card,TX301878,2170.42,2023,9,September,Sunday
+2023-11-28,11:38:00,S7,Store B,Chair,10,385.52,Debit Card,TX301879,3855.2,2023,11,November,Tuesday
+2023-09-18,09:19:00,S2,Store A,Tablet,4,87.37,Credit Card,TX301880,349.48,2023,9,September,Monday
+2023-07-17,16:38:00,S8,Store A,Printer,5,203.42,Gift Card,TX301881,1017.1,2023,7,July,Monday
+2023-08-14,11:19:00,S3,Store B,Desk,2,55.16,Credit Card,TX301882,110.32,2023,8,August,Monday
+2025-05-03,11:19:00,S8,Store B,Chair,10,299.41,Debit Card,TX301883,2994.1,2025,5,May,Saturday
+2023-08-25,09:16:00,S1,Store B,Tablet,4,267.66,Debit Card,TX301884,1070.64,2023,8,August,Friday
+2024-04-19,16:39:00,S6,Store B,Desk,6,62.24,Gift Card,TX301885,373.44,2024,4,April,Friday
+2024-03-17,13:44:00,S9,Store D,Phone,9,244.93,Debit Card,TX301886,2204.37,2024,3,March,Sunday
+2024-07-31,09:23:00,S2,Store D,Desk,2,212.62,Debit Card,TX301887,425.24,2024,7,July,Wednesday
+2023-11-03,17:05:00,S5,Store C,Desk,7,52.85,Cash,TX301888,369.95,2023,11,November,Friday
+2024-12-02,14:13:00,S3,Store C,Chair,1,326.15,Cash,TX301889,326.15,2024,12,December,Monday
+2025-03-25,16:01:00,S4,Store C,Phone,7,175.73,Credit Card,TX301890,1230.11,2025,3,March,Tuesday
+2024-03-18,09:07:00,S4,Store B,Tablet,4,371.37,Gift Card,TX301891,1485.48,2024,3,March,Monday
+2025-01-08,10:28:00,S8,Store C,Printer,10,23.95,Cash,TX301892,239.5,2025,1,January,Wednesday
+2023-12-21,14:48:00,S1,Store D,Phone,5,262.3,Debit Card,TX301893,1311.5,2023,12,December,Thursday
+2024-12-26,20:12:00,S10,Store A,Printer,1,296.1,Gift Card,TX301894,296.1,2024,12,December,Thursday
+2024-01-13,13:53:00,S6,Store D,Monitor,2,81.7,Credit Card,TX301895,163.4,2024,1,January,Saturday
+2025-02-22,11:24:00,S4,Store A,Monitor,1,118.11,Online,TX301896,118.11,2025,2,February,Saturday
+2025-03-31,16:13:00,S8,Store B,Chair,4,334.63,Debit Card,TX301897,1338.52,2025,3,March,Monday
+2025-04-07,17:20:00,S3,Store A,Phone,1,375.0,Cash,TX301898,375.0,2025,4,April,Monday
+2024-10-16,09:38:00,S2,Store B,Printer,4,222.46,Online,TX301899,889.84,2024,10,October,Wednesday
+2024-07-24,11:41:00,S7,Store D,Phone,10,46.15,Gift Card,TX301900,461.5,2024,7,July,Wednesday
+2024-12-09,15:07:00,S6,Store A,Printer,1,257.81,Gift Card,TX301901,257.81,2024,12,December,Monday
+2023-07-28,11:11:00,S2,Store C,Desk,7,245.36,Debit Card,TX301902,1717.52,2023,7,July,Friday
+2023-05-07,20:12:00,S3,Store B,Phone,6,137.7,Cash,TX301903,826.2,2023,5,May,Sunday
+2025-03-06,16:59:00,S10,Store A,Tablet,8,53.07,Gift Card,TX301904,424.56,2025,3,March,Thursday
+2024-10-28,14:18:00,S3,Store B,Phone,7,36.76,Gift Card,TX301905,257.32,2024,10,October,Monday
+2024-03-02,14:47:00,S6,Store C,Phone,9,253.94,Online,TX301906,2285.46,2024,3,March,Saturday
+2024-01-18,17:03:00,S5,Store D,Tablet,6,238.52,Cash,TX301907,1431.12,2024,1,January,Thursday
+2024-05-17,17:18:00,S8,Store A,Monitor,4,35.88,Cash,TX301908,143.52,2024,5,May,Friday
+2025-05-13,11:57:00,S10,Store C,Laptop,9,378.07,Credit Card,TX301909,3402.63,2025,5,May,Tuesday
+2024-05-23,21:11:00,S8,Store C,Chair,8,250.75,Cash,TX301910,2006.0,2024,5,May,Thursday
+2024-11-03,10:49:00,S6,Store C,Monitor,9,378.47,Online,TX301911,3406.23,2024,11,November,Sunday
+2023-06-24,09:52:00,S10,Store A,Printer,9,260.78,Online,TX301912,2347.02,2023,6,June,Saturday
+2024-11-04,17:57:00,S8,Store A,Monitor,5,361.01,Debit Card,TX301913,1805.05,2024,11,November,Monday
+2024-02-05,11:44:00,S6,Store C,Monitor,2,60.41,Debit Card,TX301914,120.82,2024,2,February,Monday
+2023-10-03,20:46:00,S7,Store B,Phone,3,139.66,Credit Card,TX301915,418.98,2023,10,October,Tuesday
+2023-12-28,10:29:00,S8,Store B,Phone,1,122.07,Online,TX301916,122.07,2023,12,December,Thursday
+2023-11-29,19:42:00,S7,Store A,Desk,4,37.25,Credit Card,TX301917,149.0,2023,11,November,Wednesday
+2024-09-29,14:28:00,S7,Store A,Printer,2,273.83,Gift Card,TX301918,547.66,2024,9,September,Sunday
+2023-02-15,21:42:00,S3,Store B,Monitor,5,166.06,Cash,TX301919,830.3,2023,2,February,Wednesday
+2023-01-27,21:44:00,S3,Store D,Printer,5,196.29,Credit Card,TX301920,981.45,2023,1,January,Friday
+2023-09-20,13:40:00,S4,Store D,Monitor,7,344.28,Gift Card,TX301921,2409.96,2023,9,September,Wednesday
+2023-09-28,17:33:00,S8,Store D,Chair,5,296.54,Debit Card,TX301922,1482.7,2023,9,September,Thursday
+2024-09-14,15:44:00,S2,Store C,Desk,2,360.73,Online,TX301923,721.46,2024,9,September,Saturday
+2023-08-19,14:12:00,S2,Store A,Printer,7,24.06,Cash,TX301924,168.42,2023,8,August,Saturday
+2024-08-15,20:37:00,S2,Store D,Desk,2,226.52,Cash,TX301925,453.04,2024,8,August,Thursday
+2023-01-09,15:56:00,S4,Store B,Laptop,2,327.63,Credit Card,TX301926,655.26,2023,1,January,Monday
+2024-03-31,09:09:00,S1,Store A,Chair,5,107.91,Cash,TX301927,539.55,2024,3,March,Sunday
+2025-06-03,12:16:00,S3,Store D,Phone,10,385.61,Cash,TX301928,3856.1,2025,6,June,Tuesday
+2024-09-02,09:07:00,S10,Store A,Printer,1,237.23,Credit Card,TX301929,237.23,2024,9,September,Monday
+2023-06-30,19:44:00,S3,Store A,Monitor,8,52.89,Gift Card,TX301930,423.12,2023,6,June,Friday
+2024-11-29,10:19:00,S3,Store D,Tablet,5,361.66,Cash,TX301931,1808.3,2024,11,November,Friday
+2023-03-04,11:59:00,S2,Store A,Phone,9,358.27,Credit Card,TX301932,3224.43,2023,3,March,Saturday
+2024-11-10,20:17:00,S1,Store A,Laptop,4,293.22,Debit Card,TX301933,1172.88,2024,11,November,Sunday
+2024-12-11,17:59:00,S2,Store C,Monitor,6,303.98,Gift Card,TX301934,1823.88,2024,12,December,Wednesday
+2023-11-21,19:55:00,S2,Store A,Desk,9,162.68,Gift Card,TX301935,1464.12,2023,11,November,Tuesday
+2023-08-18,10:31:00,S2,Store D,Tablet,10,8.0,Debit Card,TX301936,80.0,2023,8,August,Friday
+2024-05-31,13:24:00,S9,Store D,Chair,7,340.66,Debit Card,TX301937,2384.62,2024,5,May,Friday
+2024-05-30,18:31:00,S8,Store D,Desk,6,270.98,Debit Card,TX301938,1625.88,2024,5,May,Thursday
+2025-06-25,13:22:00,S6,Store D,Chair,2,349.95,Credit Card,TX301939,699.9,2025,6,June,Wednesday
+2024-11-15,20:24:00,S10,Store C,Monitor,7,138.6,Gift Card,TX301940,970.2,2024,11,November,Friday
+2025-05-12,18:47:00,S8,Store D,Tablet,9,44.39,Cash,TX301941,399.51,2025,5,May,Monday
+2023-01-15,21:03:00,S9,Store B,Desk,3,302.75,Debit Card,TX301942,908.25,2023,1,January,Sunday
+2024-02-03,16:07:00,S5,Store C,Printer,6,28.69,Cash,TX301943,172.14,2024,2,February,Saturday
+2024-01-07,09:40:00,S7,Store A,Printer,3,373.68,Online,TX301944,1121.04,2024,1,January,Sunday
+2025-01-12,09:49:00,S7,Store A,Tablet,7,230.84,Debit Card,TX301945,1615.88,2025,1,January,Sunday
+2023-09-10,14:44:00,S1,Store D,Laptop,9,34.02,Gift Card,TX301946,306.18,2023,9,September,Sunday
+2024-06-12,13:07:00,S6,Store D,Phone,1,398.76,Online,TX301947,398.76,2024,6,June,Wednesday
+2024-05-11,09:07:00,S8,Store B,Desk,9,261.52,Cash,TX301948,2353.68,2024,5,May,Saturday
+2024-07-11,17:58:00,S2,Store C,Tablet,1,308.67,Gift Card,TX301949,308.67,2024,7,July,Thursday
+2023-08-27,18:57:00,S8,Store A,Desk,3,223.33,Online,TX301950,669.99,2023,8,August,Sunday
+2025-04-24,15:06:00,S2,Store C,Phone,5,159.9,Credit Card,TX301951,799.5,2025,4,April,Thursday
+2024-02-18,13:30:00,S2,Store D,Desk,7,169.3,Gift Card,TX301952,1185.1,2024,2,February,Sunday
+2023-06-01,18:08:00,S10,Store B,Desk,6,47.97,Debit Card,TX301953,287.82,2023,6,June,Thursday
+2024-10-17,17:54:00,S3,Store C,Laptop,10,391.42,Debit Card,TX301954,3914.2,2024,10,October,Thursday
+2025-06-28,18:02:00,S1,Store B,Chair,4,32.51,Online,TX301955,130.04,2025,6,June,Saturday
+2025-02-10,10:21:00,S2,Store B,Monitor,2,56.04,Online,TX301956,112.08,2025,2,February,Monday
+2023-11-09,10:06:00,S9,Store D,Printer,10,295.53,Credit Card,TX301957,2955.3,2023,11,November,Thursday
+2025-06-13,15:16:00,S8,Store D,Tablet,1,305.05,Credit Card,TX301958,305.05,2025,6,June,Friday
+2025-03-09,13:50:00,S3,Store C,Laptop,10,71.44,Credit Card,TX301959,714.4,2025,3,March,Sunday
+2023-01-23,17:23:00,S5,Store C,Chair,10,24.92,Online,TX301960,249.2,2023,1,January,Monday
+2023-05-18,13:40:00,S2,Store C,Tablet,3,120.0,Online,TX301961,360.0,2023,5,May,Thursday
+2024-06-08,10:22:00,S7,Store A,Desk,4,79.55,Credit Card,TX301962,318.2,2024,6,June,Saturday
+2023-11-27,14:57:00,S8,Store D,Chair,9,7.52,Gift Card,TX301963,67.68,2023,11,November,Monday
+2024-05-30,10:35:00,S8,Store D,Chair,1,12.42,Cash,TX301964,12.42,2024,5,May,Thursday
+2023-10-17,12:45:00,S5,Store D,Monitor,7,163.51,Credit Card,TX301965,1144.57,2023,10,October,Tuesday
+2023-02-18,12:49:00,S3,Store D,Desk,8,51.48,Credit Card,TX301966,411.84,2023,2,February,Saturday
+2025-06-11,20:11:00,S7,Store C,Desk,2,366.76,Credit Card,TX301967,733.52,2025,6,June,Wednesday
+2024-04-20,13:45:00,S9,Store B,Phone,3,121.11,Cash,TX301968,363.33,2024,4,April,Saturday
+2025-02-10,09:46:00,S10,Store A,Laptop,7,85.91,Online,TX301969,601.37,2025,2,February,Monday
+2023-05-03,19:43:00,S6,Store B,Tablet,5,50.09,Gift Card,TX301970,250.45,2023,5,May,Wednesday
+2024-03-19,14:27:00,S8,Store C,Printer,2,161.52,Debit Card,TX301971,323.04,2024,3,March,Tuesday
+2023-10-07,10:33:00,S6,Store C,Monitor,4,34.8,Cash,TX301972,139.2,2023,10,October,Saturday
+2025-03-20,21:24:00,S1,Store D,Tablet,3,185.38,Credit Card,TX301973,556.14,2025,3,March,Thursday
+2023-08-05,18:45:00,S7,Store D,Chair,6,223.02,Credit Card,TX301974,1338.12,2023,8,August,Saturday
+2023-07-18,16:44:00,S5,Store D,Phone,10,48.01,Online,TX301975,480.1,2023,7,July,Tuesday
+2024-01-13,15:59:00,S3,Store C,Printer,9,166.29,Cash,TX301976,1496.61,2024,1,January,Saturday
+2025-05-01,21:03:00,S6,Store D,Tablet,6,270.73,Credit Card,TX301977,1624.38,2025,5,May,Thursday
+2025-06-02,20:43:00,S4,Store B,Printer,2,104.12,Gift Card,TX301978,208.24,2025,6,June,Monday
+2024-03-01,16:15:00,S5,Store B,Laptop,2,316.44,Debit Card,TX301979,632.88,2024,3,March,Friday
+2023-10-13,19:29:00,S7,Store D,Laptop,5,363.11,Online,TX301980,1815.55,2023,10,October,Friday
+2024-02-24,20:13:00,S6,Store C,Tablet,2,277.01,Gift Card,TX301981,554.02,2024,2,February,Saturday
+2024-05-19,21:45:00,S4,Store D,Laptop,10,193.77,Credit Card,TX301982,1937.7,2024,5,May,Sunday
+2025-02-09,19:24:00,S2,Store B,Printer,4,162.22,Debit Card,TX301983,648.88,2025,2,February,Sunday
+2024-11-06,10:14:00,S3,Store A,Laptop,3,204.61,Online,TX301984,613.83,2024,11,November,Wednesday
+2024-06-25,15:07:00,S4,Store A,Chair,10,122.7,Online,TX301985,1227.0,2024,6,June,Tuesday
+2024-02-04,09:36:00,S10,Store D,Phone,3,145.46,Gift Card,TX301986,436.38,2024,2,February,Sunday
+2023-05-15,13:34:00,S2,Store C,Laptop,8,130.89,Online,TX301987,1047.12,2023,5,May,Monday
+2024-08-31,16:42:00,S2,Store A,Monitor,4,142.82,Gift Card,TX301988,571.28,2024,8,August,Saturday
+2023-05-17,11:21:00,S4,Store B,Laptop,1,194.34,Gift Card,TX301989,194.34,2023,5,May,Wednesday
+2024-05-09,09:29:00,S1,Store A,Laptop,2,376.62,Credit Card,TX301990,753.24,2024,5,May,Thursday
+2024-05-20,18:02:00,S9,Store D,Monitor,2,24.08,Gift Card,TX301991,48.16,2024,5,May,Monday
+2024-06-03,12:24:00,S10,Store D,Tablet,9,332.9,Online,TX301992,2996.1,2024,6,June,Monday
+2023-10-27,12:14:00,S4,Store A,Desk,2,371.73,Debit Card,TX301993,743.46,2023,10,October,Friday
+2023-05-28,14:46:00,S1,Store D,Tablet,1,305.52,Gift Card,TX301994,305.52,2023,5,May,Sunday
+2024-06-05,21:37:00,S5,Store B,Phone,9,138.02,Gift Card,TX301995,1242.18,2024,6,June,Wednesday
+2025-02-26,09:10:00,S1,Store A,Desk,7,242.35,Cash,TX301996,1696.45,2025,2,February,Wednesday
+2024-05-19,21:11:00,S9,Store A,Phone,1,297.65,Online,TX301997,297.65,2024,5,May,Sunday
+2023-06-13,13:25:00,S1,Store A,Desk,1,343.54,Debit Card,TX301998,343.54,2023,6,June,Tuesday
+2025-04-17,11:39:00,S3,Store C,Chair,1,152.49,Gift Card,TX301999,152.49,2025,4,April,Thursday
